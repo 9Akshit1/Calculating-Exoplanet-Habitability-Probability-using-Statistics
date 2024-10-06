@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-3 b,CoRoT-3,2008,4.2568,0.05783,11.32,6883.91,0.0,1000535.544,1326.7012,85.9,26.164008267365638,527.5129446305212,0.4,0.6,F3,6740.0,1.56,1.37,0.14,4.22,1.4083533,2.4392727,768.771,13.448,10.518205027435348,7.9061404

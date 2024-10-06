@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Proxima Cen b,Proxima Cen,2016,11.1868,0.048569712,1.03,1.07,0.02,922.7168063999999,231.1796,nan,5.398591643009032,9.903760274401995,0.3,0.7,M5,2900.0,0.14,0.12,nan,5.16,0.041696016,0.083322159,1.30119,11.01,69.02367987030001,86.41422899999999

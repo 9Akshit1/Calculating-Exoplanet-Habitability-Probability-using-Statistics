@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-34 b,Kepler-34,2011,288.822,1.107646,8.564,69.92,0.182,1735.079296,269.03516,90.355,0.6137334842055624,9.361358853645141,0.4,0.6,G1,5913.0,1.16,1.05,-0.07,4.33,1.1506111,2.0221449,1800.82,15.087,50.212491307111414,43.423457

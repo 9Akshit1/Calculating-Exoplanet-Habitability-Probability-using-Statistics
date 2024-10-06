@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 89345 b,HD 89345,2018,11.8143,0.10917972,7.398,34.9613,0.22,326435.428,993.43648,87.21,0.4760504353122985,6.27263057036613,0.4,0.6,G5,5576.0,1.75,1.16,0.421,4.02,1.569196,2.7831176,132.345,9.38,18.28543675216009,11.572472000000001

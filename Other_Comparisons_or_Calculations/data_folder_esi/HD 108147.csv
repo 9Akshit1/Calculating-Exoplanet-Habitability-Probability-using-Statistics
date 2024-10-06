@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 108147 b,HD 108147,2002,10.8985,0.1163259,10.9,82.95,0.53,309701.9336,931.68937,nan,0.35313866513102415,6.855737582039252,0.4,0.6,F8,6255.73,1.21,1.22,0.18,4.36,1.3087609,2.2832937,38.92,6.99,13.461819179894707,8.4931679

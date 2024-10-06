@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-21 b,HAT-P-21,2010,4.12448,0.05070663,12.442,1547.8321,0.23,606578.6048000001,1158.8566,87.2,4.430590710569261,98.18253618423174,0.3,0.7,G3,5588.0,1.21,1.24,0.01,4.33,0.98940359,1.7541703,277.278,11.459,25.013940422110036,7.3815729

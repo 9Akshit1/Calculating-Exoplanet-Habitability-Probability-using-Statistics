@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-391 c,Kepler-391,2014,20.485435,0.161,3.54,12.3,0.0,220235.40800000002,908.73399,84.53,1.528634650803804,9.638054518468216,0.45,0.55,K2,4940.0,3.57,1.03,-0.07,3.46,2.0384089,3.6978154,869.236,13.177,20.35180385629472,19.731401

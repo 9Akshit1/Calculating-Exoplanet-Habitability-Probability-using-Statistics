@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 98649 b,HD 98649,2012,5697.3043,8.5238742,12.6,2665.309,0.841,61.38271056,95.108749,78.838,7.345888040693432,164.8531563545772,0.25,0.75,G3,5759.0,1.01,1.02,0.02,4.38,0.93642758,1.6522145,42.1727,8.0,21.68201174607107,11.619356999999999

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-69c,Kepler-69,1,2,-,242.4613,0.64,1.71,2.14,0.14,8160.0,325.0,nan,nan,2.3595751660441246,7.186415837429005,0.45,0.55,G5,5638.0,0.93,0.81,−0.29,[Fe/H],4.4,1.4061850775730529,2.0258201784770073,746.0,13.7,14.770842044428557

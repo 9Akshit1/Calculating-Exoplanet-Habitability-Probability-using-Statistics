@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-156 b,Kepler-156,2014,4.973456,0.054,2.3,5.9,0.0,169336.8096,850.94762,86.75,2.6734796217371297,10.951841019586798,0.45,0.55,K1,5094.0,0.81,0.84,0.254,4.55,0.59507461,1.0729671,443.483,14.339,17.022804187931378,25.047589999999996

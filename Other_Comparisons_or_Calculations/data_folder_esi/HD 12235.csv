@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 12235 b,HD 12235,2022,4.36305,0.057817152,3.23,10.48834,0.376,1891689.5520000001,1512.3817,nan,1.7159615999924733,9.871712620754053,0.45,0.55,G1,5986.0,1.8,1.1,0.31,3.97,1.8196826,3.1924994,31.7627,5.88051,20.417527056177615,20.154705

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 31527 b,HD 31527,2019,16.5535,0.126027,3.22,10.47,0.1,104262.04448,752.36534,nan,1.728969933759187,9.915753673043389,0.45,0.55,G2,5898.0,1.07,0.96,-0.17,4.45,1.0335343,1.8170516,38.4473,7.49,20.44732888637162,21.708732

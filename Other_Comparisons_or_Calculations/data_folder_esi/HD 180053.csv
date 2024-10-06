@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 180053 b,HD 180053,2018,213.72,0.84576546,13.3,697.31902,0.081,24116.438000000002,522.1046,nan,1.6341238281126171,38.70963001855296,0.45,0.55,K0,5131.0,4.06,1.75,0.25,3.54,3.4935219,6.2902613,137.043,7.93,17.07035157071118,12.315659

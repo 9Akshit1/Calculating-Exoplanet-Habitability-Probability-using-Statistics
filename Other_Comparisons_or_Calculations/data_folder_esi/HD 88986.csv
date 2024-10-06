@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 88986 b,HD 88986,2023,146.05,0.596704,2.49,17.2,0.24,10293.552496,417.87626,89.9,6.142409693206297,27.240843045182256,0.25,0.75,G2,5861.0,1.54,1.25,0.06,4.16,1.4869651,2.6166258,33.2673,6.46974,49.69026385691755,37.954039

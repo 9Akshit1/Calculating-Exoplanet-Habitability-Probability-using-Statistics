@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD+20 274 b,BD+20 274,2012,578.2,1.328665,13.0,1334.886,0.21,75066.46616,688.52023,nan,3.3498279037415752,77.5618688589205,0.3,0.7,K5,4296.0,17.3,0.8,-0.46,1.99,9.7371534,18.180954,1322.51,9.367,25.000000059426142,8.764565000000001

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+LP 791-18 c,LP 791-18,2019,4.9899093,0.02961,2.438,7.1,8e-05,3569.94968,324.25039,89.78,2.7012552214832573,11.729560438159766,0.45,0.55,M(,2960.0,0.18,0.14,-0.09,5.12,0.049982554,0.099611707,26.4927,16.91,30.775851337550385,56.647203000000005

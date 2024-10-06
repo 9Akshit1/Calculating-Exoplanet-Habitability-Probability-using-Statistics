@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 290327 b,HD 290327,2009,2443.0,3.440976,13.3,772.3269,0.08,84.01268759999999,126.84654,nan,1.809900137791094,42.87347353923595,0.45,0.55,G8,5505.0,0.95,0.84,-0.14,4.41,0.82216312,1.4613637,56.433,8.99,16.763845983553825,12.803092999999999

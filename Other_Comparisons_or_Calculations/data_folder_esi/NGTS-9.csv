@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGTS-9 b,NGTS-9,2019,4.43527,0.0581044,11.994,921.707,0.06,991895.8176,1322.9332,84.1,2.945161582579587,62.915200939991834,0.4,0.6,F8,6330.0,1.38,1.34,0.31,4.37,1.4385317,2.5063372,609.128,12.868,10.518339626882605,7.5233375

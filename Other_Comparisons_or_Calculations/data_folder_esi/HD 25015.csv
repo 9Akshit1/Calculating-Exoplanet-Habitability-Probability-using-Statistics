@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 25015 b,HD 25015,2019,6134.427,6.6112618,12.5,2884.9284,0.341,15.30734128,81.090511,32.046,8.14354263628997,181.30333975155514,0.25,0.75,K2,5160.0,0.83,0.86,0.04,4.4,0.63258865,1.1377725,37.433,8.87,21.68201174607107,8.3041293

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-277 c,Kepler-277,2013,33.006,0.2129,3.36,64.2,0.0,110965.40016,765.61755,89.33,9.330943729327265,55.840238494436015,0.25,0.75,G1,5946.0,1.69,1.12,0.1,4.03,1.8094872,3.1775764,976.643,13.544,46.68481989448688,21.096755

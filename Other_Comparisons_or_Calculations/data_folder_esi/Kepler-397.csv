@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-397 c,Kepler-397,2014,135.49853,0.48,6.18,31.6,0.0,2483.4557440000003,296.12774,89.58,0.7381251986807087,8.124580079727492,0.4,0.6,G9,5307.0,0.77,0.84,-0.24,4.57,0.63351126,1.1334263,969.0,16.357,26.791322640345946,44.957778

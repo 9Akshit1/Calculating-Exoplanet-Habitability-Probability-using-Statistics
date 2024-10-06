@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+WASP-153 b,WASP-153,1,1,2017,3.332609,0.048,17.374,123.9537,0.009,1904000.0,1700.0,84.1,nan,0.13030720149886602,4.03227972191623,0.4,0.6,G1,5914.0,1.73,1.34,0.34,[Fe/H],4.1,1.784673516404407,2.5710894527237214,610.176,12.591,17.63321333206024

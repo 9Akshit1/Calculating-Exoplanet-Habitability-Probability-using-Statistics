@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-409 b,Kepler-409,1,1,2014,68.9583216,0.3192,1.199,6.0,0.69,8364.0,438.0,86.3,nan,19.19119753226505,40.98299333187424,0.4,0.6,G8,5421.0,0.9,0.91,0.05,[Fe/H],nan,0.8784480098551714,1.2655359045474754,68.173,9.636,17.364979223804564

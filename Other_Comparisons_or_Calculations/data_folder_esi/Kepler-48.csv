@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-48 d,Kepler-48,2014,42.8961,0.232907,2.04,7.93,0.0,12887.652807999999,446.94948,89.99,5.149808260610962,18.711286288982738,0.3,0.7,K0,5194.0,0.89,0.88,0.17,4.49,0.70446431,1.2654596,306.738,13.174,56.50101800825429,37.884591

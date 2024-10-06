@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-615 b,TOI-615,1,1,2023,4.6615983,0.0678,18.977,138.25536,0.39,1748960.0,1666.0,86.73,nan,0.11153410306447585,3.769794299793177,0.4,0.6,F3,6850.0,1.73,1.45,-0.1,[Fe/H],4.2,2.14831558916583,3.0949703134243105,360.408,10.825,12.560924152719098

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 45184 b,HD 45184,2019,5.8854,0.06455778,3.52,12.19,0.07,371393.084,1034.6027,nan,1.5409341841860582,9.66071276795152,0.45,0.55,G1,5869.0,1.08,1.03,0.04,4.47,1.004824,1.7678436,21.9532,6.383,20.37205610959629,19.492547

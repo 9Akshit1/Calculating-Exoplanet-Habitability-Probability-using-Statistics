@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 217786 b,HD 217786,2011,1301.3601,2.5642898,12.3,4402.5591,0.311,451.55956240000006,189.74731,69.767,13.043622908155141,285.7496867526961,0.4,0.6,F8,5966.0,1.27,1.14,-0.135,4.35,1.2912959,2.2665334,55.4847,7.78,11.79045015403882,30.238554

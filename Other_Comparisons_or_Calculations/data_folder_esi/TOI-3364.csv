@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-3364 b,TOI-3364,2023,5.8768918,0.0675,12.229,530.77344,0.0,576675.3191999999,1155.9734,88.79,1.6000911459793254,34.85122787905172,0.45,0.55,G4,5706.0,1.42,1.19,0.387,4.21,1.3269378,2.344617,277.899,11.875,17.624742278060165,7.5040222000000005

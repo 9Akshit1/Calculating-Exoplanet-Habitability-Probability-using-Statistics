@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 45652 b,HD 45652,2008,44.073,0.28066121,14.3,137.62039,0.607,19223.74552,454.50764,nan,0.2594675471933208,6.608478791009951,0.4,0.6,G8,5294.0,0.94,0.92,0.26,4.2,0.77635311,1.3896162,34.8541,8.1,19.529209720186564,13.143075000000001

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HATS-38 b,HATS-38,1,1,2020,4.375021,0.05036,6.882,23.51942,0.0,631992.0,1294.0,87.21,nan,0.39782399771192384,4.876273566995556,0.4,0.6,G3,5732.0,1.1,0.89,-0.102,[Fe/H],4.3,1.3863152660770668,1.9971947395407792,343.525,11.967,17.872740469416406

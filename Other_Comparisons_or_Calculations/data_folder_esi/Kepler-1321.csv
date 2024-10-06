@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1321 d,Kepler-1321,2021,5.7209201,0.0501,2.628,7.41,0.0,74449.7864,692.91641,89.41,2.2508704507346127,10.535575832905648,0.45,0.55,M2,3640.0,0.5,0.51,0.21,4.74,0.38330121,0.73934436,769.146,17.5054,20.871883267665996,24.803949

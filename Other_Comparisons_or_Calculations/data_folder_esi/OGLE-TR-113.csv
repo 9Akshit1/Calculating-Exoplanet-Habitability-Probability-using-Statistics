@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+OGLE-TR-113 b,OGLE-TR-113,2004,1.4324752,0.023147513,12.251,400.449,0.15,776584.9016000001,1239.9735,87.8,1.2007178539895664,26.199615934821146,0.45,0.55,K4,4790.0,0.77,0.78,0.09,4.55,0.54474189,0.99440575,566.459,15.8485,21.516144763766107,7.4274381

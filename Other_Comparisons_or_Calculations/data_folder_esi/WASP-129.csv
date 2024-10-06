@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-129 b,WASP-129,2016,5.748145,0.063089382,10.424,317.83,0.096,448363.372,1083.6003,87.7,1.5470346973353386,28.72214522133651,0.45,0.55,G1,5900.0,0.9,1.0,0.15,4.53,1.0734259,1.8870925,301.462,12.179,19.14549094539999,8.6640909

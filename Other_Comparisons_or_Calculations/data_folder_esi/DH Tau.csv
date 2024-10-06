@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+DH Tau b,DH Tau,2004,nan,330.0,30.264,3496.0,nan,0.007664979992,12.412028,nan,0.695345764493924,37.480860980780136,0.4,0.6,M0,4371.0,0.27,0.33,nan,4.0,0.7969665,1.4827422,134.846,13.98,16.15119366100846,3.1463206

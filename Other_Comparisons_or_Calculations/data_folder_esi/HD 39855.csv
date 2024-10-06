@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 39855 b,HD 39855,2019,3.2498,0.0414018,2.85,8.5,0.14,394702.192,1047.5457,nan,2.0243831798397247,10.275903019875113,0.45,0.55,G8,5576.0,0.74,0.87,nan,4.66,0.66861664,1.1858549,23.2599,7.51,16.17885807420495,21.986832

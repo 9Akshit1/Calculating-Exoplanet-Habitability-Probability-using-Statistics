@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1939 b,Kepler-1939,2021,2.7906599,0.0334,1.165,1.68,0.0,189690.6784,875.44018,87.73,5.857872032869188,12.154811335726068,0.3,0.7,K5,4353.0,0.6,0.65,-0.18,4.68,0.40149866,0.74762194,189.833,13.622,59.0624534717477,30.088024

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1833 b,Kepler-1833,2021,6.8921299,0.0771,1.3,2.24,0.0,625792.2088,1179.8384,88.81,5.621165031606539,13.01523772396908,0.3,0.7,F9,6164.0,1.45,1.29,0.38,4.23,1.5355973,2.6837924,591.602,12.645,49.590352572970104,28.994441

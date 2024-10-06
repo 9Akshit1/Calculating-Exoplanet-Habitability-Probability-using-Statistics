@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+gam Lib b,gam Lib,2018,414.88,1.3358832,13.7,357.87479,0.16,62471.31984,659.97527,nan,0.7673222281375746,18.72322960276139,0.4,0.6,K0,4879.0,12.38,1.78,-0.27,2.5,8.861345,16.115443,47.4017,3.90672,20.456696625968924,8.8135675

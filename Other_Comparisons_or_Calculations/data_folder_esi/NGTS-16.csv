@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGTS-16 b,NGTS-16,2021,4.84532,0.0523,14.572,211.99155,0.0,650931.8632,1191.5132,nan,0.3777195269023093,9.80327117969233,0.4,0.6,G7,5550.0,1.21,1.0,0.35,4.35,1.1023832,1.9567211,898.168,14.529,19.338004349266242,6.4237767

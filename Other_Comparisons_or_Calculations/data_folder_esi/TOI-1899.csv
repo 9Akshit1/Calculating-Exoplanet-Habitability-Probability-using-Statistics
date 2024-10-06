@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1899 b,TOI-1899,2020,29.02,0.15980487,12.89,209.7678,0.118,4769.027816,347.68175,89.77,0.5399933927106358,12.397204919789344,0.4,0.6,M0,3841.0,0.61,0.63,0.31,4.67,0.30522006,0.58284658,128.438,14.88,30.842241496524636,27.815324000000004

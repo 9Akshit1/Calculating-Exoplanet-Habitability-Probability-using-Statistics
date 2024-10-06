@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-38 b,Kepler-38,2012,105.599,0.46343716,4.3,122.0,0.032,19689.02872,496.80691,89.442,8.459853423068026,64.79085494881271,0.25,0.75,G4,5623.0,1.75,0.94,-0.11,3.93,1.6903768,2.9938686,1174.59,14.015,46.68208178272638,24.305333

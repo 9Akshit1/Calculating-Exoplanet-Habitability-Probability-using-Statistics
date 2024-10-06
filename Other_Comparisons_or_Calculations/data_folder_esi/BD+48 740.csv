@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD+48 740 b,BD+48 740,2018,733.0,2.19096,13.5,540.311,0.76,31606.69648,480.66844,nan,1.2107399653734945,29.111666239686272,0.45,0.55,K3,4534.0,10.33,1.09,-0.13,2.48,6.6843205,12.341585,666.589,8.69,19.02595289994802,10.978786

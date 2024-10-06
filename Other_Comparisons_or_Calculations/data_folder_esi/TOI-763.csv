@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-763 b,TOI-763,2020,5.6057,0.060048,2.28,9.79,0.04,265206.4736,951.65742,nan,4.553931831486883,18.492847530253197,0.3,0.7,G8,5450.0,0.9,0.92,0.01,4.45,0.81155318,1.4450281,95.1274,10.265,55.11133708043318,24.76747

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 206255 b,HD 206255,2019,96.045,0.47319345,6.47,34.2,0.23,29507.95672,544.2428,nan,0.6961801537719817,8.022474326216253,0.4,0.6,G5,5635.0,2.22,1.42,nan,3.75,2.0308462,3.5956251,75.2363,7.62,18.814750920931107,17.30362

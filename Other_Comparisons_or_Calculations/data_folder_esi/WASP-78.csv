@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-78 b,WASP-78,2012,2.17518,0.03488,21.633,352.7913,0.0,6477179.792,2116.2232,83.2,0.19212150954979068,7.4024444555276325,0.4,0.6,G0,6100.0,2.46,1.87,-0.35,4.1,2.2437366,3.9265902,754.258,11.965,18.627386203207088,4.3382005

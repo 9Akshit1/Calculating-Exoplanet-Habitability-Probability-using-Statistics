@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-529 d,Kepler-529,2021,35.866199,0.2134,2.795,8.22,0.0,48100.55344,621.23012,85.14,2.0755574333888736,10.332347030347087,0.45,0.55,G0,6078.0,1.19,1.01,-0.16,4.29,1.184555,2.0739692,799.008,13.779,15.549064546253971,25.275242999999996

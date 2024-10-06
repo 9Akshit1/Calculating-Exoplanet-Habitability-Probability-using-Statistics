@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 220689 b,HD 220689,2012,2266.4,3.4009514,13.7,381.39409,0.054,146.2977568,145.80978,71.0,0.8177501492555612,19.953708156437173,0.5,0.5,G3,5921.0,1.07,1.02,-0.07,4.36,1.0488589,1.8429639,46.8778,7.74,15.082030422491863,16.464439

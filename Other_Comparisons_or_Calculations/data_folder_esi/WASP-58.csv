@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-58 b,WASP-58,2012,5.01718,0.0562,16.029,308.2951,0.0,622395.2552,1178.234,87.4,0.41272018540419897,11.78269281964417,0.4,0.6,G2,5800.0,1.22,1.06,-0.45,4.27,1.1413084,2.0115141,290.404,11.652,19.848907584632148,5.9203025

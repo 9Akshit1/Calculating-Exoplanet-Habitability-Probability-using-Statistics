@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 93385 b,HD 93385,2021,7.3426,0.078889545,1.88,4.2,0.295,401112.19840000005,1037.9342,nan,3.484850223167403,11.668751283903076,0.3,0.7,G2,5977.0,1.18,1.04,0.02,4.42,1.1918847,2.0915083,43.3475,7.49,54.30344889162728,26.518935

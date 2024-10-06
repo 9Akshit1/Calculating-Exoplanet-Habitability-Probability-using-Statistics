@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 215152 d,HD 215152,2018,10.86499,0.08799,1.48,2.801,0.0,52683.21488000001,635.5256,nan,4.763611523129199,12.556843144593454,0.3,0.7,K3,4935.0,0.73,0.77,-0.1,4.4,0.54499414,0.98885834,21.5974,8.11,56.87262187020189,31.467749

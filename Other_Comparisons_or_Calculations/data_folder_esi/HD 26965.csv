@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 26965 b,HD 26965,2018,42.378,0.2191032,2.84,8.47,0.04,12980.27112,447.61594,nan,2.0386222725346537,10.311872187803905,0.45,0.55,K0,5072.0,0.87,0.78,-0.42,4.45,0.66841426,1.2062235,5.03545,4.42018,17.444033232133904,33.433257

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-296 e,Kepler-296,1,4,2014.0,59.7357,0.2646,1.16,1.16,0.16,9792.0,188.0,4.0972493598313715,8.465113821393068,0.3,0.7,M3,3481.0,0.485,0.487,-0.44,-0.44,4.17,9.313791004456005,13.41791066899186,63.07,7.39,27.351763407860247

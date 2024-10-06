@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2337 b,TOI-2337,2022,2.99432,0.044597593,10.088,508.52545,0.019,3343114.328,1793.5909,nan,2.7309003090564663,49.067432857479396,0.45,0.55,K3,4780.0,3.22,1.32,0.39,3.5,2.2150082,4.0451476,536.046,12.524,11.611667436195315,8.6173188

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 13808 b,HD 13808,2021,14.1815,0.10545513,3.35,11.2,0.071,45257.17152,611.25928,nan,1.6424493138370828,9.799844844512245,0.45,0.55,K2,5035.0,0.78,0.77,-0.21,4.58,0.60025091,1.0847754,28.2305,8.36,22.10491594517265,23.235505

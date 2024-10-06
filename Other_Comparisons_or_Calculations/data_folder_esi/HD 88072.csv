@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 88072 b,HD 88072,2022,18538.793,14.064074,12.6,2511.7979,0.156,7.658992864000001,69.463323,169.626,6.9227943755297705,155.3582762598253,0.25,0.75,G2,5785.33,1.03,1.04,0.043,4.43,0.98466133,1.7360988,35.9098,7.55,21.68201174607107,7.6627449

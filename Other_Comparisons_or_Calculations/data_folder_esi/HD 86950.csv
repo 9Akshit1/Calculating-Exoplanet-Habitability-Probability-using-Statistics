@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 86950 b,HD 86950,2016,1270.0,2.759304,13.0,1144.188,0.17,6772.8136,378.46412,nan,2.871281060349922,66.48160187907472,0.45,0.55,K1,4805.0,8.8,1.66,0.04,2.66,6.0313126,11.002884,209.839,7.47,11.581014337693675,23.264941999999998

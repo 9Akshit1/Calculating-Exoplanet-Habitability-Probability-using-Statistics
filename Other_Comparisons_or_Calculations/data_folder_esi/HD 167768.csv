@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 167768 b,HD 167768,2022,20.6532,0.1528784,13.9,270.15415,0.149,2807440.248,1709.8878,nan,0.5545945751253654,13.730072613856255,0.4,0.6,G8,4851.0,9.7,1.08,-0.67,2.5,6.8240311,12.424852,107.214,5.98894,20.234179417891973,6.5220631000000004

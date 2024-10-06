@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 625 b,GJ 625,2017,14.628,0.07902315,1.49,2.82,0.13,2851.2816159999998,305.55467,nan,4.7000088703971095,12.47289776701095,0.3,0.7,M2,3499.0,0.31,0.3,-0.38,4.94,0.11704727,0.22735678,6.47249,10.066,68.97347446473019,71.35360200000001

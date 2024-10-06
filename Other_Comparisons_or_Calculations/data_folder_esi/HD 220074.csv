@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 220074 b,HD 220074,2012,672.09998,1.61568,12.2,5288.6912,0.14,420336.68240000005,1064.1551,nan,16.05746900296679,348.91475846594915,0.4,0.6,M2,3787.0,54.92,2.2,-0.25,1.3,28.87553,55.289816,324.54,6.40607,15.518191617571638,7.6131011

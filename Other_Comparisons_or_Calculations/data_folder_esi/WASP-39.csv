@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-39 b,WASP-39,2011,4.055259,0.0486,14.235,88.989,0.0,428811.4408,1073.4494,87.83,0.1700874564266449,4.312331856755208,0.4,0.6,G8,5400.0,0.9,0.93,0.01,4.45,0.8385624,1.4955621,213.982,12.095,17.812178812171695,6.6706361

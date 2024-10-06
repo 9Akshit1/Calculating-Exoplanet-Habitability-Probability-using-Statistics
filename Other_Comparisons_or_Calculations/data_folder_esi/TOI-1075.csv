@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1075 b,TOI-1075,2022,0.6047328,0.01159,1.791,9.95,0.0,726728.2400000001,1224.7797,84.67,9.548709866842698,30.45949510768645,0.25,0.75,K9,3875.0,0.58,0.6,-0.08,4.69,0.27595413,0.52606479,61.4592,12.615,56.922213547276066,26.758479

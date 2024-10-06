@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-530 b,TOI-530,2021,6.387597,0.052,9.303,127.13136,0.0,24633.84592,525.53064,89.1,0.8705465616659056,14.424389537978172,0.5,0.5,M0,3659.0,0.54,0.53,0.376,4.7,0.22878058,0.44087361,148.762,15.403,25.985038257849574,14.820347

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 260655 b,HD 260655,2022,2.76953,0.029352305,1.24,2.14,0.039,57444.08528,649.23568,87.35,6.188096709461678,13.666622366172055,0.25,0.75,M0,3803.0,0.44,0.44,-0.43,5.2,0.19652109,0.37599015,10.0055,9.63,62.90731718672841,32.135850999999995

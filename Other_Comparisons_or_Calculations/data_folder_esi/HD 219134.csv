@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 219134 f,HD 219134,2015,22.717,0.14790228,1.31,7.3,0.148,17016.079279999998,477.12207,nan,17.902651090058356,41.77063331947818,0.4,0.6,K3,4699.0,0.78,0.81,0.11,4.57,0.51740303,0.9482381,6.53127,5.56911,19.57681671746659,39.013041

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-201 b,TOI-201,2021,52.97818,0.31176,11.299,133.4886,0.28,40928.437040000004,587.64508,88.88,0.5101906871409345,10.267269275073254,0.4,0.6,F6,6394.0,1.32,1.32,0.24,4.32,1.4765999,2.5698718,113.825,9.07,14.463823100121513,11.210626999999999

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-43 b,HAT-P-43,2012,3.3326414,0.04537902,13.63,210.395,0.21,810152.4215999999,1247.9492,88.7,0.45809570681758893,11.120760665315835,0.4,0.6,F9,5693.0,1.08,1.03,0.2,4.38,1.0237327,1.8095286,528.825,13.279,14.695325680740293,6.764137600000001

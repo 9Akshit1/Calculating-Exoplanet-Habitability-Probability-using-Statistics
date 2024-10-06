@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 202772 A b,HD 202772 A,2,1,2019.0,3.308958,0.05208,17.318,323.23311,0.038,4678400.0,2132.0,0.3431081304349811,10.583057638090303,0.4,0.6,F8,6272.0,2.59,1.72,0.3,[Fe/H],3.85,3.226047857940842,4.647605035482652,161.498,8.324,13.766682655782061

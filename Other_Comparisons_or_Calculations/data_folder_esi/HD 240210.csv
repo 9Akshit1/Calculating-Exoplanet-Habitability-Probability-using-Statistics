@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 240210 b,HD 240210,2009,501.75,1.17305,12.8,1655.82,0.15,36271.41896,576.44291,nan,4.35302929140596,99.2393648106526,0.3,0.7,K3,4297.0,25.46,0.82,-0.18,2.31,6.0732228,11.339214,372.405,8.270001,25.00000000000001,10.786402

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+bet UMi b,bet UMi,2014,522.3,1.42527,12.7,1938.7,0.19,379548.12,1034.0613,nan,5.218045022099225,118.0304219233697,0.3,0.7,K4,4126.0,38.3,1.4,-0.27,1.5,23.737864,44.691481,38.77472,2.0569,25.0,7.3957288

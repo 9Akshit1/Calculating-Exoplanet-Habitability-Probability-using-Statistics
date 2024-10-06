@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-29 b,Kepler-29,2011,10.33974,0.0919,2.55,5.0,0.0,81265.81264,708.25876,89.13,1.662485390562934,7.550582109047258,0.45,0.55,G9,5378.0,0.73,0.76,-0.44,4.6,0.69113999,1.2335403,832.532,15.547,20.459312092657495,24.970624

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+alf Tau b,alf Tau,2015,628.96,1.4673,12.7,2056.3601,0.1,301311.4272,980.9596,nan,5.534729243022882,125.19371239974349,0.3,0.7,K5,4055.0,45.1,1.13,-0.27,1.2,22.242613,42.023523,20.4332,0.872,25.0,7.4946393

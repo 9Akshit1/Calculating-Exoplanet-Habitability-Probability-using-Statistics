@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+L 168-9 b,L 168-9,2020,1.4015,0.021371065,1.39,4.6,0.21,214103.916,894.7699,85.5,9.443256916751722,23.378628099453145,0.25,0.75,M1,3794.0,0.6,0.59,0.04,4.04,0.26759463,0.51220095,25.1496,11.005,59.51326778206654,29.234925

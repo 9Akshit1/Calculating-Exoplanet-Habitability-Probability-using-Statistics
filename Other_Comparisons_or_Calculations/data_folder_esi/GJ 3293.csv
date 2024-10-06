@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 3293 d,GJ 3293,2017,48.1345,0.19533637,2.67,7.6,0.12,800.4860719999999,222.52235,nan,2.2013453606169655,10.468437409614568,0.45,0.55,M2,3466.0,0.4,0.42,0.02,4.78,0.15365123,0.29894361,20.1903,11.945,30.53159606121146,62.97766

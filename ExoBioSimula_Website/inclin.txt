@@ -1,0 +1,47 @@
+/*function calculateInclination(orbitalPeriod, semiMajorAxis, eccentricity) {
+    const G = 6.67430e-11; // Gravitational constant (m^3/kg/s^2)
+    const M = 1.989e30; // Mass of the central body (in this case, the mass of the Sun in kg)
+
+    // Orbital inclination (i) can be calculated from the equation for specific orbital angular momentum (L)
+    // L = sqrt(G * M * a * (1 - e^2))
+    //const specificAngularMomentum = 2 * Math.PI * M * semiMajorAxis * (1 - Math.pow(eccentricity, 2)) / orbitalPeriod; 
+    const specificAngularMomentum = 2 * Math.PI * M * semiMajorAxis * (1 - eccentricity**2);
+
+    const inclinationRadians = Math.acos(specificAngularMomentum / (2 * Math.PI * M * semiMajorAxis)); 
+
+    // Convert radians to degrees
+    const inclinationDegrees = (inclinationRadians * 180) / Math.PI;
+
+    return inclinationDegrees;
+} */
+function calculateInclination(orbitalPeriod, semiMajorAxis, eccentricity, planet, pl_mass) {
+  m = pl_mass
+  T = orbitalPeriod
+  a = semiMajorAxis
+  e = eccentricity
+  console.log(m, T, a, e)
+  //Given the orbital period (T) and the eccentricity (e) of the orbit, we can relate the angular velocity (w) to the orbital parameters using Kepler's laws or orbital mechanics equations.
+  //Assuming a circular orbit for simplicity, the angular velocity (w) can be calculated as:
+  w = 2 * Math.PI / T
+  //Then, the time derivative of the azimuthal angle (ϕ) can be expressed as equal:
+  azi_ang = w
+  //Given the Cartesian coordinates (x,y,z), polar angle(θ) can be calculated using trigonometric functions. Here's how to calculate it
+  var now = new Date();
+  var julianDate = (now / 86400000) - (now.getTimezoneOffset() / 1440) + 2440587.5;
+  xyz = planet.getPosition(julianDate)
+  console.log('xyz:', xyz)
+  r = Math.sqrt(xyz[0]**2 + xyz[1]**2 + xyz[2]**2)
+  polar_ang = Math.acos(xyz[2] / r);
+  //So, pϕ is the coefficient of the ^ϕ unit vector in the momentum vector. Therefore pϕ is:
+  p = m * r * Math.sin(polar_ang) * azi_ang
+  Lz = r * p
+  //Using Kepler's third law, we can relate the orbital period (T) and semi-major axis (a) and solve for orbtial velocity:
+  v = 2 * Math.PI * a / T
+  L = m * v * a
+  //Since Lz is equal to L times cos(inclination), we can rearrange for inclination:
+  console.log('inclination:', Lz/L)
+  ratio = Math.min(1, Math.max(-1, Lz / L));
+  inclination = Math.acos(ratio)
+  console.log(inclination)
+  return inclination
+}

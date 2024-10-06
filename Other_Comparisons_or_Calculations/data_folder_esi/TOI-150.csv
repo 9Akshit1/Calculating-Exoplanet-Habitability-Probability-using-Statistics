@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-150.01,TOI-150,2019,5.857487,0.072785239,14.067,797.7533,0.262,893729.1952,1272.7926,88.09,1.5800561532077524,39.587349532144316,0.45,0.55,F8,6255.0,1.53,1.35,0.28,4.13,1.6363623,2.8548732,336.267,11.39,11.984425293120832,6.563638300000001

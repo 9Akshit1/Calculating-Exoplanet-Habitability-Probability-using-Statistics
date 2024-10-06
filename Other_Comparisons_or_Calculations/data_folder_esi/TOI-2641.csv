@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2641 b,TOI-2641,2023,4.880974,0.06168334,18.103,122.68177,0.18,820944.1168000001,1254.9263,83.75,0.1140083744377976,3.6759510667810753,0.4,0.6,F9,6100.0,1.34,1.16,-0.15,4.2,1.3787067,2.4127681,344.045,11.693,12.535367797992523,5.2644392

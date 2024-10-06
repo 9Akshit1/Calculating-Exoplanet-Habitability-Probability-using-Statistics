@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+LP 714-47 b,LP 714-47,2020,4.052037,0.04173336,4.7,30.8,0.04,58696.8112,652.737,87.3,1.6355563714065675,13.691334839779605,0.45,0.55,M0,3950.0,0.58,0.59,0.41,4.64,0.28163628,0.5348888,52.616,12.492,30.054900713939695,18.365733000000002

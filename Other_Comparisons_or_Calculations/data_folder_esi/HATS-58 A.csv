@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-58 A b,HATS-58 A,2019,4.2180896,0.058798214,12.274,327.3649,0.168,2005392.624,1570.1411,85.69,0.9760726195464906,21.337850397892897,0.45,0.55,F1,7175.0,1.43,1.46,nan,4.29,1.943498,3.3531785,403.591,11.572,16.161210318497535,7.300173699999999

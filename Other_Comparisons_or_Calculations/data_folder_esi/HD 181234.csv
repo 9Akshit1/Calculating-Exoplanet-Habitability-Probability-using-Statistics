@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 181234 b,HD 181234,2019,7593.4051,9.3842967,12.5,2980.9126,0.726,28.5441016,84.907991,98.732,8.414485729751211,187.33546728143813,0.25,0.75,G8,5386.0,1.06,0.94,0.32,4.37,0.86770772,1.5482626,47.7458,8.59,21.68201174607107,9.3050599

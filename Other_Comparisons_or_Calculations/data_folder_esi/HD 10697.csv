@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 10697 b,HD 10697,1999,1075.3799,2.0620918,12.8,1825.2885,0.104,974.920148,233.92274,86.116,4.798549543891516,109.39623348926143,0.3,0.7,G3,5641.0,1.86,0.99,0.17,3.96,1.6596769,2.9379568,33.1205,6.28262,37.425561638373445,38.422887

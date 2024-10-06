@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 104985 b,HD 104985,2003,199.68,0.71578972,12.8,1766.8081,0.047,156822.0216,834.42382,nan,4.644808863036629,105.8912886583783,0.3,0.7,G9,4738.0,11.12,1.22,-0.32,2.42,7.7026173,14.092423,100.576,5.79389,25.0,7.8844807

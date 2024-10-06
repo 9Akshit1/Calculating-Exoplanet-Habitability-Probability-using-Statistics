@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Qatar-6 b,Qatar-6,2017,3.506195,0.0423,11.904,212.31044,0.0,232733.1144,921.36036,86.01,0.6939065233527607,14.712155454328867,0.4,0.6,K2,5052.0,0.72,0.82,-0.025,4.64,0.54761184,0.98898916,100.848,11.496,22.193451396769678,8.0506376

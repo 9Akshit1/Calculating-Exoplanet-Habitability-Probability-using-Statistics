@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-150 b,WASP-150,2020,5.644207,0.074344967,11.994,2688.8418,0.3775,1102058.0888,1320.9772,84.01,8.591747237456312,183.5388275697693,0.25,0.75,F8,6218.0,1.65,1.39,0.156,4.15,1.7593502,3.0715917,527.995,12.026,16.682011750588,7.508595

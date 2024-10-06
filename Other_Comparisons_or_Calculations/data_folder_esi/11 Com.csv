@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+11 Com b,11 Com,2007,323.21,1.2113633,12.2,4914.8985,0.238,95920.29815999999,730.24033,nan,14.922563509943249,324.25425462771506,0.4,0.6,G8,4874.0,13.76,2.09,-0.26,2.45,9.7296437,17.69823,93.1846,4.72307,15.518191617571638,8.7643878

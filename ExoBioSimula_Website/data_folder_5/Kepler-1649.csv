@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-1649 c,Kepler-1649,1,2,2020,19.53464,0.10265,1.22,1.32,0.08,25119.199999999997,230.0,nan,nan,4.007770218067594,8.708534186587656,0.3,0.7,M4,3444.0,0.296,0.297,-0.27,-0.27,4.51,6.422125799142946,9.25203391795037,49.36,8.005,53.63087672216352

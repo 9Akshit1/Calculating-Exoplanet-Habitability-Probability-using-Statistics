@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 161178 b,HD 161178,2021,279.3,0.8508228,14.1,181.16219,0.044,106199.35088,756.98569,nan,0.3563022776725195,8.947879522358491,0.4,0.6,G9,4786.0,10.95,1.06,-0.21,2.38,7.5208121,13.73131,107.188,5.88375,19.08997140259851,7.7312311

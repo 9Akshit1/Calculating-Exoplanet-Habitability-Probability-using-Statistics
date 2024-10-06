@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-11 c,HAT-P-11,2018,3407.0,4.8758801,13.3,731.009,0.601,27.22429776,88.346248,135.7,1.7130742044936278,40.57983092191058,0.45,0.55,K4,4780.0,0.68,0.81,0.31,4.66,0.52345017,0.95594822,37.7647,9.46,16.902298984402844,8.8166401

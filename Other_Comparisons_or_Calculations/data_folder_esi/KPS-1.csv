@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KPS-1 b,KPS-1,2018,1.706291,0.0269,11.545,346.4347,0.0,833747.1296,1267.5747,83.2,1.2412176671491064,25.522564059997496,0.45,0.55,K1,5165.0,0.91,0.89,0.22,4.47,0.65540526,1.1785916,262.706,12.97,20.733291279083776,7.8029026

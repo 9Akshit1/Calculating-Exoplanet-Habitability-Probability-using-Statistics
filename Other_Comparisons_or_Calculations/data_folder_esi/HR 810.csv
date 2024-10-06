@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HR 810 b,HR 810,1999,302.79999,0.929016,13.3,721.4741,0.14,2905.7724639999997,306.84637,nan,1.690729758348059,40.05052877945088,0.45,0.55,G0,6167.0,1.13,1.34,0.16,4.46,1.2422186,2.1709184,17.3181,5.4,18.282244614494477,34.001897

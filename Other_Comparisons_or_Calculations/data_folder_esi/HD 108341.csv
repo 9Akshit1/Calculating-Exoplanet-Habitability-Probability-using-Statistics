@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 108341 b,HD 108341,2014,1129.0,2.7225,13.3,715.11392,0.85,275.3261248,137.25497,65.0,1.6758250714099547,39.697461951227254,0.45,0.55,K2,5122.0,0.79,0.84,0.04,4.45,0.64411168,1.1601491,48.9102,9.38,16.97458229926366,23.195812

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-960 b,Kepler-960,2016,3.1268622,0.0414,2.29,5.86,0.0,186439.6256,871.66486,87.93,2.690292763873136,10.97279947222622,0.45,0.55,K3,4755.0,0.72,0.77,0.02,4.61,0.48621895,0.88891231,284.916,14.127,18.535889758220343,25.000568

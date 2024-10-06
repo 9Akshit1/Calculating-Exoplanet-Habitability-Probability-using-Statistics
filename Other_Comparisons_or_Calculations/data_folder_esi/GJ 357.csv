@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 357 c,GJ 357,2019,9.1247,0.061,1.66,3.4,nan,5819.413752,366.38256,nan,4.0979157691594335,12.115840075328157,0.3,0.7,M2,3505.0,0.34,0.34,-0.12,4.94,0.13071604,0.25383224,9.44181,10.91,68.40578657431679,52.70426499999999

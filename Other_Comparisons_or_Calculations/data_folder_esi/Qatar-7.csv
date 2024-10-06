@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Qatar-7 b,Qatar-7,2019,2.032046,0.0352,19.055,597.5204,0.0,4012856.12,1877.4932,89.0,0.4761395447186716,16.159414541386482,0.4,0.6,F4,6387.0,1.56,1.41,0.276,4.2,1.7516333,3.0488921,705.981,13.134,15.493720212774997,4.8911431

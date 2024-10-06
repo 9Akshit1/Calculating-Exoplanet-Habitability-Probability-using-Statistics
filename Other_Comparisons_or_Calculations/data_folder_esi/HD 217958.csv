@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 217958 b,HD 217958,2022,2560.1977,3.8037273,14.2,166.54209,0.156,190.9744232,155.22313,91.357,0.32067666020162533,8.110322295016458,0.4,0.6,G1,5930.64,1.33,1.08,0.287,4.23,1.3181416,2.3155881,61.7957,8.05,18.841163984940916,18.689689

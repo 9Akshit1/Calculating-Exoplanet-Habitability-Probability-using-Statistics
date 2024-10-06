@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 76700 b,HD 76700,2002,3.97097,0.0502025,9.6,66.7443,0.09,987108.6448000001,1320.2141,nan,0.41591909363472496,7.111521179013436,0.4,0.6,G6,5644.0,1.37,0.99,0.31,4.16,1.2880915,2.2799795,60.8831,8.16,18.539265595298172,9.0949556

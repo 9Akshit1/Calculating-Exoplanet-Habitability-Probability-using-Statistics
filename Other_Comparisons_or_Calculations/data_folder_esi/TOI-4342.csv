@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-4342 c,TOI-4342,2023,10.688716,0.0814,2.415,6.41,nan,15321.105839999998,466.69968,89.63,2.5090828314597937,10.79231345333047,0.45,0.55,M0,3901.0,0.6,0.63,nan,4.69,0.28126672,0.53549577,61.5204,12.669,25.446479006121372,33.963825

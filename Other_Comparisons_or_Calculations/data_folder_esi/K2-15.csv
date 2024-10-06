@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-15 b,K2-15,2015,11.8104,0.091,2.48,6.71,nan,57870.351440000006,650.6224,nan,2.4253579976920476,10.712971504324125,0.45,0.55,G8,5131.0,0.68,0.72,-0.46,4.57,0.58514497,1.0535828,493.992,14.758,17.44214528502368,26.137514

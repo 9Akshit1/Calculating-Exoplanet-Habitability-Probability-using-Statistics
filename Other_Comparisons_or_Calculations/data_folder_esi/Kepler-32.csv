@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-32 f,Kepler-32,2012,0.74296,0.013,0.82,0.477,0.0,410820.5856,1062.0086,88.93,4.769635557934081,6.965967846004185,0.3,0.7,M1,3900.0,0.53,0.58,0.0,4.64,0.23260919,0.44288021,323.847,16.36,62.81446809783689,29.408682000000002

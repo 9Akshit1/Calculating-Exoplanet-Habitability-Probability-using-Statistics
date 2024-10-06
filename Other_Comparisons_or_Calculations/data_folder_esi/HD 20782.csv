@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 20782 b,HD 20782,2006,597.0643,1.9808111,13.6,472.83,0.95,2991.1275600000004,213.3954,nan,1.0363266657683858,25.102559099677617,0.45,0.55,G1,5782.13,1.13,1.04,-0.054,4.35,1.0749061,1.8953736,35.9864,7.36,25.83978481448621,33.467165

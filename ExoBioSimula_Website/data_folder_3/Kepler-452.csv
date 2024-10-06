@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-452b,Kepler-452,1,1,2015.0,384.84,1.046,1.5,5.0,0.01671,1496.0000000000002,265.0,8.167790723835694,21.821182295146574,0.35,0.65,G3,5757.0,1.11,1.037,0.21,nan,4.32,1.1562893315860492,1.6658079348470527,561.0,13.426,63.74062974083932

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+XO-5 b,XO-5,2008,4.1877558,0.0515,12.78,378.2,0.0,446605.8984,1084.4164,86.8,0.9989352475825839,22.73791339908428,0.45,0.55,G8,5430.0,1.13,1.04,0.05,4.35,0.90532886,1.6130481,276.211,12.198,20.9021476256579,7.2993455

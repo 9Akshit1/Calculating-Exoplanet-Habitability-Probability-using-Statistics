@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-47 d,WASP-47,2015,9.03055,0.08500425,3.567,14.2,0.01,202638.8848,889.99493,89.22,1.7249932137744686,10.959050215391912,0.45,0.55,G6,5552.0,1.14,1.04,0.38,4.34,0.99949884,1.7739941,264.78,11.936,20.726087440888023,19.705538999999998

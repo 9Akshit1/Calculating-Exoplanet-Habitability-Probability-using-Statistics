@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 1265 b,GJ 1265,2018,3.6511,0.0260208,2.63,7.4,0.04,7327.231744000001,387.98916,nan,2.2427086017708926,10.505361801217033,0.45,0.55,M4,3236.0,0.19,0.18,-0.04,5.09,0.062679238,0.12331823,10.2525,14.01,30.323787598645698,41.971543

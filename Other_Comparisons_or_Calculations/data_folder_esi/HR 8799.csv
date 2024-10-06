@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HR 8799 c,HR 8799,2008,69000.0,42.75,13.0,3000.0,0.5,5.351075583999999,60.521933,29.43,7.528346024473045,174.31121951744302,0.25,0.75,A5,7204.58,1.49,1.5,-0.47,4.3,1.9482136,3.3607937,41.2441,5.98,11.682011746071067,7.288660800000001

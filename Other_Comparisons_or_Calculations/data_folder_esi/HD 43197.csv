@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 43197 c,HD 43197,2022,9295.9735,8.6347983,12.6,2500.6739,0.149,17.43806824,85.361998,11.42,6.892135394314205,154.67024102215177,0.25,0.75,G8,5508.0,1.0,0.96,0.4,4.37,0.92871687,1.6506041,62.4112,8.98,21.68201174607107,8.4164169

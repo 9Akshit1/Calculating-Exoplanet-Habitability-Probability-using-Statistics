@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-244 b,TOI-244,1,1,2023,7.397225,0.0559,1.52,2.68,nan,9928.0,458.0,88.32,nan,4.20738645718068,11.390385148868928,0.3,0.7,M4,3433.0,0.43,0.43,-0.39,[Fe/H],4.66,0.3063310992954087,0.4413158211853115,22.0337,12.861,64.24744430166464

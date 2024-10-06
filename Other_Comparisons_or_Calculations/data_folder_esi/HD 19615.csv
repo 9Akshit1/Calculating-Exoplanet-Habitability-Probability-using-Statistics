@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 19615 b,HD 19615,2022,402.0,1.122,12.6,2701.5415,0.2,375506.89359999995,1030.5187,nan,7.445748840486035,167.09418806520333,0.25,0.75,K0,4263.0,32.3,1.1,-0.31,1.4,18.464937,34.532222,265.155,6.55594,21.68201174607107,7.4493145

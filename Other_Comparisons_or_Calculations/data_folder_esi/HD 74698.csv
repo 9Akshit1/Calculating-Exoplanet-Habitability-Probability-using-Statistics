@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 74698 b,HD 74698,2023,15.017,0.121605,5.12,23.0,0.1,167167.0112,846.61287,nan,0.9447705074217108,8.61546465891903,0.45,0.55,G5,5783.0,1.33,1.04,0.07,4.12,1.271592,2.2421367,52.0648,7.78,20.055118590784765,15.703425

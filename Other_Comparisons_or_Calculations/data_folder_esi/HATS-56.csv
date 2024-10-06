@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-56 b,HATS-56,2019,4.324799,0.060440908,18.921,191.33366,0.019,2945181.864,1737.6552,83.29,0.15572828345185474,5.248002085332609,0.4,0.6,F6,6536.0,2.2,1.57,0.19,3.95,2.5536274,4.4346048,564.409,11.477,12.980625245635531,4.9357876

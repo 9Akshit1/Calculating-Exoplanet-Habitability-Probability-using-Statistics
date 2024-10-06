@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 39091 b,HD 39091,2001,2088.7585,3.9933375,12.4,3917.2351,0.642,233.8796624,149.07723,54.436,11.327210108643818,250.16529360380468,0.4,0.6,G0,5950.0,1.19,1.1,0.08,4.36,1.1309661,1.9858618,18.2702,5.65,15.518191618324334,21.803109000000003

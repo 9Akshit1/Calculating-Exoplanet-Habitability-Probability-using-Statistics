@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 155358 b,HD 155358,2007,194.3,0.6391035,13.8,314.6517,0.17,6921.908088,380.52999,nan,0.660087027538406,16.224177942291522,0.4,0.6,G0,5905.0,1.38,1.15,-0.6,4.22,1.3308834,2.3394195,43.6197,7.28,20.54590015073801,22.572555

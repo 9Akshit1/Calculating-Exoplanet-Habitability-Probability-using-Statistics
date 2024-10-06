@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-5344 b,TOI-5344,2023,3.792622,0.040468918,10.604,130.9453,0.054,51073.46584,630.26918,87.15,0.6054651244535444,11.435134260851084,0.4,0.6,M0,3747.0,0.59,0.61,0.425,4.69,0.25545964,0.49012513,138.367,15.402,29.408481589791855,11.007367

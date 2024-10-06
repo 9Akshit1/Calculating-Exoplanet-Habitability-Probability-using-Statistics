@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+51 Peg b,51 Peg,1995,4.230785,0.052704453,14.3,146.2018,0.013,669814.2392,1200.0237,80.0,0.27564681687974035,7.020554835714961,0.4,0.6,G5,5758.0,1.18,1.03,0.18,4.31,1.113013,1.9638312,15.4614,5.45309,18.51378630080031,6.523781

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 180 c,GJ 180,2014,24.329,0.12952245,2.41,6.4,0.09,1066.9044959999999,239.37816,nan,2.5207932123816925,10.820234673993584,0.45,0.55,M2,3371.0,0.41,0.43,nan,4.81,0.11830664,0.23125068,11.9407,10.914,32.39362377895871,69.540275

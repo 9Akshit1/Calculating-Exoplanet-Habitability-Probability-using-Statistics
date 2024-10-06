@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 581 b,GJ 581,2005,5.3686,0.04061,4.11,15.8,0.0,10746.645608,427.10358,nan,1.2547002826586233,9.184684326903827,0.45,0.55,M3,3396.0,0.33,0.31,-0.088,4.89,0.11841004,0.2311707,6.2981,10.57,34.179519399877044,30.302675

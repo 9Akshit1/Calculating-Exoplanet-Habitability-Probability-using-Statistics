@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 9618 c,HIP 9618,2023,52.563491,0.27395951,3.343,18.3,0.23,16506.076559999998,470.67255,nan,2.7005382594360645,16.07937366326842,0.45,0.55,G6,5609.0,0.97,1.02,nan,4.45,0.88072482,1.560515,67.5478,9.2,16.96860428539452,28.945842

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 94771 b,HD 94771,2023,2164.0,3.744654,14.2,169.0,0.39,400.1364392,181.97109,nan,0.32540936392760933,8.230018416712442,0.4,0.6,G3,5631.0,1.9,1.2,0.22,3.94,1.7369178,3.0755808,57.7807,7.37,18.888665623826537,27.489826

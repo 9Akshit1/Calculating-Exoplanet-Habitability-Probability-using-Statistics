@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2046 b,TOI-2046,2022,1.4971842,0.026671814,16.141,731.00534,nan,3642787.064,1832.6242,83.6,0.9583797118327085,27.551830987968508,0.45,0.55,F8,6250.0,1.21,1.13,-0.06,4.3,1.2750016,2.2246342,289.668,11.552,14.491949407735875,5.6929711

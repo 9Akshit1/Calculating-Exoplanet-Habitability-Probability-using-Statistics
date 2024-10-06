@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-60 b,HAT-P-60,2021,4.7947813,0.064731563,18.282,182.43351,0.25,2296407.736,1613.4229,83.75,0.1646045647292123,5.359792738473258,0.4,0.6,F9,6212.0,2.2,1.44,0.037,3.91,2.3496888,4.1027183,233.22,9.727,13.013451727099369,5.1067688

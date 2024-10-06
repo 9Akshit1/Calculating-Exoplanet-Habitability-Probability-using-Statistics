@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+XO-1 b,XO-1,2006,3.94153,0.0488,12.778,263.7989,0.0,468488.856,1097.4628,88.81,0.6970961808456875,15.864924288988133,0.4,0.6,G1,5750.0,0.88,0.88,0.02,4.51,0.86239973,1.5219703,163.553,11.251,20.557433840460867,7.2851553

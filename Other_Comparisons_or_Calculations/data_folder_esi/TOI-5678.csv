@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-5678 b,TOI-5678,2023,47.73022,0.2514402,4.91,20.0,0.14,16384.702,472.84111,89.83,0.9315236678806618,8.146251287173987,0.45,0.55,G7,5485.0,0.94,0.91,0.0,4.34,0.83167634,1.4792039,165.393,11.438,20.485491975068015,24.018819

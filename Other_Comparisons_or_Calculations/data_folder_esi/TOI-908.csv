@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-908 b,TOI-908,2023,3.183792,0.042019916,3.186,16.137,0.132,721074.0264000001,1218.3738,86.475,2.751020705501576,15.610688122505431,0.45,0.55,GV,5626.0,1.03,0.95,0.08,4.45,0.91602425,1.6222512,175.748,11.316,16.55842683648056,20.464015999999997

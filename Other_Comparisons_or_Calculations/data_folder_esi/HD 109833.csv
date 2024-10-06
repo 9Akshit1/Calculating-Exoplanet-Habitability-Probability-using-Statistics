@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 109833 c,HD 109833,2022,13.900148,0.12127746,2.59,7.22,0.3,124936.87192,774.93279,88.24,2.291111788071878,10.568867678915224,0.45,0.55,G1,5881.0,1.0,1.08,-0.07,4.45,1.0262983,1.8050856,79.5561,9.29,15.625849624300578,24.05435

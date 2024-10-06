@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-2803 A b,TOI-2803 A,2,1,2023,1.96229325,0.03185,18.114,309.8827,0.0,2924000.0,1893.0,89,nan,0.28745020029102436,9.273835662769192,0.4,0.6,F8,6280.0,1.25,1.12,-0.105,[Fe/H],4.3,1.420198818462448,2.0460090707661243,494.818,12.537,14.184944351360567

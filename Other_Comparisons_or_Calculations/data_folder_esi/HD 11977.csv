@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 11977 b,HD 11977,2005,711.0,2.0844,12.7,2080.0,0.4,27496.957359999997,523.03294,nan,5.59835644811801,126.63293836107133,0.3,0.7,G8,4970.0,10.09,1.91,-0.21,2.9,8.2543479,14.955816,67.9331,4.68,25.0,11.974169

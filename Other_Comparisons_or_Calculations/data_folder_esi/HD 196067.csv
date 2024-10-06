@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 196067 b,HD 196067,2012,3638.0,6.113356,12.3,3972.8551,0.66,268.1254144,153.17906,41.2,11.770523147126177,257.8595936029232,0.4,0.6,G1,6017.0,1.73,1.29,0.18,4.24,1.8099788,3.1732375,39.9346,6.51,15.518191617571638,23.462114

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 23596 b,HD 23596,2003,1535.1191,2.8011188,12.4,3786.6076,0.282,560.7089599999999,200.99954,38.898,10.949483191393721,241.82306597232272,0.25,0.75,F8,6040.0,1.53,1.1,0.33,4.23,1.5851242,2.7776006,52.0018,7.26122,19.909351723436014,33.031918

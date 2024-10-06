@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-355 b,Kepler-355,2014,11.03189,0.102,1.46,2.73,0.0,204804.0592,892.37958,88.59,4.836291330567888,12.576150520542113,0.3,0.7,F9,6184.0,1.07,0.99,0.14,4.44,1.1607773,2.0279051,1432.17,15.242,49.50545025644613,28.980521999999997

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HATS-17 b,HATS-17,1,1,2016,16.254611,0.1308,8.709,425.25654,0.029,98872.0,814.0,89.08,nan,3.549396397542333,55.05607050484492,0.3,0.7,G2,5846.0,1.09,1.13,0.3,[Fe/H],4.42,1.2981440252279777,1.870170863578647,400.331,12.402,25.007003549299313

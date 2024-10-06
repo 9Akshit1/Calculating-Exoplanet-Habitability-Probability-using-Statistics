@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 153950 b,HD 153950,2008,499.39999,1.353984,13.2,937.5985,0.34,1957.918424,272.74405,nan,2.247519584365098,52.83963788263426,0.45,0.55,F8,6124.0,1.28,1.25,-0.01,4.32,1.3862319,2.4247204,48.4549,7.39,29.694750654573625,37.926559

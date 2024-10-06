@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2803 A b,TOI-2803 A,2023,1.9622933,0.03185,18.114,309.8827,0.0,2906163.464,1731.9884,89.0,0.28745020029102436,9.273835662769192,0.4,0.6,F8,6280.0,1.25,1.12,-0.105,4.3,1.3574511,2.3671815,494.818,12.537,14.184826341587943,5.1367387

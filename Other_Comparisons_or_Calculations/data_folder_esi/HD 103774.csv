@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 103774 b,HD 103774,2013,5.8881,0.0702835,13.3,116.0,0.09,975234.1175999999,1316.2257,nan,0.27183879777302444,6.43940141221466,0.4,0.6,F5,6489.0,1.58,1.33,0.28,4.26,1.7034859,2.9603059,56.4089,7.13463,13.335701033360303,6.8797042

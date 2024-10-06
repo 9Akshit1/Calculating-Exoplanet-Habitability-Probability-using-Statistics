@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 62364 b,HD 62364,2022,5138.0,7.2829807,12.1,5965.6392,0.607,122.62653656,128.44814,137.3,18.56561103494018,400.1078151808114,0.4,0.6,F7,6255.0,1.4,1.16,-0.11,4.14,1.5201256,2.6520813,53.112,7.32,10.518191617571638,15.902073

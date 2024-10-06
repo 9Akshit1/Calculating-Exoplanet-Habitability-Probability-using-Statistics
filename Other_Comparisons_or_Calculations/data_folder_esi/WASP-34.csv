@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-34 b,WASP-34,2010,4.31768,0.05244192,11.209,177.9848,0.04,542280.5792,1137.9957,85.2,0.6967719868822561,13.9104111871469,0.4,0.6,G4,5700.0,0.91,0.96,-0.02,4.5,0.99886254,1.7652232,132.096,10.285,20.275319587606134,8.097168400000001

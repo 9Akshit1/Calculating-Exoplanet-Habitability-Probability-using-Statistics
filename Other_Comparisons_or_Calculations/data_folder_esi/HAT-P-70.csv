@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-70 b,HAT-P-70,2019,2.7443245,0.04739,20.961,2154.8874,0.0,10119649.976,2365.9543,96.5,1.2900215411915608,48.16054324048332,0.45,0.55,A4,8450.0,1.86,1.89,-0.059,4.18,3.5903482,6.1935815,330.739,9.47,6.621798249330243,4.4590327

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+42 Dra b,42 Dra,2008,479.1,1.275918,13.0,1233.13,0.38,148357.5312,799.82659,nan,3.0944764443861494,71.64946470784818,0.3,0.7,K1,4200.0,22.03,0.98,-0.46,1.71,12.221008,22.925248,90.6545,4.8262,25.00000177533689,7.840117500000001

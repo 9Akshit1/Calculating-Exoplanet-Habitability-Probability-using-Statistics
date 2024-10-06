@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 78530 b,HIP 78530,2010,nan,740.0,12.0,7300.0,nan,0.057952938800000006,20.581824,nan,23.29096573593772,497.7957211080313,0.4,0.6,B9,10500.0,2.11,2.5,-0.5,4.13,4.2426438,7.3188333,136.759,7.1691,5.518191617571637,7.376951099999999

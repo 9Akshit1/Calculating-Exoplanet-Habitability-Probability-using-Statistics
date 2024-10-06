@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 29442 c,HIP 29442,2023,3.53796,0.0436,1.58,4.5,nan,500686.5568,1115.8517,86.3,6.289985255641776,17.700646590158556,0.25,0.75,K0,5289.0,0.98,0.89,0.24,4.39,0.81785485,1.4641573,68.192,9.49,51.79577823912989,27.898284

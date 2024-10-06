@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-46 b,WASP-46,2011,1.4303676,0.023355651,13.159,607.0553,0.022,1932280.9279999998,1563.8429,82.8,1.4688179418918044,34.42494638240442,0.45,0.55,G6,5600.0,0.86,0.83,-0.3,4.49,0.84541323,1.4983467,375.31,13.043,17.78212597045561,6.870113999999999

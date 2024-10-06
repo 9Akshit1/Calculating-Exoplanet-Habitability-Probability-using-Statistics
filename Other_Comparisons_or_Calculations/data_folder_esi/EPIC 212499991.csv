@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+EPIC 212499991 b,EPIC 212499991,2019,34.885,0.20243357,1.6,3.19,nan,10567.538231999999,425.31279,nan,4.29377328518047,12.236057494016759,0.3,0.7,K2,4982.79,0.76,0.91,nan,4.61,0.56029986,1.0146708,283.29,13.672,58.246222903078746,43.027597

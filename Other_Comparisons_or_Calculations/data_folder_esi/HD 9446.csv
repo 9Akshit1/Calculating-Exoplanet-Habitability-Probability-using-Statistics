@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 9446 b,HD 9446,2009,30.052,0.19278,14.0,222.472,0.2,42705.0948,598.44098,nan,0.44699187248228606,11.145770053084858,0.4,0.6,G5,5793.0,1.0,1.0,0.09,4.53,0.99560317,1.7550361,50.3503,8.35,19.749306582672116,9.6820191

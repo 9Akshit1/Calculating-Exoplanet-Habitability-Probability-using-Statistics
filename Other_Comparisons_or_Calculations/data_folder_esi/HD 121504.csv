@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 121504 b,HD 121504,2003,63.33,0.3301485,13.6,479.9233,0.03,19351.13944,494.67311,nan,1.0518734287451321,25.479142612698666,0.45,0.55,G2,6027.0,1.07,1.62,0.15,4.59,1.1652207,2.0423964,41.6592,7.54,20.13826824536432,13.415368999999998

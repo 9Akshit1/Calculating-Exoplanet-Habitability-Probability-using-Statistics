@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 188015 b,HD 188015,2004,461.2,1.2142896,13.6,476.72,0.137,1086.730916,239.99648,nan,1.0448525857181332,25.309079318144605,0.45,0.55,G5,5746.0,1.13,1.09,0.289,4.45,1.0193251,1.7991082,50.6706,8.24,35.17880502096374,38.46681

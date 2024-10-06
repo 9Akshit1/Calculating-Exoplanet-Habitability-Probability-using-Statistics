@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1572 b,Kepler-1572,2016,5.4954862,0.0614,0.94,0.779,0.0,851534.3384,1274.2819,89.31,5.170853950185537,8.657102143009995,0.3,0.7,G6,5618.0,0.95,0.97,0.08,4.47,1.4743854,2.6117032,946.602,13.879,53.486129137508996,29.480911

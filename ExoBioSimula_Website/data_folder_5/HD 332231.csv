@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 332231 b,HD 332231,1,1,2020,18.71204,0.1436,9.718,77.55052,0.032,133402.4,876.0,89.68,nan,0.4658674897538962,8.063465200243224,0.4,0.6,G0,6089.0,1.28,1.13,0.036,[Fe/H],4.28,1.4872941556625112,2.1426699514349745,80.6665,8.558,18.82729064044449

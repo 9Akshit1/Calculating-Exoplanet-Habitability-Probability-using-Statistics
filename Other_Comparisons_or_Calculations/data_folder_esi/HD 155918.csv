@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 155918 b,HD 155918,2022,1.87567,0.03056454,2.67,7.62788,0.194,1598183.736,1480.8365,nan,2.209420822281966,10.506840045796153,0.45,0.55,G2,5771.84,1.02,1.03,-0.662,4.43,0.96858847,1.7083714,27.561,7.0,15.60695379751604,22.422165999999997

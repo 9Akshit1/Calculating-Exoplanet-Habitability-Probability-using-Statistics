@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 180902 b,HD 180902,2009,510.9,1.4080143,13.5,535.54355,0.107,6558.179488000001,376.68123,nan,1.2000569656790223,28.85479859639492,0.45,0.55,K0,4961.0,4.16,1.41,0.04,3.36,3.0469569,5.5226943,104.577,7.78,19.101410402963808,23.379584

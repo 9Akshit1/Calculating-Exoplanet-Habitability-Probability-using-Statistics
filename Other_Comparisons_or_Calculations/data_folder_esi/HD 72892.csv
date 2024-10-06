@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 72892 b,HD 72892,2016,39.44603,0.24801395,12.8,1737.8857,0.419,40326.44664,573.62148,nan,4.568773995491993,104.15786316237052,0.3,0.7,G5,5688.0,1.22,1.01,0.25,4.27,1.1306173,1.998736,69.7311,8.83,25.014605567882057,10.420195999999999

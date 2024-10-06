@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 1461 c,HD 1461,2015,13.5052,0.11689545,2.23,5.59,0.305,143098.4384,801.18532,nan,2.7791090805180243,11.038063114770296,0.45,0.55,G0,5765.0,1.15,1.02,0.19,4.38,1.0636966,1.8764634,23.4534,6.47933,15.73901275073021,25.578598000000003

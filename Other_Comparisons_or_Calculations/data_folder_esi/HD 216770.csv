@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 216770 b,HD 216770,2003,118.45,0.491487,14.1,181.1631,0.37,5495.316232,351.44777,nan,0.3563040674227575,8.947924468659732,0.4,0.6,G9,5399.0,0.93,0.74,0.27,4.37,0.86608313,1.5446961,36.6625,8.11,21.043093500556605,25.283001

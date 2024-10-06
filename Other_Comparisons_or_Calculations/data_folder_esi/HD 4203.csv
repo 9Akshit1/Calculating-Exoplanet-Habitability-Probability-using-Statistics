@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 4203 b,HD 4203,2001,431.88,1.328184,13.3,708.7609,0.52,2283.62496,273.72519,nan,1.6609371634872998,39.34479258950459,0.45,0.55,G5,5596.0,1.42,1.25,0.4,4.23,1.3463891,2.3865218,81.3795,8.7,38.59276215637456,36.592662999999995

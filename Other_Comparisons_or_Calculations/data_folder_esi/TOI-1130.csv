@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1130 c,TOI-1130,2020,8.350231,0.071985092,13.32,325.69,0.0457,36848.03312,580.96283,92.44,0.759801460759874,18.02547698468643,0.4,0.6,K6,4350.0,0.7,0.71,0.3,4.62,0.38082409,0.70922578,58.2609,11.595,26.627771526721773,10.477208000000001

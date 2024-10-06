@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 136352 b,HD 136352,2019,11.57797,0.0964,1.664,4.72,0.0,151839.5256,828.05883,88.49,5.647944328866449,16.73887036381696,0.3,0.7,G4,5664.0,1.06,0.87,-0.24,4.39,0.97484063,1.7245213,14.682,5.65,55.02379705484652,28.343488

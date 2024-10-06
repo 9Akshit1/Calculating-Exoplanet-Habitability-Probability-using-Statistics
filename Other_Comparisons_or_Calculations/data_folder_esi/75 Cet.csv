@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+75 Cet b,75 Cet,2012,696.62,1.9202684,13.3,787.89662,0.093,19339.68552,493.87889,nan,1.8463868099157714,43.73778109919964,0.45,0.55,G3,4809.0,10.38,1.92,0.1,2.69,7.2000753,13.132814,82.9613,5.3532,16.726847699656346,13.562121999999999

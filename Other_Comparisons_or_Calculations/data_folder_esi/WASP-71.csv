@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-71 b,WASP-71,2012,2.90367,0.04622,13.227,441.7837,0.0,3731462.056,1843.6766,84.2,1.0525288336658176,24.795779876643447,0.45,0.55,F8,6050.0,1.82,0.76,0.15,3.9,2.2635912,3.9655999,362.715,10.56,15.313749325554799,6.8026371

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 23079 b,HD 23079,2001,730.59998,1.608,13.2,829.5363,0.1,725.2393256,217.2789,nan,1.9884834288789515,46.74964571988997,0.45,0.55,F9,5974.0,1.07,1.12,-0.13,4.43,1.094747,1.9211855,33.4591,7.12,21.055890680586884,35.548058

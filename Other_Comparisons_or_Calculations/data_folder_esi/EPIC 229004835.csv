@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+EPIC 229004835 b,EPIC 229004835,2023,16.141132,0.12697187,2.332,10.4,0.23,97859.18351999999,734.44336,88.08,4.521224533467675,18.778765483232394,0.3,0.7,G1,5868.0,1.0,0.97,-0.12,4.47,0.97862513,1.7217934,121.971,10.23,54.97185018647194,25.645062000000003

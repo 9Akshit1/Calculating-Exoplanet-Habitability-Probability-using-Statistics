@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1658 b,Kepler-1658,2019,3.8493728,0.054507272,11.994,1868.8404,0.0628,7399445.84,2186.2161,76.52,5.97156900191999,127.56599363005243,0.3,0.7,F9,6216.0,2.89,1.45,-0.18,3.67,3.7102654,6.4778793,788.238,11.62,20.0,7.3954337

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD-17 63 b,BD-17 63,2008,655.6,1.535372,12.8,1620.9,0.54,188.881764,146.02372,nan,4.261227173509151,97.14648115229119,0.3,0.7,K5,4714.0,0.69,0.74,-0.03,4.26,0.46032587,0.84307802,34.4603,9.62,25.660049225064043,19.289263000000002

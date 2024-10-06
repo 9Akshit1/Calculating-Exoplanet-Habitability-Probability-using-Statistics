@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+psi1 Dra B b,psi1 Dra B,2015,3117.0,4.7844,13.5,486.2799,0.4,160.1739184,144.496,nan,1.089665968836145,26.200499615717646,0.45,0.55,G0,6212.0,1.26,1.19,0.01,4.2,1.3474428,2.3527279,22.7188,5.808,19.90070755158166,17.352909

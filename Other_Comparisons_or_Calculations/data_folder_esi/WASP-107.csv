@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-107 c,WASP-107,2020,1088.0,1.891462,13.2,115.0,0.28,56.50289456,113.27302,nan,0.27566677229324316,6.480981311833307,0.4,0.6,K6,4425.0,0.67,0.68,0.02,4.63,0.36913498,0.68501682,64.7414,11.592,18.357007035070886,10.978777000000001

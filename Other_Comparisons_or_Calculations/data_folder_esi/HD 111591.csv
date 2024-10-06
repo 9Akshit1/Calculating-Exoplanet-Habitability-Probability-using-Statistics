@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 111591 b,HD 111591,2017,1056.4,2.5845,12.9,1398.452,0.26,8587.3222,398.57571,nan,3.591590449057778,82.5199459789408,0.3,0.7,K0,4884.0,8.03,1.94,0.07,3.1,6.1574669,11.195785,114.166,6.417,25.00000000262887,20.601579

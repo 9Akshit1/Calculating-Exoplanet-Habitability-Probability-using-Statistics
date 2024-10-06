@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+CoRoTID 223977153 b,CoRoTID 223977153,1,1,2017,6.71837,0.071,6.389,47.6745,nan,179873.59999999998,938.0,89,nan,1.0078499000178616,11.46861996794323,0.45,0.55,G1,5970.0,0.79,1.08,0,[Fe/H],4.67,1.0472269412880557,1.508687229683595,576.683,13.626,20.879991724922522

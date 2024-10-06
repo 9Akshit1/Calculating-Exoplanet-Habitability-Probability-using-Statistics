@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 1002 b,GJ 1002,2022,10.3465,0.0457,1.03,1.08,nan,915.6015312,230.74995,nan,5.4490457705137905,9.996318781639397,0.3,0.7,M5,3024.0,0.14,0.12,-0.25,5.1,0.039042311,0.077581509,4.84867,13.76,69.02709268733614,86.151546

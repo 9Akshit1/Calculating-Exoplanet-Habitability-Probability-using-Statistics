@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 109600 b,HIP 109600,2016,232.08,0.71537886,13.2,851.7844,0.163,2305.5625760000003,289.21515,nan,2.041814402067276,48.0034676357491,0.45,0.55,G5,5530.0,0.97,0.87,-0.12,4.45,0.88071258,1.5642173,66.3361,9.18,17.952362291531454,36.569341

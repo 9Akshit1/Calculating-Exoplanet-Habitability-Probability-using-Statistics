@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 687 b,GJ 687,2014,38.142,0.16535535,4.32,17.2,0.17,1105.4312152,240.55554,nan,1.1762119325653948,9.050065959599756,0.45,0.55,M3,3413.0,0.42,0.4,0.063,4.86,0.15128819,0.29511293,4.54939,9.15,37.39997768109245,55.27234

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-186 f,Kepler-186,1,5,2014.0,129.9452,0.46,1.22,1.17,0.06,4406.400000000001,178.0,3.5523417841962757,7.7189280290208755,0.3,0.7,M1,3673.0,0.47,0.47,-0.44,-0.44,4.22,8.672050783495564,12.493387781004937,87.1,7.021,27.054405942777052

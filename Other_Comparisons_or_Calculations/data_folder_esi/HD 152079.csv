@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 152079 b,HD 152079,2009,2918.92,4.7795107,13.2,845.74563,0.532,117.21432136,129.88272,nan,2.0273388522018734,47.663144544301616,0.45,0.55,G6,5907.0,1.13,1.15,0.29,4.37,1.0668102,1.8751418,87.8888,9.18,11.628545570540556,14.972392000000001

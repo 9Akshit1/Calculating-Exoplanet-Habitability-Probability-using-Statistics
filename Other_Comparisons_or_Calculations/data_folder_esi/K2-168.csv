@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+EPIC 205950854 c,K2-168,2019,8.050722,0.075317119,1.31,2.27,nan,159864.3008,838.78926,89.81,5.566988763620886,12.98895036098842,0.3,0.7,G7,5502.7,0.83,0.88,-0.13,4.39,0.78888772,1.402319,243.935,12.365,54.81854279491781,29.837609999999998

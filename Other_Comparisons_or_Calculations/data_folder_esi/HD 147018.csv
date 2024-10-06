@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 147018 b,HD 147018,2009,44.236,0.26501856,13.4,674.0,0.4686,19200.28688,471.77579,nan,1.5443789586023913,36.85879143527485,0.45,0.55,G9,5441.0,0.94,0.93,0.1,4.42,0.81759369,1.4562073,40.4256,8.3,18.014954138163418,13.558511000000001

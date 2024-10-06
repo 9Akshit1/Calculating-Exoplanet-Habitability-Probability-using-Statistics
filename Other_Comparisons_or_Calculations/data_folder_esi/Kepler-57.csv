@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-57 b,Kepler-57,2012,5.7293196,0.06,2.19,115.0,0.0,171884.3752,854.13021,88.9,60.36342455735257,235.45092549651494,0.4,0.6,K1,5145.0,0.73,0.83,0.117,4.63,0.664438,1.1957254,644.14,15.017,16.244254641869613,25.568651

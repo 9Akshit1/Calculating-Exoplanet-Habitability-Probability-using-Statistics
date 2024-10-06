@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-7 d,CoRoT-7,2022,8.966,0.082130542,4.31,17.142,nan,102927.05080000001,751.35878,nan,1.1804240650576523,9.061450902317018,0.45,0.55,G9,5250.0,0.84,0.92,0.02,4.57,0.6999732,1.2548494,159.906,11.728,20.793671430351747,18.235568999999998

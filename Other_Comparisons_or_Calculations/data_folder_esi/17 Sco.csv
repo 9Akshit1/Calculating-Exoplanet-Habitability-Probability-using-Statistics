@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+17 Sco b,17 Sco,2020,578.38,1.45261,12.9,1373.0187,0.06,116301.69472,774.13713,nan,3.5262710835250166,81.0191761691324,0.3,0.7,K3,4157.0,25.92,1.22,-0.01,1.7,13.711956,25.776305,124.953,5.22606,25.000000006933366,8.151397000000001

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-302 b,Kepler-302,2014,30.184104,0.193,4.06,15.5,0.0,40871.85016,596.4459,89.98,1.2769149507868958,9.233586504686315,0.45,0.55,G3,5740.0,1.22,1.02,0.06,4.29,1.0080191,1.779443,1402.58,15.694,20.282901743396753,21.226603

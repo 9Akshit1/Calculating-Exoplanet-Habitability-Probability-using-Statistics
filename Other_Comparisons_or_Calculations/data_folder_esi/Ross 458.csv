@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Ross 458 c,Ross 458,2010,nan,1100.0,14.011,1906.98,nan,5.659180456e-05,3.6383407,nan,3.822496650860474,95.38908069900677,0.3,0.7,M2,3965.42,0.56,0.56,nan,4.68,0.23070044,0.43781369,11.5094,9.76,25.000000000000256,6.4243554

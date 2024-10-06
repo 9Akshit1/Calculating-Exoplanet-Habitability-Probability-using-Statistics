@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 206610 b,HD 206610,2009,673.2,1.7487,13.4,647.10188,0.1,8523.595184,402.30268,nan,1.4827455898279667,35.38782378678673,0.45,0.55,K0,4842.0,6.12,1.55,0.14,3.22,4.3422338,7.9091104,147.192,8.34,17.528749129839998,20.412241

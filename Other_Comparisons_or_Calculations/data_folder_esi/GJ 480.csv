@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 480 b,GJ 480,2020,9.567,0.06834,3.69,13.2,0.1,7222.764976,385.98737,nan,1.4484489965514886,9.519452914797238,0.45,0.55,M3,3381.0,0.46,0.45,nan,4.78,0.16216652,0.31682791,14.2358,11.49,33.659482261548405,36.929477999999996

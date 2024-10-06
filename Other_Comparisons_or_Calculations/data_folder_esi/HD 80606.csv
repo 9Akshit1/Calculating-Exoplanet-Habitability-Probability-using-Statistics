@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 80606 b,HD 80606,2001,111.4367,0.65391343,11.994,1392.0954,0.93,17673.78888,348.60695,89.29,4.448209562654687,95.02364831626353,0.3,0.7,G5,5561.0,1.04,1.15,0.35,4.42,0.9606291,1.7045384,66.4711,9.06,27.37661353057596,14.839269

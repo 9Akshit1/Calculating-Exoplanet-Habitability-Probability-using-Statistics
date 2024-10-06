@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CI Tau b,CI Tau,2019,8.9891,0.084223224,12.4,3686.828,0.25,164216.74959999998,834.33472,50.5,10.660957109883721,235.45086918238025,0.25,0.75,K7,3807.0,1.88,0.9,nan,nan,0.91070685,1.7420433,157.998,13.642,21.713324973076485,8.0439191

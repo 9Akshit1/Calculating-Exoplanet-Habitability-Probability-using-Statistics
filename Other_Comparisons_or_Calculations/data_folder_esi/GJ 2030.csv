@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 2030 b,GJ 2030,2022,2.38129,0.034971057,2.03,4.76743,0.239,4958531.712,1957.8781,nan,3.1419884613315974,11.360123176783661,0.3,0.7,G7,5485.0,2.24,0.96,-0.4,3.72,1.9563851,3.4795896,37.0788,6.20902,54.228403693013234,25.352207999999997

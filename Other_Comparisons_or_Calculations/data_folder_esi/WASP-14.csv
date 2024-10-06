@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-14 b,WASP-14,2008,2.24375,0.03714985,15.468,2809.6172,0.09,2666254.024,1692.4994,84.32,4.185554846697899,115.31070232632345,0.3,0.7,F6,6475.0,1.4,1.62,0.0,4.07,1.4900226,2.5899007,161.997,9.745,20.000001613717195,5.9304533

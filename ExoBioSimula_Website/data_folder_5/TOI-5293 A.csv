@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-5293 A b,TOI-5293 A,2,1,2023,2.930289,0.034,11.9,170.4,0.38,47056.0,675.0,88.8,nan,0.5574899988995585,11.815890533096807,0.4,0.6,M2,3586.0,0.52,0.54,-0.03,[Fe/H],4.77,0.35598536878074966,0.5128502320358015,162.229,16.19,27.753967811051567

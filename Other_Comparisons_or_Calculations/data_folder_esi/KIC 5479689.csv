@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KIC 5479689 b,KIC 5479689,2021,1.701531,0.02760536,14.2,158.9142,nan,1123445.6935999999,1365.6927,nan,0.305989164148313,7.738856761403103,0.4,0.6,G8,5459.1,0.89,0.97,0.161,4.52,0.76841078,1.3678095,454.95,13.929,18.926610001981484,6.47662

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-481 b,TOI-481,2020,10.33111,0.098135337,11.097,486.2799,0.153,398234.68319999997,1049.1183,89.2,1.961904824317352,38.77626170771788,0.45,0.55,G3,5735.0,1.66,1.14,0.26,4.06,1.5725291,2.7763434,179.366,9.972,12.063361633249839,8.2638

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+LTT 9779 b,LTT 9779,2020,0.792052,0.01679,4.72,29.32,0.0,3423241.312,1804.3649,76.39,1.5372565230720572,12.923220662263173,0.45,0.55,G7,5443.0,0.95,0.77,0.27,4.35,0.81656087,1.4542736,80.4373,9.79,21.254248876965665,15.697961

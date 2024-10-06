@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 205739 b,HD 205739,2008,279.8,0.9286592,13.6,435.41,0.27,4030.5062000000003,329.55457,nan,0.9543112610075777,23.115930160080012,0.45,0.55,F7,6176.0,1.33,1.22,0.19,4.29,1.404301,2.4537354,92.5087,8.56,16.039807669507052,29.635845

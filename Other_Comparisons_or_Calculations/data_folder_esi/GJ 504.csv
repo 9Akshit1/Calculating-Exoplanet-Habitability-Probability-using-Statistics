@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 504 b,GJ 504,2013,nan,43.5,13.0,1271.3,nan,1.54369112,46.757909,nan,3.190262100304194,73.86728445750845,0.3,0.7,G0,6234.0,1.26,1.22,0.28,4.6,1.3549748,2.3648841,17.5299,5.18799,25.000000517211546,6.9902199

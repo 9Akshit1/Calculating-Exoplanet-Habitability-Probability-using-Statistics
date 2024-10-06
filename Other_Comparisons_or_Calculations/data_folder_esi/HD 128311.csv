@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 128311 b,HD 128311,2002,453.019,1.1337605,13.5,562.24127,0.303,373.5869952,181.14638,30.0,1.2598817639680657,30.293257398826483,0.45,0.55,K0,4965.0,0.76,0.83,0.08,4.61,0.55116907,0.99884829,16.3292,7.48,27.653128530308514,26.961476

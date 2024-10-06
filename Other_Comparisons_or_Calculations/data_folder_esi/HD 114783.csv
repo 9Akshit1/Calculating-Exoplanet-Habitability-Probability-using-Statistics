@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 114783 b,HD 114783,2001,493.7,1.1720269,13.7,349.6,0.144,433.68364080000003,190.67982,nan,0.7495801840551441,18.29031061150013,0.4,0.6,K0,5135.0,0.84,0.85,0.21,4.53,0.64220749,1.1561528,21.0628,7.56,31.622743648903448,28.827521

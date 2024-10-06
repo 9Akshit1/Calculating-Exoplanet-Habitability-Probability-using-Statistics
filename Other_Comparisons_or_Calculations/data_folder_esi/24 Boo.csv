@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+24 Boo b,24 Boo,2018,30.33,0.19409933,13.9,280.64248,0.032,2723691.5840000003,1703.8095,nan,0.5761258783465989,14.263122106148286,0.4,0.6,G3,4816.0,12.19,1.05,-0.78,2.28,8.6837179,15.834243,95.9863,5.59,20.31412138257849,6.5236534

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+KELT-21 b,KELT-21,1,1,2018,3.6127647,0.05224,17.777,1242.7153,0.0,4012000.0,2051.0,86.46,nan,1.2195640182315988,38.61406218690898,0.45,0.55,A9,7598.0,1.64,1.46,-0.405,[Fe/H],4.17,3.352834043829742,4.830259522308216,470.878,10.484,7.080516224076974

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 29985 b,HD 29985,2022,20608.14,13.84607,12.8,1739.4749,0.261,1.1202062552,42.591788,52.658,4.572951885691352,104.2531097462728,0.3,0.7,K4,4678.0,0.57,0.75,-0.22,4.79,0.37992133,0.69692278,31.2707,9.98,25.0,7.0521771

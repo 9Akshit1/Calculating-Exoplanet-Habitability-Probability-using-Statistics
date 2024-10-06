@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 849 b,GJ 849,2006,1925.31,2.3209756,13.9,283.82077,0.029,6.497490303999999,66.962689,nan,0.5826505324826734,14.424652671153094,0.4,0.6,M3,3467.0,0.45,0.45,0.09,4.8,0.16616166,0.32326798,8.80058,10.41,20.335909864225187,6.9776423

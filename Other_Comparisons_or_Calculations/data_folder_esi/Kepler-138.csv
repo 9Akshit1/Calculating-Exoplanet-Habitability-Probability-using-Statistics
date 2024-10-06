@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-138 e,Kepler-138,2022,38.23,0.18143084,0.797,0.43,0.112,2356.614664,291.58167,88.53,4.682759632624359,6.647259050345418,0.3,0.7,M1,3841.0,0.54,0.54,-0.18,4.71,0.24384456,0.46564426,66.8624,13.04,66.68703898601218,79.42496799999999

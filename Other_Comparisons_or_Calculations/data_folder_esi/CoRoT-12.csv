@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-12 b,CoRoT-12,2010,2.828042,0.040258392,16.14,291.438,0.07,993157.5303999999,1323.03,85.48,0.3821588850615393,10.985754974594268,0.4,0.6,G5,5675.0,1.12,1.08,0.16,4.38,1.0366942,1.8333687,1126.37,15.588,19.659290718523238,5.7985974

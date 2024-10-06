@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 33283 b,HD 33283,2006,18.1991,0.16280376,12.5,104.56607,0.399,284701.7472,938.3844,nan,0.2951678971839584,6.571455193028326,0.4,0.6,G3,5935.0,1.97,1.38,0.35,4.12,1.9671918,3.4554188,89.8623,8.05,18.375585162275204,7.6223767

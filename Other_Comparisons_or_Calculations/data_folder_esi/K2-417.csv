@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-417 b,K2-417,2023,6.535,0.063,3.31,699.2225,nan,21520.77056,508.07688,89.0,106.30159673339313,626.6862968406325,0.4,0.6,MV,3861.0,0.58,0.57,nan,4.67,0.25819744,0.4925592,94.0424,13.909,25.670786658612762,27.074226000000003

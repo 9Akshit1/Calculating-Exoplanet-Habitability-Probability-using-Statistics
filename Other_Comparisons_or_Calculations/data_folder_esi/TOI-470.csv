@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-470 b,TOI-470,2023,12.19148,0.119,4.34,17.4,nan,42115.7932,600.93324,89.527,1.1735144300660274,9.071113071577102,0.45,0.55,K0,5190.0,0.83,0.87,0.1,4.54,0.65080251,1.169236,130.46,11.171,21.416555917396728,20.313192

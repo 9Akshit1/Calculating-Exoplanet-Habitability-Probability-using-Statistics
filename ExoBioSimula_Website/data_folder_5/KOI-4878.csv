@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+KOI-4878.01 (unconfirmed),KOI-4878,1,1,2014,449.015,1.125,1.05,1.9,0.0,8160.0,256.0,nan,nan,9.048864358768405,16.92254953501163,0.275,0.725,G0,6031.0,1.068,0.97,-0.22,nan,4.368,1.255691346533937,1.8090114226910936,348.0,12.1,85.29486307401095

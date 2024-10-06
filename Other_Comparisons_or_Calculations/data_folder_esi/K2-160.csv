@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-160 b,K2-160,2018,3.705871,0.046542011,3.178,10.2,nan,457982.2168,1091.2572,88.254,1.7520514997234464,9.917065398751364,0.45,0.55,G5,5649.0,0.91,0.98,0.07,4.61,0.81812303,1.4479055,315.363,12.838,20.56367460347177,20.629104

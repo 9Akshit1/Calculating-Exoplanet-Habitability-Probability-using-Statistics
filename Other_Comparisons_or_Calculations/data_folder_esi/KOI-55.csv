@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-55 c,KOI-55,2011,0.342887,0.0076,0.867,0.655,nan,539400969.6,6392.8264,65.0,5.541053993581934,8.556455504197153,0.3,0.7,O9,27730.0,0.2,0.5,-0.106,5.52,4.203747,7.2517338,1231.02,15.154,43.45628003887927,29.110486

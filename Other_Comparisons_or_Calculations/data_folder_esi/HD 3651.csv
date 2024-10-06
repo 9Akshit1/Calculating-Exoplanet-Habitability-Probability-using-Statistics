@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 3651 b,HD 3651,2003,62.25,0.35636369,10.1,72.46524,0.645,10881.725024000001,388.90424,nan,0.38776980481816076,6.975539118181514,0.4,0.6,K0,5221.0,0.87,0.8,0.145,4.45,0.71572527,1.2844256,11.1336,5.88437,21.35728269376721,20.090943

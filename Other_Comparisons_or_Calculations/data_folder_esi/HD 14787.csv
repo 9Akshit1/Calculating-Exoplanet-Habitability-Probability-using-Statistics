@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 14787 b,HD 14787,2018,676.6,1.7204213,13.7,356.28743,0.155,6207.571352,370.6542,nan,0.7639187567389424,18.64018238464848,0.4,0.6,G5,4946.0,5.01,1.43,0.0,3.23,3.5906275,6.5120613,119.137,7.63,20.4629825951672,23.949559

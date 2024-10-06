@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 217107 b,HD 217107,1998,7.12682,0.080676,13.6,413.179,0.13,268571.6032,951.90568,nan,0.9055863956083918,21.93568569305183,0.45,0.55,G8,5622.0,1.11,1.0,0.36,4.34,1.0740118,1.9022647,20.0619,6.155,21.04541627222621,7.1360977000000005

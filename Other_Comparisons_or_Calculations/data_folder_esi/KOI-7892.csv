@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KIC 8540376 c,KOI-7892,2015,75.2,0.35318257,2.4,6.35,nan,20069.6764,499.28679,89.701,2.53249370587679,10.825352154232872,0.45,0.55,F7,6474.0,1.26,1.04,-0.16,4.31,1.2365685,2.1493894,1072.3,14.411,10.686040712946106,31.742877000000004

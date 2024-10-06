@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 203387 b,HD 203387,2022,512.5352,2.2454722,13.1,1106.0429,0.732,46106.3188,536.60031,nan,2.7124794697720978,63.2878252212497,0.45,0.55,K1,5174.32,10.59,2.82,0.05,nan,8.3714664,15.048913,61.7477,4.28,11.581107646068538,9.8582268

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-159 b,WASP-159,2018,3.840401,0.0538,15.468,174.8065,0.0,2238588.9680000003,1622.5892,88.1,0.2604134802809779,7.174308402655871,0.4,0.6,F9,6120.0,2.11,1.41,0.22,3.94,2.032085,3.5547058,715.383,12.836,13.558216797356941,5.9407897

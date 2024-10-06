@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 142 b,HD 142,2001,351.43394,1.0519688,13.7,396.96768,0.158,3800.12152,327.80063,nan,0.8511416093774129,20.768484467753396,0.5,0.5,G1,6245.0,1.47,1.21,0.09,4.62,1.5945644,2.7824708,26.1853,5.7,15.043410739473826,30.357412

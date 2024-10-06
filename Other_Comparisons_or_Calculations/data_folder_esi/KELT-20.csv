@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-20 b,KELT-20,2017,3.4741085,0.0542,19.515,1074.9011,0.0,5882207.4,2065.8561,86.12,0.7973907896218951,27.71546614039999,0.4,0.6,A2,8720.0,1.57,1.76,-0.29,4.29,3.1306648,5.4005981,136.426,7.59,8.379538748156289,4.7739403

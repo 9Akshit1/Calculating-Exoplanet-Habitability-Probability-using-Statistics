@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-444 b,TOI-444,2023,17.9636,0.133,2.77,8.1,nan,29365.37976,549.12838,89.647,2.101135624289944,10.36612095372144,0.45,0.55,K1,5225.0,0.78,0.96,0.08,4.64,0.60625461,1.0878146,57.3973,9.86,17.504876025211537,27.501344

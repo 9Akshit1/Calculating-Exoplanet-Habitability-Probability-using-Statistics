@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 54373 b,HIP 54373,2019,7.76,0.06426,2.87,8.62,0.2,20975.97632,500.99334,nan,2.0103420190276577,10.276240590862285,0.45,0.55,K5,4021.0,0.56,0.57,nan,4.68,0.25149135,0.47595127,18.7168,10.38,26.00760429785924,29.121143

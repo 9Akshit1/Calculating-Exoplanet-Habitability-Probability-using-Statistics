@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-41 b,Kepler-41,2011,1.8555582,0.03101,14.46,177.98,0.0,2585445.408,1682.0884,82.51,0.3245448321323015,8.35844343436362,0.4,0.6,G2,5750.0,1.29,1.15,0.38,4.28,1.2873855,2.2719888,1093.08,14.509,18.915563307631967,6.3009754000000004

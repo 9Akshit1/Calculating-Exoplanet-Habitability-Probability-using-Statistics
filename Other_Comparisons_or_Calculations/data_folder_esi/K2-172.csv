@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-172 b,K2-172,2018,14.316941,0.11260839,1.666,3.42,nan,62863.33984,664.22366,88.914,4.077645713217424,12.099485491278351,0.3,0.7,G6,5569.0,0.87,0.93,-0.06,4.61,0.73680742,1.3070733,249.742,12.5,54.95039021714799,30.018019000000002

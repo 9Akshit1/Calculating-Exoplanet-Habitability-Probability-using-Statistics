@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 108202 b,HD 108202,2023,2990.0,4.20024,13.1,953.48522,0.52,19.8880892,83.61936,56.0,2.338344275779115,54.558467808441094,0.45,0.55,K4,4556.03,0.66,0.74,0.305,4.65,0.41803372,0.77105689,38.6846,10.26,11.585561626479873,8.3590888

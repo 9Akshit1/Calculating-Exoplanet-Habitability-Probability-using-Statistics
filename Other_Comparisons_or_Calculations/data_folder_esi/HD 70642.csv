@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 70642 b,HD 70642,2003,2124.54,3.3688069,13.0,1239.5308,0.175,128.98530632,140.54759,29.9,3.110538923463965,72.0213751258106,0.3,0.7,G6,5732.0,0.98,1.08,0.22,4.46,0.96644384,1.706423,29.276,7.17,25.000002450011056,15.791774

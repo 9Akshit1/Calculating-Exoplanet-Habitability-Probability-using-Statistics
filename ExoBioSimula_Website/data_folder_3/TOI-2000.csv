@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-2000 b,TOI-2000,1,2,2023.0,3.09833,0.04271,2.7,11.0,0.0,854080.0,1488.0,3.081128188003863,14.816852175716813,0.3,0.7,G6,5611.0,1.13,1.08,0.439,[Fe/H],4.36,1.178440205272459,1.6977195854544338,175.713,10.984,29.7516800516178
+TOI-2000 c,TOI-2000,1,2,2023.0,9.127055,0.0878,8.14,81.7,0.063,202640.0,1038.0,0.8351360216465689,12.107766528639832,0.5,0.5,G6,5611.0,1.13,1.08,0.439,[Fe/H],4.36,1.178440205272459,1.6977195854544338,175.713,10.984,14.179469019486353

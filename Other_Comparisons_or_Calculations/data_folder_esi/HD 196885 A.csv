@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 196885 A b,HD 196885 A,2007,1333.0,2.643024,13.2,819.97,0.48,662.078804,202.78866,nan,1.9655520284981787,46.21052388055614,0.45,0.55,F8,6254.0,1.31,1.28,0.22,4.31,1.4302295,2.4952908,34.1692,6.39677,9.010409524524082,34.529552

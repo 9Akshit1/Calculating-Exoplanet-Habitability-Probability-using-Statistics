@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 102365 b,HD 102365,2010,122.1,0.486588,4.14,16.0,0.34,5993.753512,360.77078,nan,1.2431608759327286,9.166638225224354,0.45,0.55,G3,5630.0,0.95,0.85,-0.26,4.57,0.89805891,1.5902497,9.2894,4.89,21.727038269987755,37.941765

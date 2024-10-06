@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-765 b,Kepler-765,2016,27.665523,0.1754,2.43,6.48,0.0,61869.94552,661.58388,89.99,2.489800555962718,10.775892491430408,0.45,0.55,G1,5901.0,1.06,1.05,0.04,4.41,1.1162094,1.9622582,1076.28,14.709,15.670590562315272,26.188452

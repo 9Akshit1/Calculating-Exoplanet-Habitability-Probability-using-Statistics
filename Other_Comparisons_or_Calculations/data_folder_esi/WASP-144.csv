@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-144 b,WASP-144,2018,2.2783152,0.0316,9.528,139.8452,0.0,1011963.2568000001,1330.4733,86.9,0.8913549763769747,15.12637485357966,0.5,0.5,K2,5200.0,0.81,0.81,0.18,4.53,0.84668798,1.5206085,355.513,13.085,15.247612504426053,9.1488053

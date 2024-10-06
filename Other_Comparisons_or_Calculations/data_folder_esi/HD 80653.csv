@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 80653 b,HD 80653,2020,0.719573,0.01661,1.613,5.72,0.0,8566425.528,2269.4201,82.1,7.514520976946337,21.588282137156405,0.25,0.75,G2,5959.0,1.22,1.18,0.255,4.34,1.2393992,2.1757986,109.86,9.452,51.2131893348652,27.391441999999998

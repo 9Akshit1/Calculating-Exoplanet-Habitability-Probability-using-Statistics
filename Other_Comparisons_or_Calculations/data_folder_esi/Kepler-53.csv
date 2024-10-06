@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-53 c,Kepler-53,2012,38.558304,0.2255,3.17,36.0,0.0,29056.667919999996,547.67944,87.91,6.230646165148555,35.17829346310288,0.25,0.75,G2,5858.0,0.89,0.98,0.16,4.53,0.98600652,1.7352154,1366.07,15.367,47.75312660671812,25.839814999999998

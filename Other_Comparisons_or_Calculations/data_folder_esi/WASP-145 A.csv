@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-145 A b,WASP-145 A,2018,1.7690381,0.0261,10.088,282.8687,0.0,413292.848,1063.6028,83.3,1.519070914252966,27.29389639148342,0.45,0.55,K2,4900.0,0.68,0.76,-0.04,4.65,0.4535113,0.82404937,91.299,11.636,22.9119123045335,8.9311137

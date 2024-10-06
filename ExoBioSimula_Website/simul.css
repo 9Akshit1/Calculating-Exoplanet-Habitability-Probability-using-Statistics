@@ -1,0 +1,271 @@
+.grid_layout {
+    max-width: 100%;
+}
+
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+  max-width: 95%;
+  background: transparent;
+}
+
+#page_header {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 30vh;
+  background-image: url('media/cool_bg.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.category_title {
+    font-size: .9em;
+    font-weight: 700;
+    color: #006edb;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    text-decoration: none; 
+}
+
+#article_title {
+  opacity: 0;
+  position: absolute;
+  top: calc(10% - 4.5vw);
+  left: calc(50% - 29vw);
+  font-family: "Share Tech Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 9vw;
+  color: white;
+  transition: 0.5s;
+  animation: fadeAndMove 1.5s forwards, slowBounce 4s infinite;
+}
+
+@keyframes fadeAndMove {
+  0% {
+    opacity: 0;
+    top: -50px;
+  }
+  100% {
+    opacity: 1;
+    top: calc(10% - 4.5vw);
+  }
+}
+
+@keyframes slowBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/*information gird and main-UI*/
+#planet_names {
+    /* Styling for the planet_names section */
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    z-index: 2;
+}
+
+#information_grid_left{
+    /* Styling for the information_grid sections */
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    left: 10;
+    z-index: 2;
+}
+
+#information_grid_right {
+    /* Styling for the information_grid sections */
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    right: 0;
+    z-index: 2;
+}
+
+/* Fact Row */
+.fact_row {
+    border-bottom: 1px dashed #E4DED8;
+}
+
+/* Planet Fact */
+.planet_fact {
+    vertical-align: text-top;
+    width: 100%;
+}
+
+/* Title */
+.planet_fact .title {
+    font-size: 0.8em;
+    color: #D64502;
+}
+
+/* Value */
+.planet_fact .value {
+    font-size: 2em;
+    font-weight: 200;
+    color: #fff;
+}
+
+/* Special buttons for HB zoen and Camera*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Roboto:wght@400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  top: 60%;
+  left: 50%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.container .btn {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 50px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .btn a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0 15px 15px rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  padding: 10px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  overflow: hidden;
+  color: #000000;
+  font-weight: 400px;
+  z-index: 1;
+  transition: 0.5s;
+  backdrop-filter: blur(15px);
+}
+.container .btn:hover a {
+  letter-spacing: 3px;
+}
+.container .btn a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(to left, rgba(255, 255, 255, 0.15), transparent);
+  transform: skewX(45deg) translate(0);
+  transition: 0.5s;
+  filter: blur(0px);
+}
+.container .btn:hover a::before {
+  transform: skewX(45deg) translate(200px);
+}
+.container .btn::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+  bottom: -5px;
+  width: 30px;
+  height: 10px;
+  background: #f00;
+  border-radius: 10px;
+  transition: 0.5s;
+  transition-delay: 0.5;
+}
+.container .btn:hover::before /*lightup button*/ {
+  bottom: 0;
+  height: 50%;
+  width: 80%;
+  border-radius: 30px;
+}
+
+.container .btn::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+  top: -5px;
+  width: 30px;
+  height: 10px;
+  background: #f00;
+  border-radius: 10px;
+  transition: 0.5s;
+  transition-delay: 0.5;
+}
+.container .btn:hover::after /*lightup button*/ {
+  top: 0;
+  height: 50%;
+  width: 80%;
+  border-radius: 30px;
+}
+.container .btn:nth-child(1)::before, /*chnage 1*/
+.container .btn:nth-child(1)::after {
+  background: #ff1f71;
+  box-shadow: 0 0 5px #ff1f71, 0 0 15px #ff1f71, 0 0 30px #ff1f71,
+    0 0 60px #ff1f71;
+}
+.container .btn:nth-child(2)::before, /* 2*/
+.container .btn:nth-child(2)::after {
+  background: #2db2ff;
+  box-shadow: 0 0 5px #2db2ff, 0 0 15px #2db2ff, 0 0 30px #2db2ff,
+    0 0 60px #2db2ff;
+}
+.container .btn:nth-child(3)::before, /* 3*/
+.container .btn:nth-child(3)::after {
+  background: #1eff45;
+  box-shadow: 0 0 5px #1eff45, 0 0 15px #1eff45, 0 0 30px #1eff45,
+    0 0 60px #1eff45;
+}
+
+/*name buttons*/
+.name_btn {
+  position: relative;
+  margin: 0.5em;
+  padding: 0.5em 1em;
+  border: 0;
+  border-radius: 0.5em;
+  background-color: pink;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.name_btn:nth-child(even) {
+  background-color: lightblue;
+}
+
+.name_btn:active, .active {
+  top: 2px;
+  left: 1px;
+  box-shadow: none;
+}

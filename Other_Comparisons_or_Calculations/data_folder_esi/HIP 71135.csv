@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 71135 b,HIP 71135,2019,87.19,0.34238675,4.55,18.8,0.21,1531.9446639999999,260.23516,nan,1.100353004937557,8.917145379395727,0.45,0.55,M1,4146.0,0.68,0.66,nan,4.54,0.35993334,0.67698324,32.3311,10.53,62.26937932843198,54.575672

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-65 b,WASP-65,2013,2.3114243,0.0334,12.464,492.62,0.0,1383712.824,1438.7206,88.8,1.4026460512059522,31.137801837236026,0.45,0.55,G6,5600.0,1.01,0.93,-0.07,4.4,1.0234557,1.8138957,273.703,11.869,18.46770758639357,7.235430399999999

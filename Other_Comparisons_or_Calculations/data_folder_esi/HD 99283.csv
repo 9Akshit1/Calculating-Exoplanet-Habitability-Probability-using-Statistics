@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 99283 b,HD 99283,2021,310.4,1.1016,13.8,308.29355,0.2,76834.41312,693.09114,nan,0.6467486844303175,15.89633685011315,0.4,0.6,K0,4886.0,11.21,1.76,-0.16,2.57,8.0142519,14.570668,111.093,5.72916,20.47905381604358,8.3585522

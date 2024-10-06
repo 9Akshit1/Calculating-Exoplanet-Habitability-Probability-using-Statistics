@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 48714 b,HIP 48714,2020,17.818,0.126,5.11,22.9,0.5,8741.223608,384.76501,nan,0.9461961060669563,8.611612377077503,0.45,0.55,M0,4015.5,0.6,0.58,nan,4.66,0.27137915,0.51372963,10.5298,8.99,31.342822471615413,29.770308

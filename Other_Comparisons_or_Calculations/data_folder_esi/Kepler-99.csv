@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-99 b,Kepler-99,2014,4.60358,0.050692,1.48,6.15,0.0,137613.1912,807.94165,89.05,10.45919702507839,27.5703624916993,0.25,0.75,K3,4782.0,0.73,0.79,0.18,4.61,0.51090308,0.93295407,208.369,13.206,52.06120790295745,29.335307

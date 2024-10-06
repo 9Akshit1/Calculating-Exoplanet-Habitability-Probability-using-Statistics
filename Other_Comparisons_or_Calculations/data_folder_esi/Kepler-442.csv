@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-442 b,Kepler-442,2015,112.3053,0.4093272,1.34,2.36,0.04,951.5683904,232.91347,89.94,5.407617718548432,12.906045665763896,0.3,0.7,K5,4402.0,0.6,0.61,-0.37,4.67,0.34754488,0.64565142,365.965,15.322,69.4440364629128,83.824202

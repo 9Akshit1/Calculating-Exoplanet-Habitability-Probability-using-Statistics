@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-6 b,KELT-6,2014,7.8457,0.081311238,14.572,165.2716,0.22,688303.6704,1197.1148,88.81,0.2944754664154666,7.642768370256452,0.4,0.6,F8,6102.0,1.73,1.42,-0.28,4.07,1.6440645,2.877029,240.726,10.371,13.70016216104669,6.4117527999999995

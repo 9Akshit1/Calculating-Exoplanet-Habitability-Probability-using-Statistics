@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 233832 b,HD 233832,2018,2058.0,3.0091733,13.5,565.7374,0.359,54.68252368,111.18888,nan,1.2677159637440119,30.481627003906805,0.45,0.55,G0,4981.0,0.68,0.71,-0.66,4.49,0.54382268,0.98490212,58.742,10.15,18.637017532667944,10.710443999999999

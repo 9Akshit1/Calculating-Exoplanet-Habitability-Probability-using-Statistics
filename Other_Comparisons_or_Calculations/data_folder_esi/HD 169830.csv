@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 169830 c,HD 169830,2003,1818.8234,3.1680434,12.6,2437.4261,0.246,681.4028944,211.83972,24.469,6.7178174230695324,150.75827454378737,0.25,0.75,F7,6179.26,1.94,1.17,0.12,4.01,1.9878064,3.4730698,37.6048,5.9,23.65515102526404,35.269416

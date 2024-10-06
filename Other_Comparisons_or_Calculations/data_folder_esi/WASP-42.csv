@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-42 b,WASP-42,2012,4.9816819,0.056207824,12.576,167.49641,0.062,188559.9744,873.50186,88.0,0.46428675187610513,10.399470730532633,0.4,0.6,G9,5315.0,0.89,0.95,0.29,4.52,0.64426719,1.1523505,177.291,12.169,20.378842708440356,7.8418033

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-50 b,HATS-50,2017,3.8297015,0.057177639,12.666,123.9537,0.516,866706.6616,1209.3895,87.54,0.3363174630629297,7.58702156963645,0.4,0.6,G0,5990.0,1.12,1.17,nan,4.41,1.1063425,1.9408183,756.742,14.045,18.686051001278518,7.1974228

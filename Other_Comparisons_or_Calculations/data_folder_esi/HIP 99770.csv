@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 99770 b,HIP 99770,2023,18600.0,17.428125,12.2,5117.0373,0.25,68.19929168,119.10525,148.0,15.536295224000765,337.59010803859235,0.4,0.6,A5,8000.0,1.94,1.85,nan,4.14,3.2706688,5.642114,40.0765,4.94292,5.518191617571637,12.306223

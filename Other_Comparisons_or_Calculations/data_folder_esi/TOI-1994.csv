@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1994 b,TOI-1994,2024,4.0337142,0.064864013,13.675,7024.0078,0.341,6433700.864,2064.7159,85.5,15.142980205823672,368.8256414257547,0.4,0.6,A8,7700.0,2.3,1.86,-0.01,3.98,3.5903482,6.1935815,515.603,10.514,5.518191617571637,6.588109

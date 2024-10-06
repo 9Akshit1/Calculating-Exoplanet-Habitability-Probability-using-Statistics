@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 30562 b,HD 30562,2009,1157.0,3.015792,13.6,467.20776,0.76,1077.0732432,206.52001,65.0,1.0240041032546923,24.804074206856576,0.45,0.55,G2,5882.0,1.61,1.12,0.2,4.07,1.5857957,2.789078,26.1597,5.77466,21.275409412836428,38.426054

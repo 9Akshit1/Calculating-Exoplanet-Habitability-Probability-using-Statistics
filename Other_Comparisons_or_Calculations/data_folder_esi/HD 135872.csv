@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 135872 b,HD 135872,2022,2422.326,4.2281051,12.8,1744.5601,0.164,685.1263703999999,213.5218,93.872,4.586320503386909,104.55788443068,0.3,0.7,K2,4992.0,3.93,1.65,0.09,nan,2.9189767,5.2841557,82.4251,7.28103,39.06953932913137,35.190932000000004

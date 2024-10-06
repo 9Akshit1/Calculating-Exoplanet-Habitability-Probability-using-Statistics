@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WTS-1 b,WTS-1,2012,3.352057,0.047235,16.7,1274.44,0.1,757749.3912000001,1235.3176,85.5,1.5086147687716436,44.87218761483729,0.45,0.55,F6,6250.0,1.15,1.2,-0.5,4.4,1.0221408,1.7834404,2346.01,16.644,11.697815180316192,5.6701132

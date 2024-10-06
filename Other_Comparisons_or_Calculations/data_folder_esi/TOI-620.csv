@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-620 b,TOI-620,2022,5.0988179,0.04941765,3.76,13.6,0.22,30854.396159999997,550.83312,87.47,1.4105346141391866,9.44613199173106,0.45,0.55,M2,3708.0,0.55,0.58,0.35,4.72,0.23447385,0.4507402,33.0231,12.262,30.93278019009103,23.368884

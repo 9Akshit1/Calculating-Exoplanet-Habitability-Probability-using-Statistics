@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 112300 b,HD 112300,2023,466.63,1.416184,12.2,5031.2237,0.36,413976.96880000003,1036.9969,nan,15.275748867648367,331.92866357439414,0.4,0.6,M1,3657.0,65.8,1.4,-0.06,0.8,23.17032,44.655023,62.07324,3.39515,15.518191617571638,7.6184118

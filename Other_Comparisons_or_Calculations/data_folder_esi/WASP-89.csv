@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-89 b,WASP-89,2015,3.3564227,0.043495266,11.657,1875.197,0.193,345085.0672,1009.5191,89.4,6.52671854251361,135.50773863795126,0.25,0.75,K3,5130.0,0.88,0.92,0.15,4.52,0.66417952,1.1959335,290.946,13.21,22.328685629088973,7.986484000000001

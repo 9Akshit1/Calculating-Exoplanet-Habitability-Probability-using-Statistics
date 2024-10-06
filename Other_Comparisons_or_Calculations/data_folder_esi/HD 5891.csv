@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 5891 b,HD 5891,2011,177.11,0.641568,12.6,2425.0429,0.07,130992.2488,797.30878,nan,6.683687946605258,149.9923559933416,0.25,0.75,G5,4673.0,10.64,1.93,-0.37,2.67,6.3136394,11.584224,283.502,8.09,21.68201174607107,8.162412199999999

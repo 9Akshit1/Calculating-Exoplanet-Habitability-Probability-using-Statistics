@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-46 b,HAT-P-46,2014,4.463129,0.058136472,14.392,156.684,0.123,1012739.164,1326.9345,85.5,0.2897807777165525,7.428021304711504,0.4,0.6,F9,6120.0,1.4,1.28,0.3,4.25,1.4602992,2.5544868,290.736,11.997,13.63514102935074,6.414443

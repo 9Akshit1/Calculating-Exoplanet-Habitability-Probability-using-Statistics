@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-9 b,HATS-9,2015,1.915291,0.03128775,13.85,266.02371,0.075,2873787.304,1725.3194,88.94,0.5520512533202737,13.617945453914656,0.4,0.6,G6,5599.0,1.56,1.1,0.38,4.1,1.375924,2.4386562,638.7,13.256,20.215846029710544,6.5417947000000005

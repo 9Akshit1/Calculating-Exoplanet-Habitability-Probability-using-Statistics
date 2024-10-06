@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-824 b,TOI-824,1,1,2020.0,1.392978,0.02177,2.926,18.467,nan,560320.0,1253.0,4.064262576810959,21.18061162000714,0.3,0.7,K4,4600.0,0.69,0.71,-0.092,[Fe/H],4.61,0.41704464264278107,0.6008152595742414,63.9262,11.314,34.730742431643556

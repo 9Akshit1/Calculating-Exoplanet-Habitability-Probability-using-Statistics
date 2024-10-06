@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-833 b,TOI-833,2022,1.0418777,0.0171,1.27,2.15,nan,360202.4736,1027.6652,nan,5.786762674737366,13.089462378668431,0.3,0.7,K7,3920.0,0.6,0.61,nan,4.67,0.2863878,0.54472822,41.7148,11.724,62.55276926254114,29.319093000000002

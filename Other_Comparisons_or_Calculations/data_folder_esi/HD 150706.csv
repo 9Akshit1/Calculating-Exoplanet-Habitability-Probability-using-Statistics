@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 150706 b,HD 150706,2012,5894.0,7.18374,13.3,772.32303,0.38,35.25769536,99.30747,70.0,1.809891068686375,42.87325870748194,0.45,0.55,G0,5961.0,0.96,1.17,-0.01,4.5,0.97534494,1.712164,28.2697,7.03,16.763856079068898,9.409821599999999

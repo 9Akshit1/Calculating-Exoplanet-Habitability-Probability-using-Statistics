@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 9689 b,GJ 9689,2020,18.27,0.11868949,3.07,9.65,0.29,6911.4223520000005,376.27216,nan,1.83874100591412,10.054057243755798,0.45,0.55,M0,3836.0,0.57,0.59,0.05,4.69,0.25891236,0.49454139,30.6203,11.297,31.960894273110846,40.454847

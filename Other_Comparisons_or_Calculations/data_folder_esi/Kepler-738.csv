@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-738 b,Kepler-738,2016,24.587216,0.1552,2.5,6.8,0.0,34574.46536,572.0103,89.02,2.399370203033973,10.683650851703762,0.45,0.55,G9,5327.0,0.82,0.86,-0.09,4.55,0.76345353,1.3649651,1113.65,15.793,16.18806987287202,27.957781999999998

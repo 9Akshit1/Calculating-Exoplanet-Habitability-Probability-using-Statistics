@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 4313 b,HD 4313,2009,356.21,1.1695008,13.4,612.45841,0.147,14474.91248,458.2401,nan,1.4033648092330508,33.493289016276044,0.45,0.55,G5,4943.0,5.14,1.63,0.14,3.24,3.7344864,6.7737922,136.308,7.83,17.89610115747031,15.517062000000001

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 17156 b,HD 17156,2007,21.21663,0.20041474,12.33,1115.5833,0.68,171833.2392,764.31088,87.82,3.281112709421564,72.05541807922397,0.3,0.7,G5,6040.0,1.55,1.41,0.19,4.2,1.4657615,2.5684422,78.0863,8.17,25.000029141754773,8.0415087

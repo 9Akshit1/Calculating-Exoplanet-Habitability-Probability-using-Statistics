@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 211810 b,HD 211810,2018,1558.0,3.2700672,14.0,212.9461,0.68,308.9250608,157.38253,nan,0.4278523858139458,10.668525766394033,0.4,0.6,G5,5652.0,1.13,1.03,0.17,4.26,1.038106,1.8370706,64.6353,8.59,19.570942184507523,24.245511999999998

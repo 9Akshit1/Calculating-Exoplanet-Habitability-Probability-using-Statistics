@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 1252 b,GJ 1252,2020,0.5182331,0.00915,1.193,1.32,0.0,318197.4728,996.29778,85.0,4.286086925909251,9.107178212187092,0.3,0.7,M3,3458.0,0.39,0.38,0.1,4.89,0.14506997,0.28235906,20.373,12.68,66.306383765169,29.615550000000002

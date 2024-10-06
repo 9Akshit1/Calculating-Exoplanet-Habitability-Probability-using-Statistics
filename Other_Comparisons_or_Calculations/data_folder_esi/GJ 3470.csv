@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 3470 b,GJ 3470,2012,3.3366496,0.03550513,4.57,13.9,0.017,31271.230720000003,557.79894,89.13,0.8029242496841932,6.535415312313767,0.5,0.5,M1,3600.0,0.55,0.54,0.2,4.7,0.17611099,0.34037555,29.4214,12.332,25.421259002181568,20.910414

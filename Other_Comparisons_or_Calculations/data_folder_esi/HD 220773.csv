@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 220773 b,HD 220773,2011,3724.7,5.582447,13.6,460.8,0.51,203.9381608,150.0106,nan,1.0099598747669822,24.463886033313127,0.45,0.55,F9,5940.0,1.68,1.16,0.09,4.24,1.6699919,2.933031,50.5103,7.10831,15.407575309886436,19.650512

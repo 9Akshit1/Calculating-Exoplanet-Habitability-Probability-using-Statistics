@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 35965 b,HIP 35965,2022,26125.565,16.049381,12.6,2589.9837,0.138,1.303254272,44.658991,43.698,7.138283136184557,160.1941793060041,0.25,0.75,K3,4836.0,0.7,0.78,nan,4.64,0.48958433,0.89197297,50.1677,10.18,21.68201174607107,7.164585800000001

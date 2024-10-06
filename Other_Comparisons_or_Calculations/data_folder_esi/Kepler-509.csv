@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-509 b,Kepler-509,2016,41.746004,0.2384,2.49,6.76,0.0,40919.13192,596.61832,89.96,2.414109856167126,10.706284824734421,0.45,0.55,G0,6060.0,1.2,1.1,0.01,4.32,1.2218917,2.1401722,332.443,11.848,15.647255157845844,27.276451

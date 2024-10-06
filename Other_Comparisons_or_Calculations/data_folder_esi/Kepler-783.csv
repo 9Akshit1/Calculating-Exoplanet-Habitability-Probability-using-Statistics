@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-783 c,Kepler-783,2020,7.05395,0.0684,2.332,6.04,0.0,170775.948,852.74986,86.66,2.625788094436995,10.90612918449266,0.45,0.55,G8,5411.49,0.87,0.94,-0.03,4.53,0.74431522,1.3269703,516.09,14.153,16.050967604618087,24.884932000000003

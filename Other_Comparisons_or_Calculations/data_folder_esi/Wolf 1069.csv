@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Wolf 1069 b,Wolf 1069,2023,15.564,0.0672,1.08,1.26,nan,886.7483016,228.91016,nan,5.514519200120549,10.607519171251807,0.3,0.7,M5,3158.0,0.18,0.17,0.07,4.93,0.05642359,0.11142244,9.58341,13.993,69.10976012754026,84.859348

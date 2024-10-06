@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 103720 b,HD 103720,2014,4.5557,0.04998416,14.1,197.046,0.086,191730.95040000003,876.56452,nan,0.38754189605601075,9.732405356562818,0.4,0.6,K3,5017.0,0.73,0.79,-0.02,4.43,0.58507414,1.0580965,45.5352,9.5,20.701873687865476,7.1380716

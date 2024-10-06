@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+G 9-40 b,G 9-40,2019,5.746007,0.0385,2.025,11.7,0.0,9808.83544,417.4643,88.57,7.768177734603678,28.017320477719053,0.25,0.75,M2,3348.0,0.31,0.29,0.04,4.93,0.10730449,0.20997984,27.9276,13.821,63.61075997733011,41.388817

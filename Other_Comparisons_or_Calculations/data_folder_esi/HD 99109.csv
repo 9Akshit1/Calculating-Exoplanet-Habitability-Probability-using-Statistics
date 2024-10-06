@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 99109 b,HD 99109,2005,439.29999,1.1144955,14.3,139.8452,0.09,745.8628960000001,218.88595,nan,0.26366217266757774,6.715313321118658,0.4,0.6,G8,5282.0,0.98,0.76,0.35,4.34,0.8023052,1.4366724,54.7901,9.1,33.41938944086964,35.165644

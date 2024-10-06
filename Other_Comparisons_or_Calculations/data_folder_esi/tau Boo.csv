@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+tau Boo b,tau Boo,1996,3.3124568,0.049002965,12.8,1891.0,0.011,1812061.824,1539.0346,44.5,4.9713002560958754,113.33456466098009,0.3,0.7,F7,6466.27,1.43,1.32,0.264,4.25,1.6308512,2.8350632,15.6521,4.48635,20.000000077687286,7.044331700000001

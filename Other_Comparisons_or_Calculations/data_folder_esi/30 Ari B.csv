@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+30 Ari B b,30 Ari B,2009,335.10001,1.0316295,12.3,4392.4106,0.29,3486.137368,317.10008,nan,13.013555575933886,285.0909946987928,0.4,0.6,F6,6331.0,1.41,1.93,0.19,4.43,1.4252578,2.4831669,44.657,7.09209,11.01648826329288,32.385524

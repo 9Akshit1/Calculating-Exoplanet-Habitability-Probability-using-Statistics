@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGC 2682 YBP 401 b,NGC 2682 YBP 401,2016,4.087,0.052837164,14.3,146.2018,0.15,980208.7936,1314.3009,nan,0.27564681687974035,7.020554835714961,0.4,0.6,F9,6165.0,1.22,1.14,-0.046,4.3,1.2949437,2.2631523,830.822,13.699,13.511690788688403,6.4554917000000005

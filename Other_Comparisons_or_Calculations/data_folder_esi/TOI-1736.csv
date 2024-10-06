@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1736 c,TOI-1736,2023,570.1,1.4714859,12.5,2800.0,0.362,1360.3563199999999,248.20713,69.0,7.9038077276413246,175.96601402806198,0.25,0.75,G2,5807.0,1.15,1.08,0.138,4.35,1.2653762,2.2297715,88.9482,8.953,42.78476041155517,39.764978

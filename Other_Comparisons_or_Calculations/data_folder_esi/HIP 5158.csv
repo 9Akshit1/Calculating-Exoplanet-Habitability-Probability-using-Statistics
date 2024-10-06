@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 5158 b,HIP 5158,2009,345.72,1.010328,13.6,451.0,0.52,220.91056640000002,152.65559,nan,0.9884806934025803,23.94360373486159,0.45,0.55,K2,4962.0,0.75,0.78,0.1,4.37,0.32949282,0.59719084,51.6026,10.16,25.083122215609986,20.50307

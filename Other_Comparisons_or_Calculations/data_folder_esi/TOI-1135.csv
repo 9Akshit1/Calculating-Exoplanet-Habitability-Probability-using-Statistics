@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1135 b,TOI-1135,2024,8.02773,0.082,9.02,51.42,0.0,344279.5256,1016.1148,89.97,0.3862965541725856,6.205971665913596,0.4,0.6,G0,6122.0,1.16,1.12,0.0,4.56,1.2144758,2.1243822,114.048,9.54,18.266011972486474,9.8622772

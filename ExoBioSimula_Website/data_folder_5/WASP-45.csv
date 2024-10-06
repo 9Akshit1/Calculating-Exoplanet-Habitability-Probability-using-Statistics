@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+WASP-45 b,WASP-45,2,1,2011,3.126089,0.03963,10.604,306.38812,nan,399840.0,1153.0,85.02,nan,1.4166779655847708,26.756128613472598,0.45,0.55,K1,5150.0,0.85,0.85,-0.03,[Fe/H],4.5,1.0538755911797064,1.518265605478466,211.196,11.801,19.763031384649963

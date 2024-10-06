@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 176986 c,HD 176986,2017,16.8191,0.11951174,2.98,9.18,0.111,32117.693359999997,560.26374,nan,1.9125036094966963,10.150815735918487,0.45,0.55,K2,4931.0,0.78,0.79,0.03,4.44,0.57275918,1.0394057,27.7843,8.42,17.770992589588587,26.121765000000003

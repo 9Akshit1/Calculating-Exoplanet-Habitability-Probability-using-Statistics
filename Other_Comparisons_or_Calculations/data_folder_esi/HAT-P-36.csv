@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-36 b,HAT-P-36,2011,1.3273468,0.024147826,14.314,587.41341,0.063,2468132.08,1661.435,87.13,1.1042545378505333,28.152218347789148,0.45,0.55,G5,5620.0,1.04,1.03,0.25,4.42,0.98414717,1.7432006,294.419,12.146,19.32214992996688,6.3609167

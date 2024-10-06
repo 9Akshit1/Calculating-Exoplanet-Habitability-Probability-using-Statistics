@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Ross 128 b,Ross 128,1,1,2017,9.865,0.0501,1.128,1.35,0.0,220374.4,253.0,nan,nan,5.1857890225705425,10.41852793205632,0.3,0.7,M5,3192.0,0.186,0.164,0.35,0.35,4.75,0.4080178563916119,0.5878108222309165,11.03,11.036,78.90771729895802
+Ross 128 b,Ross 128,1,1,2017,9.8658,0.0496,nan,1.4,0.116,1876.8,301.0,nan,nan,nan,nan,0.4,0.6,M5,3192.0,0.2,0.17,-0.02,[M/H],nan,0.12009315040443198,0.1730121669375584,3.37454,11.12,nan

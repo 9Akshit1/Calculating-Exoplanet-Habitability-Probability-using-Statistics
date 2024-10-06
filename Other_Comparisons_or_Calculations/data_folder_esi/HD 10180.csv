@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 10180 d,HD 10180,2010,16.357,0.12969337,3.45,11.75,0.131,123561.54336000001,783.93159,90.0,1.5775711515586324,9.693719923174754,0.45,0.55,G1,5911.0,1.11,1.06,0.08,4.39,1.1507512,2.0224891,38.9607,7.33,20.370627101686427,20.626043

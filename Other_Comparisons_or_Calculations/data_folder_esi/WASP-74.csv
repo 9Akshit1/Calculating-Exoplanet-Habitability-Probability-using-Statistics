@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-74 b,WASP-74,2015,2.13775,0.03443,15.244,228.8376,0.0,2881806.816,1728.348,79.81,0.3561549121067191,9.669862425031804,0.4,0.6,F9,5990.0,1.42,0.98,0.39,4.39,1.4872692,2.6090649,149.216,9.75,14.298010069668354,6.0045648

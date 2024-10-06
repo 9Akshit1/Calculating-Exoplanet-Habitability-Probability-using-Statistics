@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 183263 c,HD 183263,2008,4667.9784,5.5922633,12.5,2958.9825,0.051,77.63509544,124.45647,73.718,8.352581696234086,185.95727003706781,0.25,0.75,G2,5875.99,1.29,1.06,0.278,4.28,1.2601021,2.2165826,54.1955,7.86,21.68201174607107,12.784502999999999

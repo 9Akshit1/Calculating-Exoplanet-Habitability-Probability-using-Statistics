@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Qatar-3 b,Qatar-3,2017,2.5079204,0.03783,12.285,1369.8473,0.0,1806617.6079999998,1537.9122,86.8,4.073381157464425,89.12768527035513,0.3,0.7,G0,6007.0,1.27,1.15,-0.041,4.29,1.2925244,2.2665527,735.601,12.929,25.000080589342637,7.3024845

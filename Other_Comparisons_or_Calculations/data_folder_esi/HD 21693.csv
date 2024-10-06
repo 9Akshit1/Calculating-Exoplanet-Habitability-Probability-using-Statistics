@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 21693 b,HD 21693,2019,22.6786,0.1465476,2.8,8.23,0.12,40083.21744,591.93749,nan,2.066969725700995,10.308003651795325,0.45,0.55,G8,5430.0,0.91,0.8,0.0,4.37,0.76349529,1.3603395,33.255,7.95,16.062962012197133,25.925028

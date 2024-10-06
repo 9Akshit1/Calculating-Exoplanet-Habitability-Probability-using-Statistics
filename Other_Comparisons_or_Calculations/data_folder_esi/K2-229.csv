@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-229 c,K2-229,2018,8.32727,0.0769,2.03,21.3,0.0,93904.46264,734.322,87.94,14.037826297683035,50.754940012856395,0.4,0.6,G9,5315.0,0.79,0.87,-0.09,4.59,0.62382966,1.1157955,102.564,10.985,16.748977597435175,27.224106999999997

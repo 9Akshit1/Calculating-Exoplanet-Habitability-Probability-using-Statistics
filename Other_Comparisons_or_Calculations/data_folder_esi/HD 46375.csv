@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 46375 b,HD 46375,2000,3.023573,0.039878983,10.0,71.8,0.063,489368.868,1108.665,nan,0.3958519774306969,7.050423999561858,0.4,0.6,K1,5285.0,0.91,0.92,0.24,4.53,0.73751293,1.320511,29.5529,7.91,18.820194340730914,8.9404974

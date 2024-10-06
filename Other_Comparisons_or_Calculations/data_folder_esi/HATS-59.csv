@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-59 c,HATS-59,2018,1422.0,2.512625,12.3,4036.441,0.083,215.66087119999997,160.54442,nan,11.95891141927354,261.9866593831164,0.4,0.6,G5,5670.0,1.04,1.04,0.18,4.42,0.9523122,1.6843801,642.884,14.033,15.568120397763812,20.964746

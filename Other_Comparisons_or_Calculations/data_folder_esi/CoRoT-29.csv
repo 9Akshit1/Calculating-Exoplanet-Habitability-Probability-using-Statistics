@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-29 b,CoRoT-29,2015,2.85057,0.038729773,10.088,270.1555,0.082,737614.3056000001,1227.7875,87.3,1.450798064174181,26.067204418832475,0.45,0.55,K0,5260.0,0.9,0.97,0.2,4.3,0.87871997,1.5747301,806.507,15.408,19.993709990417358,8.7739955

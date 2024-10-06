@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 3341 b,GJ 3341,2015,14.207,0.09327645,2.46,6.6,0.31,5232.3730160000005,350.12782,nan,2.4442576816806367,10.70938452914689,0.45,0.55,M2,3526.0,0.44,0.47,-0.09,4.77,0.17628436,0.34196424,23.619,12.062,29.081645771567576,48.858245

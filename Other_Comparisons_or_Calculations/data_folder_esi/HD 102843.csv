@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 102843 b,HD 102843,2019,3090.942,4.0986477,13.1,113.9,0.11,59.998495760000004,116.48224,nan,0.27933040536406134,6.51736319875146,0.4,0.6,K0,5436.0,0.96,0.95,0.16,4.46,0.82729391,1.4737234,62.758,9.26,18.359239866189235,11.271121

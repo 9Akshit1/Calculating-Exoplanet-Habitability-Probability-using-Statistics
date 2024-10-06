@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-431 c,Kepler-431,2015,8.703,0.0847,0.668,0.229,0.0,596722.0456,1165.8911,82.35,4.2355954140728755,5.0393363770546955,0.3,0.7,G0,6004.0,1.09,1.07,0.07,4.4,1.6634828,2.9172585,486.546,12.139,52.4015084664174,28.217616

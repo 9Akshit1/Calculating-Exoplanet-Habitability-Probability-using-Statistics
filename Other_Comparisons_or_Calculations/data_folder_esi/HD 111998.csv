@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 111998 b,HD 111998,2016,810.0,1.9261395,12.9,1525.5764,0.13,1222.2873792,247.24199,90.0,3.918079152911897,90.02131078846253,0.3,0.7,F6,6557.0,1.45,1.4,0.07,4.19,1.6354387,2.8392381,33.2237,6.11006,38.850375437324416,39.346183

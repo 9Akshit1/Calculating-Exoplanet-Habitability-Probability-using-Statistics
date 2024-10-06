@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-6 b,HAT-P-6,2007,3.85298,0.05239,16.589,419.5356,0.0,1770280.5839999998,1530.1201,85.51,0.506659945612245,14.969910229944482,0.4,0.6,F6,6570.0,1.62,1.79,-0.13,4.22,1.7132148,2.9737217,275.358,10.469,15.400772540681723,5.5953864

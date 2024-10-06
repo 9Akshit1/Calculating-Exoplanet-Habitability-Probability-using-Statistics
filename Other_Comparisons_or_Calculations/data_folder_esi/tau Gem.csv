@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+tau Gem b,tau Gem,2013,305.5,1.1705622,12.1,6547.0,0.031,328379.43919999996,1003.993,nan,20.374858648131678,439.09894282389246,0.4,0.6,K2,4388.0,26.8,2.3,0.14,1.96,18.480176,34.354304,112.537,4.37799,15.518191617571638,7.762934100000001

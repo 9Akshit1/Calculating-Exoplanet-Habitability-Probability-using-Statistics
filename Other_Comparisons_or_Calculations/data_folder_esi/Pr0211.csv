@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Pr0211 c,Pr0211,2016,4850.0,6.886275,12.6,2475.8957,0.71,29.45211376,86.261418,nan,6.823843919273259,153.1376740744602,0.25,0.75,G9,5300.0,0.83,0.94,0.18,4.51,0.66361885,1.1875814,182.714,12.163,21.68201174607107,9.3214985

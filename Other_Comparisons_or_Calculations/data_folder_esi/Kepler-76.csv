@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-76 b,Kepler-76,2013,1.5449298,0.0274,15.244,638.8383,0.0,5117263.568,1995.1448,77.55,0.9942657962979242,26.995032603213787,0.45,0.55,F7,6409.0,1.32,1.2,-0.1,4.2,1.5377194,2.6755872,822.96,13.474,14.66063459241453,5.9826668

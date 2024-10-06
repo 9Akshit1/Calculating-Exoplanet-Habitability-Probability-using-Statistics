@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 47536 b,HD 47536,2002,712.13,1.9686,12.6,2330.0,0.2,65961.21856,667.15013,nan,6.421739143497318,144.11381731205083,0.25,0.75,K1,4380.0,23.47,2.1,-0.65,2.13,13.530587,25.162657,122.536,5.25,21.68201174607107,9.216344999999999

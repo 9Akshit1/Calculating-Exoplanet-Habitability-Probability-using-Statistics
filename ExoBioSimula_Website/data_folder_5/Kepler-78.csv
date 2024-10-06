@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-78 b,Kepler-78,2,1,2013,0.35500745,0.00901,1.201,1.68,0.0,5535200.0,2223.0,75.2,nan,5.346734683683198,11.43705101087063,0.3,0.7,K1,5058.0,0.75,0.78,-0.18,[Fe/H],nan,0.6451196091533937,0.9293914027374899,124.376,11.717,55.577428771889736

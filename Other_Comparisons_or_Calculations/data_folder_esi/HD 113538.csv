@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 113538 b,HD 113538,2010,663.2,1.252152,13.2,114.41,0.14,80.35148056,125.12787,nan,0.27425248189626034,6.447731059885639,0.4,0.6,K9,4462.0,0.53,0.58,-0.24,3.79,0.30419232,0.56352197,16.2817,9.05,19.368282300387104,12.608600000000001

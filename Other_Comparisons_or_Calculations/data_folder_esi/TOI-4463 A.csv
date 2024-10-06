@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-4463 A b,TOI-4463 A,2023,2.8807198,0.04036,13.26,252.35576,0.0,856320.9944,1276.0689,83.82,0.5967480715526943,14.093438510140716,0.4,0.6,G5,5640.0,1.06,1.06,0.25,4.41,0.97061977,1.718239,173.117,11.036,20.30666545954009,6.9184993

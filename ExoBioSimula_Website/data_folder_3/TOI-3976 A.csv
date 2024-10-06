@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-3976 A b,TOI-3976 A,2,1,2023.0,6.607662,0.0743,12.274,55.61997,0.0,637840.0,1295.0,0.16583674614168234,3.6253446811044534,0.4,0.6,G1,5975.0,1.5,1.25,0.182,[Fe/H],4.18,1.645987667469317,2.371291719322356,516.087,12.403,16.320943706923984

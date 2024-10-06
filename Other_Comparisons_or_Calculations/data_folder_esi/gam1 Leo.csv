@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+gam1 Leo b,gam1 Leo,2009,428.5,1.2023379,12.5,2790.43,0.144,314047.32399999996,989.14567,nan,7.876793641943636,175.36458733011608,0.25,0.75,K1,4330.0,31.88,1.23,-0.469,1.66,18.322741,34.15591,39.8883,1.99509,21.68201174607107,7.574939799999999

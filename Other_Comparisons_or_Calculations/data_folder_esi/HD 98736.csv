@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 98736 b,HD 98736,2018,968.8,1.9116028,13.3,740.5439,0.226,242.120392,163.85931,nan,1.7354186506391969,41.109133064370276,0.45,0.55,G5,5271.0,0.93,0.92,0.36,4.47,0.75961852,1.3607614,32.4459,7.93,17.690092103347588,21.683473

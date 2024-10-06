@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 99706 c,HD 99706,2018,1278.0,2.9940109,12.8,1808.4527,0.411,3923.182072,320.82774,nan,4.75428946094515,108.38720225514228,0.3,0.7,K0,4862.0,5.4,1.72,0.02,3.2,4.4702245,8.1354121,146.6,7.65,25.000001642912157,30.482810999999998

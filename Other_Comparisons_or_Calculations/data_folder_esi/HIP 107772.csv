@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 107772 b,HIP 107772,2020,55.199,0.2469366,3.64,12.9,0.18,1608.712448,264.03375,nan,1.4746669053040313,9.560436784757716,0.45,0.55,M0,4006.0,0.51,0.63,nan,4.73,0.26925761,0.50995432,23.6434,10.56,63.997022191505096,59.33426000000001

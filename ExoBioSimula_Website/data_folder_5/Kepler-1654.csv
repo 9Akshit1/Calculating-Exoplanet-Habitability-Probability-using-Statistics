@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-1654 b,Kepler-1654,1,1,2018,1047.8356,2.026,9.18,158.915,0.26,408.0,206.0,89.982,nan,1.1325182863567758,18.516986973136493,0.45,0.55,G6,5597.0,1.18,1.01,-0.088,[Fe/H],4.3,1.1976817790668872,1.725439953903858,568.117,13.497,25.728614399538113

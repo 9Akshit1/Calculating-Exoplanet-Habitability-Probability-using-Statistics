@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-1759 b,TOI-1759,1,1,2022.0,18.85019,0.1177,3.14,10.8,0.0,8690.4,443.0,1.9232829685718116,10.756110385250143,0.45,0.55,K7,4065.0,0.6,0.61,0.05,[Fe/H],4.65,0.2080046962347282,0.2996619133361566,40.0654,11.93,42.045235454402324

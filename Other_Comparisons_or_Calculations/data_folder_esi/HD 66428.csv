@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 66428 b,HD 66428,2005,2269.8173,3.7715751,12.4,3478.9497,0.471,166.8496008,143.9671,16.639,10.059849154650784,222.17519523741842,0.25,0.75,G8,5716.0,1.13,1.01,0.23,4.33,1.0655937,1.8823166,53.2817,8.25,21.682011756196864,18.316865

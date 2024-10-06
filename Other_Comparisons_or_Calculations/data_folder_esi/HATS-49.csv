@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-49 b,HATS-49,2020,4.1480467,0.045263801,8.575,112.19399,0.071,109728.84464,762.75281,88.27,0.981014850301222,14.982770494531135,0.45,0.55,K5,4405.0,0.7,0.71,0.208,4.6,0.41159375,0.76452977,324.413,14.988,26.080948994188397,11.188267

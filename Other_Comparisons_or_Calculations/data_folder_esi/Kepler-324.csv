@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-1831 d,Kepler-324,2021,34.169,0.1949,1.13,2.23,0.0,17616.322079999998,483.2744,89.62,8.520751645511549,17.14899869463512,0.25,0.75,K0,5233.0,0.84,0.9,0.08,4.53,0.68781566,1.2338056,501.574,14.222,53.11759872633338,39.271206

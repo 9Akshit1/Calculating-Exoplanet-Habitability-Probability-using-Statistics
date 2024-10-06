@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 96700 c,HD 96700,2021,19.88,0.14705235,1.69,3.5,0.293,98762.418,731.31527,nan,3.9977561956691945,12.033318901598633,0.3,0.7,G0,5845.0,1.16,0.89,-0.18,4.39,1.1122999,1.9581152,25.4111,6.51,54.39325713417871,28.859308

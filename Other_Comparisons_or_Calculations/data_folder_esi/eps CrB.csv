@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+eps CrB b,eps CrB,2012,417.9,1.307865,12.7,2129.461,0.11,139089.9336,808.25525,nan,5.731481596329723,129.6441844015891,0.3,0.7,K2,4406.0,21.0,1.7,-0.094,1.94,13.318481,24.737728,69.8683,4.12577,25.0,8.0493809

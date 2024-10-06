@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 63433 c,HD 63433,2020,20.543791,0.14799284,2.521,6.9,0.21,49750.282400000004,621.2324,89.28,2.374318236450191,10.660907878214921,0.45,0.55,G5,5688.0,0.91,0.99,0.03,4.52,0.82759073,1.4630374,22.4035,6.92035,15.912392883404708,26.413249

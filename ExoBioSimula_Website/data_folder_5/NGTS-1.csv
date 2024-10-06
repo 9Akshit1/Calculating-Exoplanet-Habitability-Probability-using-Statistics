@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+NGTS-1 b,NGTS-1,1,1,2017,2.647298,0.0326,14.908,258.07796,0.016,88808.0,790.0,85.27,nan,0.4294386603908988,11.402575071042094,0.4,0.6,K7,3916.0,0.57,0.62,0,[M/H],4.71,0.20258213205606646,0.291849897615453,218.121,15.667,32.23300370441512

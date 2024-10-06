@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 178911 B b,HD 178911 B,2001,71.484,0.342057,12.6,2552.1749,0.11,10720.735568,425.87363,nan,7.0340778782752595,157.85565119613804,0.25,0.75,G5,5588.0,1.08,1.24,0.24,4.46,0.91489969,1.6220781,40.9727,7.97,22.1663101509745,18.516926

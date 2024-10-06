@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-87 c,Kepler-87,2013,191.2318,0.6765141,6.14,6.4,0.039,6309.225504,373.75332,89.588,0.15243448753692188,1.6669939471512207,0.4,0.6,G6,5600.0,1.82,1.1,-0.17,3.96,1.3981992,2.4780628,1232.9,14.681,17.052013352941707,31.637112000000002

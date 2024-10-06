@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+iot Dra c,iot Dra,2022,25000.0,21.408142,12.2,4958.1232,0.455,213.9467544,153.72274,86.0,15.0538018927803,327.1059499129801,0.4,0.6,K2,4504.0,11.79,1.54,0.03,2.48,7.3539256,13.596708,31.32832,3.29668,15.518191617571638,20.939452

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD+60 1417 b,BD+60 1417,2021,nan,1662.0,14.684,4767.4261,nan,0.0011175754983999999,7.6698028,nan,8.301550550089669,217.11309047081852,0.25,0.75,K0,4993.0,0.8,1.0,nan,4.55,1.4952368,2.7066845,44.9543,9.374,21.68201174607107,6.1591603

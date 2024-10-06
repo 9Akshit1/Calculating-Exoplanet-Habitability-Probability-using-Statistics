@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 24064 b,HD 24064,2015,535.59998,1.3690125,12.3,4096.8287,0.35,306715.6456,963.53,nan,12.137824267278422,265.90614483845434,0.4,0.6,K0,4052.0,40.0,1.61,-0.49,1.44,19.240487,36.356937,300.247,6.74616,15.518191617571638,7.6885453

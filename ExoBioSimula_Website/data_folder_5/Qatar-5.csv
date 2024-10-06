@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Qatar-5 b,Qatar-5,1,1,2017,2.8792319,0.04127,12.408,1373.0256,0.0,909840.0,1415.0,88.74,nan,3.9626129527719782,87.57211854930141,0.3,0.7,G3,5747.0,1.08,1.13,0.377,[Fe/H],4.43,1.1014066081307128,1.5867411530991733,367.658,12.614,25.016888175115913

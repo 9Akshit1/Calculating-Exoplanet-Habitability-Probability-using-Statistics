@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 212771 b,HD 212771,2009,380.7,1.1934367,13.3,759.6137,0.076,14849.194000000001,462.56121,nan,1.7801075429303346,42.16773734928967,0.45,0.55,G8,5003.0,5.27,1.56,-0.21,3.31,3.8949575,7.0478674,111.155,7.6,16.799700693251417,15.371773

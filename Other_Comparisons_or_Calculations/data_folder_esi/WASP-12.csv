@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-12 b,WASP-12,2008,1.09142,0.023223178,21.712,465.62095,0.0447,9999936.792,2358.0415,83.52,0.2508080064187262,9.698925941089728,0.4,0.6,F7,6360.0,1.66,1.43,0.07,4.16,1.8244873,3.1771414,427.246,11.569,14.306218944451299,4.3158281

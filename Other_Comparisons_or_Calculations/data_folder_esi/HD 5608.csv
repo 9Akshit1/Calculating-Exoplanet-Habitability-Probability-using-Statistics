@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 5608 b,HD 5608,2012,768.7,1.8008295,13.7,371.22358,0.11,6102.058335999999,369.90798,nan,0.7959434766075787,19.421609223435546,0.4,0.6,K0,4807.0,5.43,1.29,0.04,3.06,3.7833321,6.9013203,58.1105,6.00272,20.390836419287282,24.16305

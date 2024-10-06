@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 164922 e,HD 164922,2021,41.763,0.23004758,3.23,10.52012,0.086,18824.42232,490.67198,nan,1.7211610175979055,9.901624220405434,0.45,0.55,G9,5393.43,1.0,0.92,0.197,4.4,0.82735941,1.4759034,22.0016,7.01227,20.927840363565828,28.356067000000003

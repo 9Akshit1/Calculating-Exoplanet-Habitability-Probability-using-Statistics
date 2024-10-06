@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-15 b,KELT-15,2016,3.32944,0.04613,19.504,416.3573,0.0,1650334.568,1503.5158,88.3,0.309388020089038,10.747553068263679,0.4,0.6,G0,6003.0,1.78,2.06,0.05,4.17,1.5067626,2.6424775,324.683,11.39,19.591605911791174,4.8385685

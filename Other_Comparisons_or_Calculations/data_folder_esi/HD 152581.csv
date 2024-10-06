@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 152581 b,HD 152581,2011,686.5,1.661328,13.4,594.02427,0.04,7356.486568,388.37585,nan,1.36112549478805,32.48518794572908,0.45,0.55,K0,5027.0,5.14,1.3,-0.46,3.29,3.8238536,6.9126506,165.76,8.38,18.123786854059418,22.064633

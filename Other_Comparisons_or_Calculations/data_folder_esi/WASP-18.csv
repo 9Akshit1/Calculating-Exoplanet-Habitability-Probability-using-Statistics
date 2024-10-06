@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-18 c,WASP-18,2019,2.1558,0.035003937,8.58,55.2,0.015,2681956.176,1697.4992,nan,0.48182084916069795,7.363008354272159,0.4,0.6,F6,6400.0,1.23,1.22,0.19,4.37,1.4226839,2.4757923,123.483,9.28,13.615439608592895,9.8883669

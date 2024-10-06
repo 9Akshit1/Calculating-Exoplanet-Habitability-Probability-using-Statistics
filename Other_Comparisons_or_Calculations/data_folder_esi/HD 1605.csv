@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 1605 c,HD 1605,2015,2149.0,3.6015634,13.0,1150.5446,0.099,686.9761608000001,214.36258,nan,2.88723262179631,66.85094411173623,0.45,0.55,K1,4915.0,3.49,1.33,0.22,3.4,2.530995,4.5960897,88.8047,7.52,26.49474319311972,35.084815000000006

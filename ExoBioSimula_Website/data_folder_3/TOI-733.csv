@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-733 b,TOI-733,1,1,2023.0,4.884765,0.0618,1.992,5.72,0.046,281656.0,1056.0,3.989664726237738,14.154943878855605,0.3,0.7,G6,5585.0,0.95,0.96,-0.04,[Fe/H],4.47,1.0270098916687347,1.479561542232283,75.2092,9.44,29.707750597065814

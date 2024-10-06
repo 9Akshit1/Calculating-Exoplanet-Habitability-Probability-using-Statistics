@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 126614 b,HD 126614,2009,1257.253,2.5866918,12.7,107.74383,0.548,389.1394928,174.56139,97.477,0.289994406454534,6.559575857296033,0.4,0.6,G8,5568.0,1.37,0.96,0.56,4.17,1.0589592,1.8786172,73.0961,8.81,18.473181766259636,27.978413000000003

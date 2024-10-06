@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 143361 b,HD 143361,2008,1039.15,2.0265761,12.9,1382.5536,0.197,283.98886239999996,170.93345,50.0,3.550759200223138,81.58181216444335,0.3,0.7,G6,5507.0,0.92,0.97,0.14,4.47,0.86877682,1.5441212,68.5146,9.2,26.01777251536452,23.798965

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-836 c,TOI-836,2023,8.59545,0.07522815,2.587,9.6,0.078,34020.56592,569.05425,88.7,3.056963979300778,14.085399420616085,0.3,0.7,KV,4552.0,0.67,0.68,-0.284,4.74,0.37868232,0.69860258,27.5024,9.92,61.12434347251758,27.615654

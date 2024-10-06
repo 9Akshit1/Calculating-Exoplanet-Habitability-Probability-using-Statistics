@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-68 c,Kepler-68,2013,9.605027,0.090521437,0.979,1.3,0.099,286695.5208,968.87733,87.071,7.638422056789071,13.318912319757551,0.25,0.75,G2,5847.0,1.26,1.06,0.11,4.28,1.2350067,2.1740202,144.166,10.077,51.32866885202251,29.952999000000002

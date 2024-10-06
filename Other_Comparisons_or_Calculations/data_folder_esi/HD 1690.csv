@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 1690 b,HD 1690,2010,533.0,1.638528,12.5,2793.7257,0.64,31687.49544,508.99362,nan,7.886096705917916,175.57170561312756,0.25,0.75,K1,4374.0,21.66,1.86,-0.27,2.04,5.8532763,10.888365,752.615,9.19,21.68201174607107,11.461472

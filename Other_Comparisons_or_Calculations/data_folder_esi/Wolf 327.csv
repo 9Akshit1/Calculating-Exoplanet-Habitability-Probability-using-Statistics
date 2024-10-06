@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Wolf 327 b,Wolf 327,2024,0.5734745,0.01,1.24,2.53,0.0,318815.1168,996.7809,84.89,7.315833960251421,16.157268498324903,0.25,0.75,M2,3542.0,0.41,0.41,-0.17,4.87,0.15853469,0.30728906,28.5321,13.018,63.95364814482338,29.481880999999998

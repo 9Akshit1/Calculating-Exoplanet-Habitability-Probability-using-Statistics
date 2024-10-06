@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2145 b,TOI-2145,2023,10.26075,0.11319683,11.982,1671.7774,0.208,1124768.9736000001,1354.8516,88.1,5.357952740813153,114.34327067186338,0.3,0.7,F9,6177.0,2.75,1.72,0.247,3.79,2.9237066,5.1084916,224.731,9.07,20.0,7.512421

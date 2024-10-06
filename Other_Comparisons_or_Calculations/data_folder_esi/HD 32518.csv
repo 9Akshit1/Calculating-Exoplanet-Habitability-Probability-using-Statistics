@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 32518 b,HD 32518,2009,157.35,0.59423285,13.2,905.49313,0.028,178704.8432,862.35325,nan,2.170559725920052,51.030296117595185,0.45,0.55,K1,4580.0,10.22,1.13,-0.15,2.1,6.8758826,12.668612,122.115,6.43005,11.597072302118622,7.5834437

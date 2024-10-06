@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 212301 b,HD 212301,2005,2.24571,0.03,14.2,162.0933,0.0,2644212.776,1691.5665,nan,0.31211051863862227,7.893673634471568,0.4,0.6,F8,6239.0,1.16,1.55,0.18,4.5,1.2226432,2.1337195,54.2304,7.76,13.776238653844251,6.402461099999999

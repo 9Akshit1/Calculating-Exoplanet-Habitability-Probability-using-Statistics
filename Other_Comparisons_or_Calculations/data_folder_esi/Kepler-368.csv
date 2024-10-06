@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-368 c,Kepler-368,2014,72.379334,0.36,3.88,14.3,0.0,38276.6492,586.74373,88.95,1.349737254639395,9.327459617737551,0.45,0.55,G7,5502.0,2.02,0.97,0.03,3.9,1.8451539,3.2799992,770.978,12.946,20.26306626078497,22.033473

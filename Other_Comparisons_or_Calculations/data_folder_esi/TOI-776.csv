@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-776 c,TOI-776,2020,15.6653,0.10008,2.02,5.3,0.04,6666.327096,378.92762,89.51,3.5451134322060005,12.754514207902307,0.3,0.7,M1,3709.0,0.54,0.54,-0.2,4.73,0.22860598,0.43943815,27.1701,11.536,66.59043211526735,47.504892

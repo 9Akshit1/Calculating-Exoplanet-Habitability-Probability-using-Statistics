@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-222 d,Kepler-222,2014,28.081912,0.18,3.69,13.2,0.0,19274.978079999997,494.2691,89.46,1.4484489965514886,9.519452914797238,0.45,0.55,G8,5433.0,0.87,0.88,0.05,4.55,0.65725383,1.1709319,758.854,15.407,22.05565326103047,26.422929

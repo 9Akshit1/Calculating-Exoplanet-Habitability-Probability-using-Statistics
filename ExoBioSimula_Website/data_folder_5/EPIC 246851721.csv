@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+EPIC 246851721 b,EPIC 246851721,2,1,2018,6.180235,0.07229,11.781,953.49,nan,873120.0,1401.0,86.21,3.7,3.2149783238416085,67.45942294143167,0.3,0.7,F9,6202.0,1.59,1.32,0.141,[Fe/H],4.16,1.9732576941447117,2.8427732009733946,372.632,11.237,20.00001595977419

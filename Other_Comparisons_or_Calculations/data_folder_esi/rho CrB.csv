@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+rho CrB d,rho CrB,2023,282.2,0.827,4.94,21.6,0.0,3618.4943359999997,325.34711,nan,0.9878278789948596,8.691418147684141,0.45,0.55,G0,5817.0,1.35,0.95,-0.2,4.25,1.279256,2.2536446,17.4671,5.40816,20.51672581961527,43.177258

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 107148 b,HD 107148,2005,48.056,0.26933625,9.6,66.741,0.05,24864.39448,526.50884,nan,0.4158985295864243,7.111169568165907,0.4,0.6,G5,5797.0,1.17,1.12,0.314,4.45,1.091394,1.923693,49.4156,8.01,18.571632052514595,14.514365000000002

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 436 b,GJ 436,2004,2.6438831,0.029378176,4.17,22.1,0.13827,42164.27856,598.93765,86.44,1.6803218829324718,12.479895676278128,0.45,0.55,M2,3586.11,0.46,0.47,0.099,4.79,0.16686659,0.32273145,9.75321,10.67,33.5231996645103,20.789076

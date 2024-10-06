@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 1666 b,HD 1666,2015,270.0,1.126543,12.7,2040.0,0.63,10643.599768,388.92448,nan,5.490695747192664,124.19768954643533,0.3,0.7,F7,6317.0,1.93,1.5,0.37,4.06,2.131856,3.7151556,117.908,8.17,20.000036864887537,18.529439

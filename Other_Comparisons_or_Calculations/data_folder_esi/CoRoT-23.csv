@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-23 b,CoRoT-23,2011,3.6313,0.0486144,11.77,889.9,0.16,730613.6784000001,1220.4766,85.7,3.0089861777485227,63.07816811748633,0.3,0.7,G0,5900.0,1.61,1.14,0.05,4.3,1.0429706,1.8335518,1060.97,15.675,25.006759558412497,7.6994975

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-186 b,WASP-186,2020,5.026799,0.063267,12.442,1341.2426,0.33,1265532.156,1377.1405,83.59,3.839238767680139,85.07809090296877,0.3,0.7,F7,6361.0,1.47,1.22,-0.08,4.19,1.6316047,2.8412096,278.514,10.81,20.000000094277745,7.256442300000001

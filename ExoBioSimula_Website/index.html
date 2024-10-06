@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <title>ExoBiosimula</title>
+  </head>
+  <body>
+      <center><h1 id="title">ExoBioSimula</h1></center>
+      <div class="star-input">
+        <input type="text" id="inputStarName" placeholder=" ">
+        <label class="input-placeholder">Enter star system name</label>
+        <button onclick="goToSimulation();"><i class="fa fa-search"></i></button>
+      </div>
+      <div class="RHP-menu">
+        <div class="container">
+          <a href="./rank.html" class="button type--A">
+            <div class="button__line"></div>
+            <div class="button__line"></div>
+            <span class="button__text">Planet RHP Rankings</span>
+            <div class="button__drow1"></div>
+            <div class="button__drow2"></div>
+          </a>
+          <a href="./stRank.html" class="button type--B">
+            <div class="button__line"></div>
+            <div class="button__line"></div>
+            <span class="button__text">Best Overall Star Systems (RHP)</span>
+            <div class="button__drow1"></div>
+            <div class="button__drow2"></div>
+          </a>
+          <a href="./rhpPlay.html" class="button type--C">
+            <div class="button__line"></div>
+            <div class="button__line"></div>
+            <span class="button__text">RHP Play</span>
+            <div class="button__drow1"></div>
+            <div class="button__drow2"></div>
+          </a>
+        </div>
+      </div>
+      <script>
+        function replaceAll(str, search, replacement) {
+          return str.replace(new RegExp(search, 'g'), replacement);
+        }
+
+        function goToSimulation() {
+          window.location.href = "./simul.html?star=" + replaceAll(document.getElementById("inputStarName").value, " ", "%");
+        }
+      </script>
+  </body>
+</html>

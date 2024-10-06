@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-733 b,Kepler-733,2016,20.834247,0.1483,2.82,8.35,0.0,31135.554399999997,557.22313,89.63,2.0528041878975536,10.310483938686849,0.45,0.55,G8,5418.0,0.86,0.9,0.01,4.53,0.68880884,1.2277505,916.706,15.561,16.625605080294932,26.972826

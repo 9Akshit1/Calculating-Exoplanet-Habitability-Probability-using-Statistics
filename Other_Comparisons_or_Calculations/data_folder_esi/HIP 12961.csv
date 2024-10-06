@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 12961 b,HIP 12961,2010,57.435,0.2536125,13.2,114.4188,0.17,2192.9408399999998,285.48886,nan,0.27427357639709676,6.448226995846893,0.4,0.6,M0,3901.0,0.65,0.69,-0.14,4.65,0.32442802,0.61766934,23.371,10.25,33.14652079262368,37.027471

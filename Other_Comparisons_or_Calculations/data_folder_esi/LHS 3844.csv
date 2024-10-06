@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+LHS 3844 b,LHS 3844,2019,0.46292913,0.00622,1.303,2.25,nan,95710.18088,737.82695,88.5,5.607349750905547,13.013211187969853,0.3,0.7,M5,3036.0,0.19,0.15,nan,5.06,0.054322958,0.10788629,14.8846,15.24,69.25724995355256,30.643918

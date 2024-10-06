@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 7199 b,HD 7199,2011,615.0,1.384548,11.1,85.8141,0.19,524.137336,199.33834,nan,0.34593785657034576,6.8391713644774965,0.4,0.6,K1,5371.0,0.97,0.77,0.32,4.35,0.8142057,1.4535282,36.1531,8.06,30.12270039766397,33.158737

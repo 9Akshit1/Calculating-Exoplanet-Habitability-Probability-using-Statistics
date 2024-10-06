@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-4087 b,TOI-4087,1,1,2023.0,3.1774835,0.04469,13.047,232.01474,0.0,1025304.0,1458.0,0.5759595238983672,13.38397273160756,0.4,0.6,G0,6060.0,1.11,1.18,0.237,[Fe/H],4.42,1.0850366763577322,1.5631578150059886,301.676,12.107,19.914383118321734

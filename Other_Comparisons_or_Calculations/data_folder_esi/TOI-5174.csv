@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-5174 b,TOI-5174,2022,12.214286,0.10377394,5.351,24.8,nan,138153.628,808.73372,nan,0.892391042635319,8.504965770813952,0.5,0.5,G5,5643.77,1.09,1.0,0.415,4.36,1.0021959,1.7739432,197.243,11.583,13.736162777177507,15.420618999999999

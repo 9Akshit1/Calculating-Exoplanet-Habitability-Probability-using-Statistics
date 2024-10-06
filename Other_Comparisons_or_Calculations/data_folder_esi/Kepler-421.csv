@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-421 b,Kepler-421,2014,704.1984,1.2200246,4.16,16.1,0.041,366.35053039999997,183.46457,89.965,1.2329749653525395,9.135451283303496,0.45,0.55,G9,5308.0,0.76,0.79,-0.25,4.61,0.61763348,1.1049807,348.558,13.611,29.172587816823096,40.572413000000005

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 110113 b,HD 110113,2021,2.541,0.035151358,2.05,4.55,0.093,1035831.4607999999,1336.0736,87.69,2.9117775146130054,10.63149809620764,0.4,0.6,G3,5732.0,0.97,1.0,0.14,4.46,0.91870615,1.6221339,106.307,10.09,19.59470145315921,25.391742

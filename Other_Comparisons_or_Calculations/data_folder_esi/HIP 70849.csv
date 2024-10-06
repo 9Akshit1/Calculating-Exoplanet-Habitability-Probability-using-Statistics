@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 70849 b,HIP 70849,2009,3649.0,4.8328875,12.9,1430.2278,0.65,10.065077528,67.691812,96.0,3.6731990132352896,84.39497443857874,0.3,0.7,K7,4105.0,0.63,0.65,nan,4.62,0.30666728,0.57796313,24.0572,10.421,25.00000000075826,7.7025675

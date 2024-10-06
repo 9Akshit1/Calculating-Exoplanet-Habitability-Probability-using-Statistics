@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 97233 b,HIP 97233,2014,1062.2651,2.985339,12.1,6098.1736,0.63,4514.366184,313.86461,86.083,18.9780701255183,408.9967284124898,0.4,0.6,K0,5020.0,5.34,1.81,0.29,3.26,3.964132,7.1682166,102.275,7.34,15.518263906121353,29.066816

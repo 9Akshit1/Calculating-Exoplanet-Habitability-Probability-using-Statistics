@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+LHS 1678 b,LHS 1678,2021,0.8602325,0.012396746,0.685,0.35,0.033,128420.06855999999,793.93416,88.53,6.003502618290628,7.324495096138494,0.4,0.6,M2,3490.0,0.33,0.35,nan,4.89,0.12471237,0.24235339,19.8782,12.6,31.94553024062977,29.520568000000004

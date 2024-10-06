@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1987 d,Kepler-1987,2023,5.6449141,0.0571,2.66,7.56,0.0,100987.28416000001,747.79345,88.57,2.214548826685414,10.491783335418711,0.45,0.55,K3,4769.0,0.71,0.8,0.12,4.62,0.49326135,0.90124233,595.683,15.477,18.499024808841916,24.063736

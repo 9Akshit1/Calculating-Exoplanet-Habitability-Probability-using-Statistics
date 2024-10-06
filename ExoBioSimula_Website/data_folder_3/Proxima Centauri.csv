@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Proxima Centauri b,Proxima Centauri,1,1,2016.0,11.186,0.0485,1.17,1.27,0.35,354429.60000000003,234.0,4.371741861490978,9.11009254268118,0.3,0.7,M6,3050.0,0.141,0.123,-0.02,-0.02,5.0,0.17810229428620747,0.25658302548677503,4.24,11.13,63.49872963558927

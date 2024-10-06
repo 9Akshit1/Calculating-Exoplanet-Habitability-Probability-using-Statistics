@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1420 b,TOI-1420,2023,6.9561063,0.07202595,11.89,25.1,0.17,192925.7648,874.33928,88.58,0.0823259085193632,1.7434151011669246,0.4,0.6,G7,5510.0,0.92,0.99,0.28,4.5,0.81065026,1.4406749,201.918,11.655,17.22098430796969,8.1862701

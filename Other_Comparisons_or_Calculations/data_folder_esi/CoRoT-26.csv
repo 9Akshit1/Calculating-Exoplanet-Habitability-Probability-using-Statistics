@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-26 b,CoRoT-26,2013,4.20474,0.0526,14.12,165.26,0.0,1388568.8399999999,1439.9813,86.8,0.3236473331425011,8.139339171644734,0.4,0.6,G5,5590.0,1.79,1.09,0.01,3.99,1.6155589,2.864146,1045.18,15.861,18.849875650071745,6.4843236

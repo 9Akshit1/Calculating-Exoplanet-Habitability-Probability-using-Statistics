@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-289 c,Kepler-289,2014,125.8518,0.51,11.59,132.0,0.0,6017.256896,369.45761,89.794,0.46744659198922217,9.649345359099895,0.4,0.6,G0,5990.0,1.0,1.08,0.05,4.47,1.0066757,1.7659763,704.438,14.142,19.987277019936244,25.633960000000002

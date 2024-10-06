@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 9404 b,GJ 9404,2023,13.4586,0.10562071,3.48,11.9,0.49,17544.350879999998,459.04947,nan,1.5567454464237969,9.648932420936546,0.45,0.55,M2,3811.0,0.63,0.62,nan,4.63,0.32609783,0.62365051,23.8839,10.62,29.049098029435967,27.910509

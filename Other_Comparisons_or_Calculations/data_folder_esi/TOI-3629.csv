@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-3629 b,TOI-3629,2022,3.936551,0.04305375,8.295,82.63539,0.05,55226.248960000004,642.75813,89.1,0.7982249246044775,11.7929943802866,0.4,0.6,M1,3870.0,0.6,0.63,0.4,4.67,0.28208383,0.53788465,130.091,14.639,28.60374035342069,12.760873

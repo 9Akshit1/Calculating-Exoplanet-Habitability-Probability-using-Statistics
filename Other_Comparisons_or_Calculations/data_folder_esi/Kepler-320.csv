@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-320 c,Kepler-320,2014,17.934937,0.142,1.37,2.45,0.0,159574.036,838.40824,80.93,5.2530647910043005,12.817866418242367,0.3,0.7,F7,6435.0,1.11,1.33,-0.123,4.42,1.4051121,2.4438339,826.613,13.494,49.552201540238435,29.61336

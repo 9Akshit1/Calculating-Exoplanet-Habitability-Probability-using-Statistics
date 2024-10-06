@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+ome Ser b,ome Ser,2013,278.59,0.8515756,14.0,233.92171,0.18,106709.46512,753.5127,nan,0.46999668797492855,11.719396553653496,0.4,0.6,G8,4724.0,10.99,1.01,-0.12,2.37,7.3941496,13.53632,76.7556,5.21644,19.832688168175668,7.7664232

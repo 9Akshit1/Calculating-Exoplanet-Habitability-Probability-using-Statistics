@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 90156 b,HD 90156,2009,49.77,0.2620125,4.43,17.98,0.31,16466.40128,466.33887,nan,1.1402153497172645,8.996488438159224,0.45,0.55,G5,5599.0,0.92,0.84,-0.24,4.48,0.81488146,1.4442773,21.9496,6.92,20.905860568752736,25.262776999999996

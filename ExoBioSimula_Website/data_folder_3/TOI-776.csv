@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-776 b,TOI-776,1,2,2020.0,8.24661,0.0652,1.85,4.0,0.06,15640.0,514.0,3.4829976434732592,11.476443573780521,0.3,0.7,M1,3709.0,0.54,0.54,-0.2,[Fe/H],4.73,0.33821658044415764,0.4872516315859365,27.1701,11.536,53.298117075125624
+TOI-776 c,TOI-776,1,2,2020.0,15.6653,0.1,2.02,5.3,0.04,6664.000000000001,415.0,3.5451134322060005,12.754514207902307,0.3,0.7,M1,3709.0,0.54,0.54,-0.2,[Fe/H],4.73,0.33821658044415764,0.4872516315859365,27.1701,11.536,56.171085443923005

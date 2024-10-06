@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 85512 b,HD 85512,2011,58.43,0.261573,1.72,3.6,0.11,3398.096544,319.54611,90.0,3.900547172521118,11.949133084822021,0.3,0.7,K5,4300.0,0.71,0.43,-0.26,4.36,0.41771566,0.77979739,11.281,7.67,63.8864123195906,64.39474899999999

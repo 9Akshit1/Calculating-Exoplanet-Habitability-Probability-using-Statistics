@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WTS-2 b,WTS-2,2014,1.0187068,0.01855,15.278,355.9696,0.0,2036343.6400000001,1584.6296,83.55,0.5503282005495302,14.975133075015492,0.4,0.6,K2,5000.0,0.75,0.82,0.2,4.6,0.71213938,1.2887591,1030.7683,15.954,20.718454421930304,6.0133659

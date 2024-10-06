@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 25723 b,HD 25723,2020,457.01,1.491192,13.3,794.57102,0.04,53890.73168,638.94449,nan,1.8620278519145326,44.10829093355899,0.45,0.55,K1,4766.0,13.76,2.12,-0.03,2.5,9.4000869,17.177206,114.816,5.60075,16.71307340625499,9.341192

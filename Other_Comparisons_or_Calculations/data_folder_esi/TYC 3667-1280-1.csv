@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TYC 3667-1280-1 b,TYC 3667-1280-1,2016,26.468,0.21013608,12.8,1716.282,0.036,740255.9832,1230.1409,nan,4.511979453269562,102.86307419644432,0.3,0.7,K1,5130.0,6.26,1.87,-0.08,3.11,4.8282025,8.6937479,477.516,9.856,25.0,7.1607039

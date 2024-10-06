@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CT Cha b,CT Cha,2007,nan,440.0,24.66,5403.0,nan,0.005554353968,11.45179,nan,1.9863881936253336,87.24481262000944,0.45,0.55,K5,4403.0,1.68,nan,-0.56,3.66,0.90364295,1.6786631,190.72,12.335,11.580988368535099,3.8185578999999996

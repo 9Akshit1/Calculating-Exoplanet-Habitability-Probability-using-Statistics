@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-4 b,Kepler-4,2009,3.21346,0.0456,4.002,24.472,0.0,1477778.04,1462.5721,89.76,2.104973271268028,15.003966526673704,0.45,0.55,G2,5857.0,1.49,1.22,0.17,4.17,1.4220214,2.5025955,487.916,12.285,16.467173625272807,17.643535

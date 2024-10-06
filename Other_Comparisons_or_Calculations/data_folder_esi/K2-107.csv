@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-107 b,K2-107,2017,3.313959,0.0475,15.98,266.9772,0.0,1754493.1600000001,1526.6972,82.361,0.36070505074025505,10.266240056921562,0.4,0.6,F9,6061.0,1.81,1.3,0.14,4.04,1.5940655,2.7919829,685.2,13.012,14.463421387677116,5.7873065

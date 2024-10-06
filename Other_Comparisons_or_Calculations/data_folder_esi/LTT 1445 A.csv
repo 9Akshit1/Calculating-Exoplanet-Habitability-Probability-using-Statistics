@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+LTT 1445 A b,LTT 1445 A,2019,5.35876,0.0223971,1.18,2.87,0.19,25744.090079999998,527.7144,89.203,9.630398300063966,20.23991448878326,0.25,0.75,M3,3340.0,0.27,0.26,-0.34,4.97,0.098436295,0.19270085,6.86929,10.59,65.56572698131802,36.118048

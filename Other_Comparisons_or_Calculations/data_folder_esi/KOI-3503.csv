@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-3503 b,KOI-3503,2021,21.185,0.1462,1.19,9.2,0.0,126953.34936,791.81919,88.42,30.09922529269918,63.79471414582785,0.4,0.6,G0,6001.0,1.25,0.86,-0.543,4.55,1.3246401,2.3231866,887.064,13.831,15.518479283595578,30.516906

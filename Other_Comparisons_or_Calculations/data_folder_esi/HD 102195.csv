@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 102195 b,HD 102195,2006,4.11377,0.05,14.2,130.3103,0.0,252115.12720000002,939.97155,nan,0.25091237772908853,6.345894490457535,0.4,0.6,K0,5301.0,0.82,0.76,0.04,4.49,0.66511272,1.1902133,29.3386,8.07,18.996085243308876,6.919160300000001

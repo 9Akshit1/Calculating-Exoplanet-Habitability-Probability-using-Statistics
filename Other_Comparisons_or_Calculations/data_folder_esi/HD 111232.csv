@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 111232 b,HD 111232,2003,1169.132,2.1971849,12.6,2531.5033,0.214,208.2810352,157.9698,93.521,6.977104649571946,156.57708330517332,0.25,0.75,G8,5512.0,0.9,0.96,-0.36,4.45,0.80220193,1.4255717,28.9571,7.59,21.819242866688157,20.41272

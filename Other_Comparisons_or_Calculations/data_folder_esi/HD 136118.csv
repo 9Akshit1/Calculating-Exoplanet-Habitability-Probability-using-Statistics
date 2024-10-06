@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 136118 b,HD 136118,2022,1187.5976,2.4646839,12.3,4164.1878,0.344,991.5042735999999,229.94967,116.779,12.33739153710399,270.2781115259529,0.4,0.6,F7,6097.0,1.68,1.18,-0.05,4.05,1.7949461,3.1413956,51.4359,6.9456,25.64486202353358,38.909169999999996

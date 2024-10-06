@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 682 b,GJ 682,2014,17.478,0.080256,1.93,4.4,0.08,426.3371112,190.38411,nan,3.374342205075299,11.599221709143933,0.3,0.7,M3,3028.0,0.3,0.27,nan,4.93,0.046560552,0.09250409,5.00671,10.94,69.2792231185976,56.760583

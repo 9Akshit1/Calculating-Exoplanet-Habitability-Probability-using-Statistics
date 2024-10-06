@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGC 2682 YBP 1194 b,NGC 2682 YBP 1194,2014,6.959,0.074776344,12.3,101.7056,0.3,271470.30720000004,940.85341,nan,0.3013269019029554,6.601238661621831,0.4,0.6,G5,5780.0,0.99,1.01,0.023,4.44,0.93848253,1.6549124,872.92,14.569,18.422812434890524,7.749763

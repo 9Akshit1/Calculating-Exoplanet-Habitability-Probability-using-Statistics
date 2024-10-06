@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-715 b,TOI-715,2023,19.288004,0.083,1.55,3.02,nan,969.1315256,234.05109,89.856,4.471160119643934,12.343386780064177,0.3,0.7,M4,3075.0,0.24,0.23,-0.25,5.0,0.072914754,0.14454885,42.4048,16.683,69.86914831127947,80.676025

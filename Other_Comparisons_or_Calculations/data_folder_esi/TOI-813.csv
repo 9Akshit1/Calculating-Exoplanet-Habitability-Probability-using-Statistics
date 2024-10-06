@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-813 b,TOI-813,2020,83.8911,0.423,6.71,36.4,0.0,31612.452,559.3447,89.64,0.6642662656815811,7.93865876262937,0.4,0.6,G0,5907.0,1.94,1.32,0.1,3.86,1.9234777,3.3809139,263.145,10.358,18.789512641435167,16.624278

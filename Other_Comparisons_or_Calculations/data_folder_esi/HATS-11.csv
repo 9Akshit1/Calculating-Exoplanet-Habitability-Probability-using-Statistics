@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-11 b,HATS-11,2016,3.619188,0.05363046,18.03,263.7989,0.34,1422979.4239999999,1416.1403,89.03,0.24813851258517747,7.968421856748931,0.4,0.6,G0,6563.0,1.54,1.33,0.03,4.19,1.4420665,2.5033192,944.603,14.06,18.798484974990526,5.20983

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-15 b,WASP-15,2009,3.7521,0.05165,15.805,171.6282,0.0,1575426.856,1486.1565,85.96,0.23966991491446923,6.746685077412218,0.4,0.6,F7,6300.0,1.48,1.18,-0.17,4.35,1.6188302,2.8219657,282.091,10.972,13.428599218217789,5.8540397

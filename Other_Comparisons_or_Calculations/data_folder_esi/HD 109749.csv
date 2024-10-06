@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 109749 b,HD 109749,2005,5.239891,0.0615,11.1,85.8141,0.0,556914.696,1145.9407,nan,0.34593785657034576,6.8391713644774965,0.4,0.6,G3,5824.0,1.22,1.13,0.24,4.31,1.1797059,2.0778934,63.0821,8.08,18.45742214401484,8.1571614

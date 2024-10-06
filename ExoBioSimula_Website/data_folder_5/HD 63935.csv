@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 63935 b,HD 63935,1,2,2021,9.058811,nan,2.99,10.8,0.0,157216.0,911.0,88.49,nan,2.227504371505134,11.86238922992051,0.45,0.55,G7,5534.0,0.96,0.93,0.07,[Fe/H],4.38,1.0098766891025646,1.4548785982627839,48.9739,8.58,nan
+HD 63935 c,HD 63935,1,2,2021,21.4023,nan,2.9,11.1,0.0,49912.00000000001,684.0,88.241,nan,2.5092120217450065,12.960381161029392,0.45,0.55,G7,5534.0,0.96,0.93,0.07,[Fe/H],4.38,1.0098766891025646,1.4548785982627839,48.9739,8.58,nan

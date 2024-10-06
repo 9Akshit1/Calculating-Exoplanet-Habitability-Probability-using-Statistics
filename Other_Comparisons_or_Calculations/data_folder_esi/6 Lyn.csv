@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+6 Lyn b,6 Lyn,2008,919.86,2.0297887,13.4,597.83523,0.042,4352.9771599999995,340.61819,nan,1.3698577892035921,32.69359652111213,0.45,0.55,K0,4941.0,4.94,1.32,-0.17,3.16,3.6080386,6.5449668,54.6599,5.87307,18.074934378737744,28.726791000000002

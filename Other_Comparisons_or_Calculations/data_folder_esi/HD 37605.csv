@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 37605 b,HD 37605,2004,55.01292,0.34001061,13.2,854.9627,0.6745,14466.42744,412.67252,nan,2.0494331125227507,48.1825850523004,0.45,0.55,K0,5329.0,0.91,0.94,0.27,4.51,0.75724299,1.3537683,46.7864,8.67,13.556927116884086,15.621220999999998

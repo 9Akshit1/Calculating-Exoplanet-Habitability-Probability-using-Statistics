@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+nu Oph c,nu Oph,2012,3180.6,5.9223835,12.0,7838.3235,0.179,3194.642856,313.45519,90.0,25.008510145985674,534.5046436932229,0.4,0.6,K0,4887.0,12.24,2.61,0.1,2.64,8.8377849,16.067263,46.2107,3.31216,15.5182805677972,33.734249999999996

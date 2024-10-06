@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGTS-10 b,NGTS-10,2020,0.7668944,0.0143,13.507,687.14846,0.0,1163769.136,1377.7858,nan,1.5373836300725323,36.984825075854,0.45,0.55,K5,4600.0,0.7,0.7,-0.02,4.59,0.42218604,0.77716051,324.69865,14.506,21.08943394751602,6.763364600000001

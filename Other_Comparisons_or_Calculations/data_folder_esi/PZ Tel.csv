@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+PZ Tel b,PZ Tel,2023,44000.0,30.6504,11.9,8581.367,0.52,2.219570592,48.331004,91.73,28.075271592645002,595.0498421146089,0.4,0.6,G9,5169.0,1.26,1.36,nan,4.18,0.99179195,1.7832393,47.0648,8.43,15.518191617571638,7.602690900000001

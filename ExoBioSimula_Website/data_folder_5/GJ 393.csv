@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+GJ 393 b,GJ 393,1,1,2021,7.02679,0.05402,nan,1.71,nan,12525.6,485.0,nan,nan,nan,nan,0.4,0.6,M2,3579.0,0.43,0.43,-0.09,[Fe/H],4.88,0.3135819243275449,0.45176172044493057,7.03149,9.65,nan

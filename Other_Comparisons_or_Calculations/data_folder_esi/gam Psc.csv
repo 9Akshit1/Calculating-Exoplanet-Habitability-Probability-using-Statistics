@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+gam Psc b,gam Psc,2021,555.1,1.3474666,13.6,425.89007,0.204,46518.0248,611.18181,nan,0.9334459239620252,22.610516786457787,0.45,0.55,G7,4742.0,11.2,0.99,-0.62,2.33,7.6659594,14.022917,41.3107,3.69252,20.888462545638234,9.600939799999999

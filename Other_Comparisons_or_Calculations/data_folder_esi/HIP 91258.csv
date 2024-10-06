@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 91258 b,HIP 91258,2013,5.0505,0.060012,13.7,346.4347,0.02,226633.0656,915.19413,nan,0.7427934387559744,18.124709009158646,0.4,0.6,G5,5519.0,0.89,0.97,0.23,4.53,0.74749642,1.3280667,45.8846,8.65,20.822056823053813,7.1914913

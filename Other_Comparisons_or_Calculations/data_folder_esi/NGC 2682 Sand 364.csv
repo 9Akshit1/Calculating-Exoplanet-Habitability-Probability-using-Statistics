@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGC 2682 Sand 364 b,NGC 2682 Sand 364,2014,121.71,0.5624625,12.7,2126.2827,0.35,610047.4344,1144.2533,nan,5.72292714618595,129.45068561890017,0.3,0.7,K3,4284.0,39.59,9.06,-0.02,2.2,11.081146,20.702394,817.192,9.616,25.0,7.251329800000001

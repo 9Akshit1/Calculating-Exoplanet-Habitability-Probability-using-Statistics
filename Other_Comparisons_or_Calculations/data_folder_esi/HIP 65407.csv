@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 65407 b,HIP 65407,2016,28.125,0.1787346,14.3,136.03124,0.14,28568.71624,543.34825,nan,0.2564713861402802,6.5321684123608765,0.4,0.6,K0,5460.0,0.95,0.93,0.25,4.47,0.78175616,1.3915247,61.7804,9.38,18.91852692187623,11.057774

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-4406 b,TOI-4406,2023,30.08364,0.20326125,11.209,95.34852,0.15,78358.91464,698.85531,88.48,0.3732688281621943,7.451968478689752,0.4,0.6,F9,6219.0,1.29,1.19,0.1,4.29,1.403867,2.4509182,261.834,10.937,13.642496272178477,9.6636265

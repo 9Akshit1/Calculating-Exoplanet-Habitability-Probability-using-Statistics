@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-111 c,K2-111,2020,15.6805,0.1159816,3.33,11.08,0.071,133981.44991999998,801.79766,nan,1.6543044362861676,9.81165083313952,0.45,0.55,G2,5775.0,1.25,0.84,-0.46,4.25,1.0903271,1.922929,200.394,11.13,20.407278366342208,20.95041

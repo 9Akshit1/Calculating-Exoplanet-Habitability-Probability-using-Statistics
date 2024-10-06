@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 109246 b,HD 109246,2010,68.27,0.332376,13.9,273.3338,0.12,15836.554,469.2998,nan,0.5611220211808761,13.891672298283266,0.4,0.6,G0,5844.0,1.07,1.2,0.1,4.46,1.0623025,1.8701462,67.8349,8.751,20.347346247870398,14.611579999999998

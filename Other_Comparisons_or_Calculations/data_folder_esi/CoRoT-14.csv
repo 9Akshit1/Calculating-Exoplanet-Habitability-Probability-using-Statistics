@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-14 b,CoRoT-14,2010,1.51214,0.027,12.22,2415.4,0.0,2453643.048,1660.2284,79.6,7.297663245584708,158.83179403290774,0.25,0.75,F9,6035.0,1.21,1.13,0.05,4.35,1.0732378,1.8808342,1744.6,15.932,16.685349799645266,7.3150266

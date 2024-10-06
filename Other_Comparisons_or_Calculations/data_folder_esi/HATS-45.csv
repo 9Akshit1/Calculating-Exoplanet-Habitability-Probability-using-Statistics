@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-45 b,HATS-45,2018,4.1876244,0.056697168,14.415,222.481,0.24,1227327.444,1380.8499,85.61,0.40950325884444166,10.513672040389995,0.4,0.6,F7,6450.0,1.32,1.27,0.02,4.31,1.488772,2.5887272,772.11,13.325,14.529968389710744,6.3804699000000005

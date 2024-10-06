@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 72490 b,HD 72490,2018,858.0,1.8944534,13.5,561.92344,0.124,4781.762448,347.81773,nan,1.2591695639884344,30.276132889273725,0.45,0.55,G5,4934.0,4.96,1.21,-0.13,3.21,3.4947161,6.3412057,126.339,7.82,18.69367640841575,27.420486999999998

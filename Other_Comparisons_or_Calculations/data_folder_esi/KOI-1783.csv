@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-1783.01,KOI-1783,2020,134.4628,0.5135,8.86,71.0,0.0,8422.82952,401.86435,89.441,0.5628148625551014,8.88140543811603,0.4,0.6,G1,5922.0,1.14,1.08,0.11,4.3,1.2041778,2.1158258,865.73,13.978,19.148567639986673,23.950894

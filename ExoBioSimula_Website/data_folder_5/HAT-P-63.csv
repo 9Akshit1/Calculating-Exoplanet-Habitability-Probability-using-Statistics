@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HAT-P-63 b,HAT-P-63,1,1,2021,3.377728,0.04294,12.543,195.14664,0.069,526864.0,1237.0,88.45,nan,0.5452117235291581,12.180048699611369,0.4,0.6,G8,5400.0,0.97,0.93,0.251,[Fe/H],4.43,0.4549851687039509,0.6554742689056484,4483.05,20.1544,25.187600920574127

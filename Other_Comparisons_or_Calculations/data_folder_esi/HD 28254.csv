@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 28254 b,HD 28254,2010,1333.0,3.5555625,13.0,1207.7479,0.95,1587.465984,182.13878,162.0,3.03078136717689,70.17466977287695,0.3,0.7,G5,5664.0,1.48,1.1,0.06,4.12,1.4155774,2.5041975,55.2884,7.69,25.00057006526269,39.145683

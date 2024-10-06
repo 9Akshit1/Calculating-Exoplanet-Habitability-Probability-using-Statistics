@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 11505 b,HD 11505,2022,32669.222,20.456921,12.6,2510.5266,0.144,4.7464361760000005,61.674181,87.505,6.919290531335294,155.2796445448258,0.25,0.75,G3,5757.15,1.2,1.03,-0.22,4.3,1.1324588,1.9981875,38.9679,7.43,21.68201174607107,7.435281600000001

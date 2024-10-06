@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 93351 b,HD 93351,2022,2.45946,0.040274518,1.69,3.49611,0.549,849745.4352,1192.9524,nan,3.993312975211722,12.019944727162283,0.3,0.7,G8,5408.0,0.91,0.94,-0.23,4.49,0.77685789,1.3851469,56.163,9.12,54.58054183261853,27.219041

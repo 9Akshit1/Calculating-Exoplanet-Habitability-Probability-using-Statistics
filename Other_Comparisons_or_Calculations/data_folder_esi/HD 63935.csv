@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 63935 c,HD 63935,2021,21.4023,0.14722364,2.9,11.1,0.0,50070.720160000004,627.49597,88.241,2.5092120217450065,12.960381161029392,0.45,0.55,G7,5534.0,0.96,0.93,0.07,4.38,0.86145789,1.5298308,48.9739,8.58,16.34563176949328,24.688399

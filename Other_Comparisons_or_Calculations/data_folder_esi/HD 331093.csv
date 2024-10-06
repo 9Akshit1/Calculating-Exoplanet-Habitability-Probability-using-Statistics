@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 331093 b,HD 331093,2021,621.62,1.690632,13.6,476.74261,0.59,823.6134568,207.93438,0.37,1.0449021412579953,25.310279683733178,0.45,0.55,K0,5544.0,1.11,1.03,0.17,4.2,0.97047265,1.7228969,50.1928,8.38,29.510116717829135,36.551893

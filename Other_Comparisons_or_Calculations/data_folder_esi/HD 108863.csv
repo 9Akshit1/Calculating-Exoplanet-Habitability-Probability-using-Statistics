@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 108863 b,HD 108863,2011,437.7,1.3206758,13.3,767.24162,0.032,13110.326832,448.7815,nan,1.79798309984679,42.59117906325745,0.45,0.55,K0,4878.0,5.74,1.59,0.2,3.07,4.0880776,7.4349795,164.742,7.71,16.77754001530859,16.356954

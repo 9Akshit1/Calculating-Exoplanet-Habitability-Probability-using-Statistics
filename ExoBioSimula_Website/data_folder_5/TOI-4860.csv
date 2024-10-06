@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-4860 b,TOI-4860,1,1,2023,1.5227591,0.01808,8.7,86.7,0.008,57800.0,694.0,88.5,nan,0.7258881624467534,11.247898364977456,0.4,0.6,M5,3260.0,0.36,0.34,0.27,[Fe/H],4.86,0.24275347721983603,0.34972273592617054,80.1423,16.47,30.726286674372925

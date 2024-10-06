@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 18015 b,HD 18015,2018,2278.0,3.9123842,13.1,1048.8337,0.148,864.8210216,226.54067,69.0,2.572178600355472,60.01431218604327,0.45,0.55,G6,5603.0,3.13,1.49,-0.14,3.64,2.9477647,5.2239318,123.801,7.89,24.919490364736788,37.311514

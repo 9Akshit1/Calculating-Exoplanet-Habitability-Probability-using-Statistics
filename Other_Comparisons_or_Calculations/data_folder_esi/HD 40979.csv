@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 40979 b,HD 40979,2002,264.14999,0.8765625,12.9,1484.2661,0.25,3799.40344,325.39795,nan,3.811983499340869,87.58366993673945,0.3,0.7,F8,6165.0,1.21,1.45,0.2,4.43,1.2979289,2.2683694,34.0883,6.75512,20.56015204309842,30.84511

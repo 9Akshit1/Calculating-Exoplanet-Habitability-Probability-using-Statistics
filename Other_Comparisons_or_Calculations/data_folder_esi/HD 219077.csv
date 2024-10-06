@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 219077 b,HD 219077,2012,5478.6886,7.6853027,12.5,3057.5093,0.768,160.4029424,127.67361,90.178,8.63070201166972,192.14918727668928,0.25,0.75,G8,5362.0,1.91,0.92,-0.13,4.0,1.588363,2.8364216,29.1864,6.12,21.68201174607107,17.897271

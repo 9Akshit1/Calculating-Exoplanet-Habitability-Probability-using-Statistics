@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-91 b,Kepler-91,2013,6.24658,0.073198451,15.323,257.4423,0.0519,4278483.432,1906.8558,69.68,0.39450896479389536,10.766711965397667,0.4,0.6,K3,4550.0,6.3,1.31,0.11,2.95,4.1429202,7.6436623,1294.69,12.712,19.596597030145894,5.9604068

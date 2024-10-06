@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-538 b,Kepler-538,2,1,2016,81.73778,0.3554,2.215,12.9,0.21,6895.200000000001,417.0,89.73,nan,6.54450634542946,25.818620879255615,0.25,0.75,G7,5534.0,0.87,0.89,-0.09,[Fe/H],nan,0.931763610207307,1.3423450107907189,155.956,11.27,51.418247542584496

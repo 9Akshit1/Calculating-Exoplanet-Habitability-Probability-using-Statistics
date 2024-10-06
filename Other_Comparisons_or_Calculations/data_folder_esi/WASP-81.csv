@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-81 b,WASP-81,2017,2.7164762,0.039165116,16.018,231.69807,0.066,1572453.352,1484.2397,88.69,0.31081782905792577,8.867406722635229,0.4,0.6,G1,5870.0,1.28,1.08,-0.36,4.26,1.2547686,2.2075301,398.505,12.469,19.06651824410577,5.7844844

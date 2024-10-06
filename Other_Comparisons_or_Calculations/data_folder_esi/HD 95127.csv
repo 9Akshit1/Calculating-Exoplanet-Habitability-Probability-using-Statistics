@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 95127 b,HD 95127,2015,482.0,1.287744,12.4,3378.5329,0.11,159133.8176,835.92099,nan,9.769480523971033,215.76230512143982,0.25,0.75,K0,4218.0,41.01,3.7,-0.18,1.78,14.105702,26.437506,676.579,8.15,21.68201174607107,8.0717401

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-8 b,Kepler-8,2010,3.5224991,0.0474,15.872,187.5197,0.0,2437711.056,1657.5267,83.978,0.2585593870932233,7.309276334439212,0.4,0.6,F9,6213.0,1.49,1.21,-0.055,4.17,1.857736,3.2436723,1021.87,13.598,13.599143805669705,5.7995946

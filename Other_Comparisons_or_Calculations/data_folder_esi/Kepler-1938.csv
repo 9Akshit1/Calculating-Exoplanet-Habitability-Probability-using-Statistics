@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1938 b,Kepler-1938,2021,13.0626,0.0938,1.828,4.0,0.0,34604.55264,572.1347,89.76,3.6102709068533874,11.754344086895268,0.3,0.7,K4,4522.0,0.66,0.65,-0.22,4.62,0.47889833,0.88470164,421.152,15.246,58.085131036529425,31.436754999999998

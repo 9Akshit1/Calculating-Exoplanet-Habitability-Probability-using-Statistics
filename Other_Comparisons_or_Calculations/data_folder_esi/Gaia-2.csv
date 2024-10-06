@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Gaia-2 b,Gaia-2,2022,3.6915224,0.0467,14.818,259.66581,nan,711058.1976,1218.1234,85.21,0.4400017191436674,11.612517473322931,0.4,0.6,G4,5720.0,1.06,1.0,nan,4.37,1.0185632,1.7990411,209.229,11.277,19.816449259052888,6.3119882

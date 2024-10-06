@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-6 b,CoRoT-6,2009,8.886593,0.0859275,13.068,940.74,0.1,198513.0528,883.78066,89.07,2.32407750750381,54.09313476702967,0.45,0.55,F9,6090.0,1.03,1.05,-0.2,4.43,0.96103013,1.682181,645.294,13.961,6.619813573130223,7.5649966

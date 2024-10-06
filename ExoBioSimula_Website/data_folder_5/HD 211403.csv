@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 211403 b,HD 211403,1,1,2021,223.8,0.768,nan,1760.76937,0.084,4678.4,380.0,nan,nan,nan,nan,0.4,0.6,F8,6273.0,1.21,1.2,0.18,[Fe/H],4.3,1.544764737457202,2.225464930648832,83.0919,8.48,nan

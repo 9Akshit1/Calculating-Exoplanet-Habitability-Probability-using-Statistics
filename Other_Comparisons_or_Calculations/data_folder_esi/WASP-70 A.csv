@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-70 A b,WASP-70 A,2014,3.7130203,0.04853,13.047,187.512,0.0,838529.4608,1269.3885,87.12,0.46548474568999637,10.816793341876455,0.4,0.6,G4,5763.0,1.22,1.11,-0.006,4.31,1.1464891,2.0226257,222.355,10.786,19.61079975210628,7.0202469

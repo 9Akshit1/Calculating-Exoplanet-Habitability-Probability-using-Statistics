@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+mu Leo b,mu Leo,2014,357.8,1.104455,13.3,762.8,0.09,70716.31032,683.01939,nan,1.787574439148819,42.34461549342537,0.45,0.55,K2,4538.2,11.4,1.5,0.36,2.4,8.0074042,14.781606,32.6081,3.86648,16.79020075550947,8.7369434

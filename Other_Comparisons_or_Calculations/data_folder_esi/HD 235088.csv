@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 235088 b,HD 235088,2023,7.4341393,0.072,2.045,4.84,nan,94596.24840000001,735.6707,88.75,3.120137973749098,11.364478939946375,0.3,0.7,K2,5037.0,0.79,0.84,-0.01,4.63,0.59468999,1.0746415,41.1706,9.19,55.69382359222337,27.13412

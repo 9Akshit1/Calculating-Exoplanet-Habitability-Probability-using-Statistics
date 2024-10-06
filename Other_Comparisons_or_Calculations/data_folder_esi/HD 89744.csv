@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 89744 b,HD 89744,1999,256.78,1.1271438,12.6,2653.8805,0.677,13738.282079999999,406.94557,nan,7.314389823611261,164.1462873583752,0.25,0.75,F7,6291.0,2.13,1.86,0.224,4.07,2.3037558,4.0165868,38.6364,5.73469,16.682012736871147,16.344223

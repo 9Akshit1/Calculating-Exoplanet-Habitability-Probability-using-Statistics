@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 50554 b,HD 50554,2002,1293.0,2.6483027,12.8,1859.2962,0.501,394.50674640000005,177.30137,61.0,4.887953292024371,111.43443966304314,0.3,0.7,F8,5987.0,1.02,1.04,-0.04,4.33,1.1065451,1.9413075,31.1664,6.8561,20.095479954466164,28.098277

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 222582 b,HD 222582,1999,572.38,1.697043,12.6,2660.2371,0.73,1444.19012,225.9818,nan,7.33190932019476,164.539452118515,0.25,0.75,G5,5790.0,1.13,1.12,0.01,4.38,1.0843382,1.9116079,42.1586,7.68,34.51488787323814,39.650600000000004

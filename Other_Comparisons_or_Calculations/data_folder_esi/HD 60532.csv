@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 60532 b,HD 60532,2008,201.9,0.796026,13.8,336.8998,0.26,23809.831439999998,514.32244,nan,0.7067598476673842,17.371342039221226,0.4,0.6,F6,6245.0,2.57,1.5,-0.26,3.8,2.9251091,5.1042344,25.9716,4.44,15.516966960116555,12.149626

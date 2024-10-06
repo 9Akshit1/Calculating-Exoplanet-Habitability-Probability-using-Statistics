@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 210702 b,HD 210702,2007,355.5,1.0817196,13.6,481.51004,0.071,12693.851856000001,444.8381,nan,1.0553511712184127,25.563382687621626,0.45,0.55,K1,4912.0,4.54,1.33,-0.02,3.23,3.2798263,5.9566422,54.1963,5.93022,20.090626273444073,16.478496

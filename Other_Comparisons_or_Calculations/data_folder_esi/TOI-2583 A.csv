@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2583 A b,TOI-2583 A,2023,4.5207265,0.0571,14.46,79.4571,0.0,1019217.0752,1332.8512,88.16,0.14488926385672263,3.7315298112629147,0.4,0.6,G1,5936.0,1.48,1.22,0.158,4.18,1.4717032,2.5850198,566.189,12.586,17.550480147198364,6.386964000000001

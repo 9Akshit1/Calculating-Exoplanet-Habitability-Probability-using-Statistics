@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 11112 b,HD 11112,2022,17244.908,13.923395,12.6,2598.5651,0.285,18.88087456,86.073122,144.876,7.161934429011168,160.7249511136786,0.25,0.75,G1,5905.64,1.47,1.07,0.187,4.13,1.4558716,2.5590833,44.3804,7.13,21.68201174607107,8.5263156

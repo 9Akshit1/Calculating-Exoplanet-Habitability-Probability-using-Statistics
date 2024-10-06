@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 109286 b,HD 109286,1,1,2021,520.1,1.259,nan,950.30694,0.338,965.5999999999999,259.0,nan,nan,nan,nan,0.4,0.6,G4,5694.0,1.09,0.98,0.05,[Fe/H],4.44,0.9884067377818037,1.4239479182902843,55.4156,8.78,nan

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 22496 b,HD 22496,2021,5.09071,0.051,2.22,5.57,nan,35026.64632,573.87145,nan,2.8067559135049263,11.0978803308954,0.45,0.55,K5,4385.0,0.67,0.68,-0.08,4.69,0.26317682,0.48931043,13.5956,8.57,25.56910926954169,29.302260000000004

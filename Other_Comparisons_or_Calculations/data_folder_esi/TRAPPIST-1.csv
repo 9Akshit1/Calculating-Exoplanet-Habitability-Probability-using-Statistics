@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TRAPPIST-1 h,TRAPPIST-1,2017,18.772866,0.061890995,0.755,0.326,0.00567,196.4739232,157.05024,89.805,4.176236835853995,5.615836924166487,0.3,0.7,M7,2566.0,0.12,0.09,0.04,5.24,0.024620039,0.049840137,12.429889,17.02,67.53444776245419,46.227140999999996

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-830 b,Kepler-830,2016,11.296951,0.1033,1.7,3.53,0.0,188078.1128,873.5737,87.54,3.96128706436383,11.994099680221572,0.3,0.7,G0,6037.0,1.11,1.07,-0.02,4.38,1.1366922,1.991949,1122.0,14.88,54.38062807539288,27.933885000000004

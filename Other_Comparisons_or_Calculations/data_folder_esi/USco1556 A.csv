@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+USco1556 b,USco1556 A,2019,nan,3500.0,12.3,4767.45,nan,9.024077631999999e-06,2.2991414,nan,14.124698526701033,309.4330622635233,0.4,0.6,M3,3410.0,0.67,0.33,nan,4.59,0.29567858,0.57685523,140.635,15.36,15.518191617571638,7.2136605000000005

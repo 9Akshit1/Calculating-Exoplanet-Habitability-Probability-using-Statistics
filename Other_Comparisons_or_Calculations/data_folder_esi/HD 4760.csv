@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 4760 b,HD 4760,2021,434.0,1.170153,12.3,4417.837,0.23,915232.196,1284.3717,nan,13.088887301409626,286.7413043641983,0.4,0.6,K2,4076.0,42.4,1.05,-0.91,1.62,29.920674,56.471118,537.873,7.51,15.518191617571638,7.373471299999999

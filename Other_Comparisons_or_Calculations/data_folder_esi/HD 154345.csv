@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 154345 b,HD 154345,2006,3341.5588,4.213368,13.7,378.2158,0.04,46.37911168,109.43726,69.0,0.8109355519924587,19.787426945586414,0.5,0.5,G9,5468.0,0.85,0.71,-0.11,4.43,0.75227099,1.3386983,18.284,6.76,15.103823442945387,10.032191

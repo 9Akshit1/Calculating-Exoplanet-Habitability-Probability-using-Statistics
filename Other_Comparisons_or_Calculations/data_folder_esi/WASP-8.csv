@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-8 c,WASP-8,2013,4323.0,5.28,12.5,3003.37,0.0,42.68458464,107.22171,nan,8.477878219630758,188.7468026969502,0.25,0.75,G8,5690.0,0.99,1.04,0.17,4.44,0.89384869,1.5800813,89.9606,9.789,21.68201174607107,10.344183999999998

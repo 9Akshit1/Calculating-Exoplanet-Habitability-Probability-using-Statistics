@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GSC 06214-00210 b,GSC 06214-00210,2010,nan,320.0,20.176,5000.0,nan,0.005049390456,11.182135,nan,3.356395816886434,120.61203833918094,0.3,0.7,K7,4200.0,0.9,0.9,-0.06,4.37,0.63038667,1.1825351,108.5,12.416,25.0,4.605761500000001

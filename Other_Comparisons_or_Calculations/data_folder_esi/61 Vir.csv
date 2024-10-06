@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+61 Vir c,61 Vir,2009,38.021,0.2196315,4.46,18.2,0.14,23330.2152,516.51778,nan,1.131032765327103,8.984469977138613,0.45,0.55,G5,5577.0,0.96,0.94,-0.01,4.34,0.86228713,1.5293019,8.50332,4.6955,20.495179080273683,22.754245

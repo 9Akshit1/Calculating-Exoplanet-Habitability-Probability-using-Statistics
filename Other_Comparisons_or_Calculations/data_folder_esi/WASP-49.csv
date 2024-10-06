@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-49 b,WASP-49,2012,2.78174,0.0379,12.442,117.5971,0.0,838031.7824,1269.2001,84.89,0.3366157213368842,7.459453467795839,0.4,0.6,G6,5600.0,0.97,0.92,-0.23,4.5,0.90379314,1.6018148,194.553,11.352,18.685590240331404,7.315252699999999

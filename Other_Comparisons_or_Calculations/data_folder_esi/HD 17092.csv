@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 17092 b,HD 17092,2007,359.89999,1.3289295,12.5,3219.6179,0.17,45852.63936,610.48292,nan,9.088300299311548,202.33690305585696,0.25,0.75,K0,4326.0,13.58,6.73,0.18,3.0,7.6920674,14.341736,228.422,7.732,21.68201174607107,10.173856

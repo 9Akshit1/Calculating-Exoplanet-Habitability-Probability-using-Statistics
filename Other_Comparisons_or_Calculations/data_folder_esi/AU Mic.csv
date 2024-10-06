@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+AU Mic b,AU Mic,2020,8.4629991,0.065615721,3.957,20.12,0.186,34045.90952,566.07247,89.5,1.7903510697545748,12.617887967897577,0.45,0.55,M1,3665.0,0.82,0.5,0.12,4.4,0.33065903,0.63700855,9.7221,8.81,28.544546034688,22.279239

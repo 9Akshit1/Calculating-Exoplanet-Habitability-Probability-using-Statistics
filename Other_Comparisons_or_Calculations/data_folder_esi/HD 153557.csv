@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 153557 b,HD 153557,2022,7.29903,0.06814365,4.77,20.34102,0.065,80805.41592,706.69244,nan,1.0332988932036384,8.778630305154511,0.45,0.55,K0,4837.0,0.75,0.79,nan,4.59,0.52336959,0.9534861,17.9412,7.83,22.589648262070334,17.483554

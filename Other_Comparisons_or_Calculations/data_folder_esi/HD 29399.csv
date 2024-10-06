@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 29399 b,HD 29399,2022,892.7,1.9153912,13.5,498.9906,0.05,3738.113816,327.84935,nan,1.1181483659701525,26.885345299171767,0.45,0.55,K1,4845.0,4.5,1.17,0.14,3.25,3.1670571,5.7678711,44.1518,5.79,19.693883423617173,30.690675

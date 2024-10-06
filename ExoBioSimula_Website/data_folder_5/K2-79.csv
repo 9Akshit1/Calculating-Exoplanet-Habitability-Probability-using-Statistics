@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+K2-79 b,K2-79,1,1,2016,10.9947,0.0988,4.09,9.2,0.23,246160.0,1022.0,88.44,nan,0.7413550970684841,5.4004755293133595,0.4,0.6,G1,5897.0,1.26,1.07,0.035,[Fe/H],nan,0.9165629194803944,1.3204461395165938,256.011,12.152,18.259731696218275

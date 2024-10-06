@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-77 b,HATS-77,2021,3.0876262,0.036106521,13.058,436.69623,0.045,106582.71856000001,757.65526,88.44,1.081328935129167,25.1487790520224,0.45,0.55,K7,4071.0,0.64,0.66,0.253,4.64,0.32735793,0.61799553,436.176,16.195,27.210449409499407,8.186536199999999

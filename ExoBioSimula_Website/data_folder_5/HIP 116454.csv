@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HIP 116454 b,HIP 116454,2,1,2014,9.0949,0.07765,2.53,10.1,0.089,69904.0,745.0,88.43,nan,3.438493318333992,15.49427010755381,0.3,0.7,K1,5089.0,0.72,0.76,-0.16,[Fe/H],nan,0.6543797345631381,0.9427320000809524,62.4491,10.19,56.808095273167

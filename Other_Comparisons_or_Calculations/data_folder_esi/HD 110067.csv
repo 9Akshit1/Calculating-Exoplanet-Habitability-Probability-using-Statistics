@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 110067 f,HD 110067,2023,41.05854,0.2163,2.601,5.04,nan,12630.654967999999,444.70442,89.673,1.579129891300703,7.315442873817411,0.45,0.55,K0,5266.0,0.79,0.8,-0.2,4.54,0.64522554,1.1560451,32.1585,8.419,21.968142274931367,34.937169000000004

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TIC 257060897 b,TIC 257060897,2021,3.660028,0.05102295,16.701,212.94503,0.03,2131052.136,1602.471,86.0,0.2520278037114284,7.496755509997369,0.4,0.6,G1,5988.0,1.82,1.32,nan,3.93,1.8942732,3.3232104,505.703,11.814,18.655961335184006,5.5478743

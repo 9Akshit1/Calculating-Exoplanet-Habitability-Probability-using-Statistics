@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1942 b,Kepler-1942,2021,4.62605,0.0516,2.117,5.13,0.0,429773.36880000005,1074.0509,88.9,2.9810081649207154,11.240003339889462,0.4,0.6,G2,5834.0,0.8,0.85,-0.5,4.57,0.86898265,1.5302034,842.492,14.91,19.794021258161177,25.305894000000002

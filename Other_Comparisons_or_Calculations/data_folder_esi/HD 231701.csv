@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 231701 b,HD 231701,2007,141.63,0.57179115,13.7,359.1479,0.13,12591.397752,442.94253,nan,0.7700519135727073,18.78983594527456,0.4,0.6,F8,6101.0,1.53,1.21,0.05,4.31,1.6011992,2.802076,108.877,8.97,15.451779286187053,16.498886

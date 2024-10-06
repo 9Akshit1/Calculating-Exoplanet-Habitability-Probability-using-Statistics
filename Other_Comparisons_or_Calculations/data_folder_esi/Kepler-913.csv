@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-913 c,Kepler-913,2021,5.9391198,0.0699,3.858,14.2,0.0,145406.7528,819.14564,89.7,1.3633584335192666,9.368168401395376,0.45,0.55,G0,6068.0,1.8,1.29,0.16,4.04,0.67502596,1.1821188,991.618,15.522,21.060446262458957,19.086959

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-24 b,HATS-24,2017,1.3484978,0.0238,15.637,718.2958,0.0,3718647.3200000003,1842.0916,85.97,1.0357415362169553,28.846109377662124,0.45,0.55,FV,6125.0,1.12,1.07,-0.229,4.37,1.1582689,2.0259382,494.182,12.915,14.104774679847463,5.8575136

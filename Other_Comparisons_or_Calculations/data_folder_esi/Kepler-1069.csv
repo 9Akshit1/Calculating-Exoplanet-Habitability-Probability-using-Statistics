@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1069 b,Kepler-1069,2016,23.89903,0.1685,1.6,3.19,0.0,112807.79216,768.77589,89.24,4.29377328518047,12.236057494016759,0.3,0.7,G4,5722.0,0.98,0.99,0.04,4.46,1.4636463,2.5850284,695.967,13.234,54.431363290345644,29.071414

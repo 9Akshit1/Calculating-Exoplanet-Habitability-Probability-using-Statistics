@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-24 b,KELT-24,2019,5.5514926,0.069896596,14.258,1646.3594,0.077,1031547.6104,1335.3751,89.17,3.131534430396039,79.52400026706435,0.3,0.7,F7,6509.0,1.51,1.46,0.186,4.25,1.7431484,3.028327,96.5173,8.34,20.000000025050802,6.4648655

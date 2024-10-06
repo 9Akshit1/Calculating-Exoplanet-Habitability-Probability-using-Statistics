@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-1 b,KELT-1,2012,1.217514,0.024661208,12.442,8654.15,0.0099,7790656.368,2216.1569,87.8,24.77206448804942,548.9525611458561,0.4,0.6,F6,6518.0,1.46,1.32,0.131,4.25,1.6967125,2.9472648,268.43,10.632,10.51819162775202,7.1596846

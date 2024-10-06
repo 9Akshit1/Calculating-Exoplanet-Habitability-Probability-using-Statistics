@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-15 b,Kepler-15,2011,4.942782,0.057242852,10.76,209.76,0.06,341539.996,1013.4021,87.44,0.9283125779427055,17.790531494896044,0.45,0.55,G7,5515.0,0.99,1.02,0.36,4.46,0.87339141,1.5519356,739.412,13.81,21.642680823873473,8.540029

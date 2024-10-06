@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 114933 b,HIP 114933,2021,1481.6,2.902622,13.4,616.58711,0.21,2380.652392,290.55557,nan,1.4128251614680387,33.71907372280249,0.45,0.55,K0,4823.0,5.27,1.39,0.06,2.99,3.715984,6.7738654,101.766,7.25,18.521578496223526,36.126622000000005

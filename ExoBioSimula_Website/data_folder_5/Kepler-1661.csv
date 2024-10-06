@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-1661 b,Kepler-1661,2,1,2020,175.06,0.633,3.87,17.0,0.057,1196.8,243.0,89.46,nan,1.6170535450781038,11.145967760876502,0.45,0.55,K1,5100.0,0.76,0.84,-0.12,[M/H],4.66,0.6314369707779794,0.9096795132018977,410.607,14.357,38.72295356182871

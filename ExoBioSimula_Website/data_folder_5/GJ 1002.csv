@@ -1,0 +1,4 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+GJ 1002 b,GJ 1002,1,1,2021,5.7,0.036,1.65,1.79,0.0,20726.4,238.0,nan,nan,2.1968963780114037,6.45618451377064,0.45,0.55,M1,3655.0,0.276,0.324,0.3,0.3,4.79,0.5575008649038405,0.8031634808625759,11.48,8.58,18.57188595393138
+GJ 1002 b,GJ 1002,1,2,2022,10.3465,0.0457,nan,1.08,nan,911.2,231.0,nan,nan,nan,nan,0.4,0.6,M6,3024.0,0.14,0.12,-0.25,[Fe/H],5.1,nan,nan,4.84867,nan,nan
+GJ 1002 c,GJ 1002,1,2,2022,21.202,0.0738,nan,1.36,nan,353.6,182.0,nan,nan,nan,nan,0.4,0.6,M6,3024.0,0.14,0.12,-0.25,[Fe/H],5.1,nan,nan,4.84867,nan,nan

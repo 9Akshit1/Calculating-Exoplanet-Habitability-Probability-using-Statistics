@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-12 b,KELT-12,2017,5.031623,0.06708,19.952,301.9385,0.0,2356963.2320000003,1643.6267,84.47,0.20958855299389775,7.4479441635526715,0.4,0.6,F8,6279.0,2.37,1.59,0.19,3.89,2.5748407,4.4901996,368.03,10.585,13.641174119031465,4.7137500999999995

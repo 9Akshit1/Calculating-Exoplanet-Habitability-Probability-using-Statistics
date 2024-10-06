@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-82 b,WASP-82,2015,2.70579,0.0447,18.159,371.8611,0.0,4235687.088,1903.0314,87.9,0.3423839029171216,11.073570720562628,0.4,0.6,F5,6480.0,2.1,1.48,0.12,3.96,2.272826,3.950239,275.664,10.073,14.675313370500021,5.1096828

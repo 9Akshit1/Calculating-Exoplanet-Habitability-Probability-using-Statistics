@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-836 b,TOI-836,1,2,2023.0,3.81673,0.0422,1.704,4.53,0.053,107222.40000000001,871.0,5.047749625356366,15.319684182982975,0.3,0.7,K4,4552.0,0.67,0.68,-0.284,[Fe/H],4.74,0.3409370913039976,0.491170934872202,27.5024,9.92,42.70495518553313
+TOI-836 c,TOI-836,1,2,2023.0,8.59545,0.075,2.587,9.6,0.078,36325.6,665.0,3.056963979300778,14.085399420616085,0.3,0.7,K4,4552.0,0.67,0.68,-0.284,[Fe/H],4.74,0.3409370913039976,0.491170934872202,27.5024,9.92,44.67037522110807

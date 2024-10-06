@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+DE CVn b,DE CVn,2018,4098.1,5.75,12.4,3823.2733,0.0,1.0969913951999999,42.930484,86.0,11.055506975281624,244.16463735405802,0.4,0.6,M2,3579.0,0.42,0.51,nan,4.8,0.16900958,0.32699168,30.5225,12.956,15.518191617571638,7.2490456

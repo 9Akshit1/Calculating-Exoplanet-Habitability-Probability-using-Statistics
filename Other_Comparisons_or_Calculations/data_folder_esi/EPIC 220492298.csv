@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+EPIC 220492298 b,EPIC 220492298,2021,0.762406,0.016052462,0.99,0.937,nan,5169583.856,2000.2251,92.6,5.32405314038042,9.387717084734776,0.3,0.7,G6,5620.0,0.89,0.95,0.28,4.5,0.94964229,1.6820828,624.512,13.991,53.716830537240206,29.325625

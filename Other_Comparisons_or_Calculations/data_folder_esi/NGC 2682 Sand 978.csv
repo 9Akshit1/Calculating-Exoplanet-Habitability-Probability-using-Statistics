@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+NGC 2682 Sand 978 b,NGC 2682 Sand 978,2017,511.21,1.4071477,13.3,692.8694,0.16,102456.20247999999,746.86491,nan,1.6236964199113515,38.462622352071755,0.45,0.55,K4,4200.0,21.02,1.37,-0.02,1.8,12.24918,22.978096,821.918,9.814,17.09696105640627,8.1270804

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 74890 b,HIP 74890,2016,822.3,2.105145,13.3,762.792,0.07,5071.856432,353.67706,nan,1.7875556916455246,42.344171396776254,0.45,0.55,K1,4850.0,5.77,1.74,0.2,3.1,4.0463195,7.3676439,78.6562,7.05,16.790224165061037,26.75757

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-858 B b,TOI-858 B,2,1,2023,3.2797178,0.04435,14.067,349.61125,0.15,1236104.0,1529.0,86.8,nan,0.6924514217530079,17.34895080235944,0.4,0.6,G2,5842.0,1.31,1.08,0.153,[Fe/H],4.24,1.4239420538039107,2.0514017618197165,250.489,11.183,20.51735885976947

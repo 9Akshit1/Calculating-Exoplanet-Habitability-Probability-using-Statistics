@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 39194 b,HD 39194,2021,5.6368,0.057199772,1.83,4.0,0.207,172851.2944,848.35794,nan,3.5984468849091753,11.728665571161825,0.3,0.7,K0,5205.0,0.78,0.67,-0.61,4.53,0.61321131,1.1010955,26.4131,8.09,55.476582252480405,27.369631

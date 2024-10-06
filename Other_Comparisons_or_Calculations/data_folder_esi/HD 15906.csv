@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 15906 b,HD 15906,2023,10.924709,0.0905445,2.24,5.65,0.11,45571.9272,611.50352,87.98,2.7714864990437578,11.057150028980024,0.45,0.55,KV,4757.0,0.76,0.79,0.02,4.49,0.52094949,0.95232476,45.5621,9.78,18.55839120963448,28.100142

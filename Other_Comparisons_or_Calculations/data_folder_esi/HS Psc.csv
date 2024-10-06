@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HS Psc b,HS Psc,2024,3.986,0.045085575,13.6,464.02947,0.27,90990.72112,718.35102,nan,1.0170380759752369,24.635338693964176,0.45,0.55,K7,4203.0,0.65,0.69,-0.05,4.66,0.35692083,0.66944563,37.6604,10.769,26.6031320234253,8.1644354

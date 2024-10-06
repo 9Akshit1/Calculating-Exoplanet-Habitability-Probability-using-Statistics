@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 73267 c,HD 73267,2022,17071.78,12.738251,12.8,1630.7776,0.089,5.668647416,64.630523,91.849,4.287194659183192,97.73848194335163,0.3,0.7,K0,5317.0,0.96,0.93,0.03,4.28,0.79802934,1.4272743,50.4093,8.9,25.00000000000004,7.409112499999999

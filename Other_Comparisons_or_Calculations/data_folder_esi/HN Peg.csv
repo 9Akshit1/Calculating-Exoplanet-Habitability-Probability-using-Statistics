@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HN Peg b,HN Peg,2006,nan,773.0,11.777,6991.57,nan,0.002613243808,9.4844022,nan,23.598209888324853,494.98968778843573,0.4,0.6,G0,6186.0,1.01,1.08,-0.036,4.48,0.99356461,1.7357121,18.1186,5.97707,15.518191617571638,7.4950877

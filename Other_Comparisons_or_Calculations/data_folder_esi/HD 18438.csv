@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 18438 b,HD 18438,2023,803.0,2.1105,12.1,6674.3966,0.1,287927.2184,969.87978,nan,20.771328438455885,447.64327036007063,0.4,0.6,M2,3860.0,88.48,1.84,-0.4,0.9,31.4022,59.908481,224.146,5.50474,15.518191617571638,7.8249312

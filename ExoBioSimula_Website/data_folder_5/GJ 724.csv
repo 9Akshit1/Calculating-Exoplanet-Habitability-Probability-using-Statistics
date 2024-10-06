@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+GJ 724 b,GJ 724,1,1,2023,5.101284,0.04685,nan,10.75,0.577,31715.2,611.0,nan,nan,nan,nan,0.4,0.6,K9,3799.0,0.52,0.53,-0.02,[Fe/H],4.88,0.18761951132868174,0.27029400182629465,16.9658,10.638,nan

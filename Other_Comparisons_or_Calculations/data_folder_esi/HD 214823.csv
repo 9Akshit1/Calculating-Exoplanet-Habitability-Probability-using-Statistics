@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 214823 b,HD 214823,2016,1854.8442,3.1199183,12.1,5914.7867,0.161,631.1613392,209.2261,99.51,18.407353436130936,396.69720284081563,0.4,0.6,G0,6215.0,2.04,1.11,0.17,4.05,1.9294402,3.3687404,101.368,8.06,21.698305702338526,34.733309

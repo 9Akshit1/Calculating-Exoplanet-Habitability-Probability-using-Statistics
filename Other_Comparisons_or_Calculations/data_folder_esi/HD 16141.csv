@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 16141 b,HD 16141,2000,75.523,0.37125,10.9,82.6358,0.25,25173.769999999997,522.06312,nan,0.3518010380233187,6.829769254754421,0.4,0.6,G5,5757.0,1.48,1.11,0.13,4.14,1.4505286,2.559422,37.7861,6.834,18.45410926669993,13.466802999999999

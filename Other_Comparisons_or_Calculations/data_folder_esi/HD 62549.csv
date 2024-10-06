@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 62549 b,HD 62549,2022,14306.885,11.975223,12.6,2707.5802,0.15,16.5817524,84.289362,162.313,7.462392169312574,167.4676902577365,0.25,0.75,G1,5930.46,1.23,1.08,nan,4.29,1.2245227,2.1511364,49.3305,7.72,21.68201174607107,8.3510343

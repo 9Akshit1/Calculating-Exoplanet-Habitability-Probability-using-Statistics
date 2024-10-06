@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 106270 b,HD 106270,2011,1888.0,3.3971558,12.4,3623.2438,0.185,707.3070592,214.92598,63.0,10.477094876802528,231.39020913632808,0.25,0.75,G5,5509.0,2.66,1.39,0.06,3.72,2.3059954,4.0983067,93.808,7.58,34.56573955070459,35.834232

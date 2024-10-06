@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 16175 b,HD 16175,2009,990.0,2.5016,12.8,1875.1876,0.6,1218.3643912,228.57889,59.0,4.929730616661982,112.3868695418657,0.3,0.7,G2,5981.0,1.72,1.63,0.3,4.18,1.6851098,2.9567419,59.859,7.297,38.24412102570353,39.412606

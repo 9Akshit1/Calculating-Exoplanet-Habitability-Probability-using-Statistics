@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1860 b,TOI-1860,2022,1.0662107,0.0204,1.31,2.27,nan,2625902.416,1688.6305,nan,5.566988763620886,12.98895036098842,0.3,0.7,GV,5752.0,0.94,0.99,0.04,4.58,0.85340768,1.5060197,45.864,8.4,54.65474116493487,28.727991000000003

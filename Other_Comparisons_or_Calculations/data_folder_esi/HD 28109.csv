@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 28109 c,HD 28109,2022,56.00819,0.3102287,4.23,7.943,0.1203,41267.0104,596.25222,89.543,0.578591214529883,4.359077787091929,0.4,0.6,F8,6120.0,1.45,1.26,0.0,4.13,1.5737722,2.7529839,139.611,9.42,12.724689992173971,20.694534

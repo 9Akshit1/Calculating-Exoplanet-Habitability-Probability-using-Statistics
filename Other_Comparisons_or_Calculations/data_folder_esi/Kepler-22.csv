@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-22 b,Kepler-22,2011,289.86388,1.0224704,2.1,9.1,0.72,1919.0382000000002,243.87463,89.764,5.417412214788979,20.26252641692182,0.3,0.7,G5,5596.0,0.87,0.86,-0.255,4.44,0.77209475,1.368565,194.642,11.751,74.44448162666195,72.16326

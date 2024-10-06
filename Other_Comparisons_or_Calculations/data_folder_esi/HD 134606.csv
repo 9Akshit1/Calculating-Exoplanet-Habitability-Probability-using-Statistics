@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 134606 e,HD 134606,2024,4.3203,0.053754,1.33,2.34,0.2,580473.0512,1149.0711,nan,5.483644713697216,12.989826986708882,0.3,0.7,G5,5576.0,1.16,1.05,0.343,4.33,1.0367575,1.8387876,26.7909,6.86,54.59257162109285,28.910923

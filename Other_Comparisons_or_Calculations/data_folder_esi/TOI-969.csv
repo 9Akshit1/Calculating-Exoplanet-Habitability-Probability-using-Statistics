@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-969 b,TOI-969,2022,1.8237305,0.02636,2.765,9.1,nan,390524.3264,1048.6414,86.75,2.373364051108369,11.688046002390404,0.45,0.55,KV,4435.0,0.67,0.73,0.175,4.55,0.4534628,0.84111137,77.2554,11.646,19.096768478932272,22.349116

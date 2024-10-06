@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD+15 2375 b,BD+15 2375,2016,153.22,0.57600029,13.8,337.21763,0.001,152297.9816,828.68302,nan,0.7074266022406552,17.38773009774879,0.4,0.6,G5,4649.0,8.95,1.08,-0.22,2.61,6.1402918,11.278201,768.045,10.41,20.516778927194256,7.4553831

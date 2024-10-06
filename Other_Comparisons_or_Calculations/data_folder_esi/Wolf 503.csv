@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Wolf 503 b,Wolf 503,2018,6.00127,0.061897545,2.043,6.27,0.409,96319.29088,714.40855,89.87,4.053879314473482,14.75100461127272,0.3,0.7,K3,4716.0,0.69,0.69,-0.47,4.62,0.46134949,0.84487875,44.526,10.27,58.56398164250127,27.110936000000002

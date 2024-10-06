@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-561 b,TOI-561,2020,0.4465688,0.0106,1.425,2.0,0.0,6455459.776000001,2114.4469,87.2,3.8106036326394825,9.67143813635305,0.3,0.7,G9,5372.0,0.84,0.81,-0.4,4.5,0.71073899,1.2687757,85.799,10.252,54.10428382245326,28.240927999999997

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+70 Vir b,70 Vir,1996,116.688,0.51924947,12.6,2380.45,0.3988,18107.62344,471.26334,nan,6.560784954565747,147.2342216396873,0.25,0.75,G5,5495.0,1.89,1.09,-0.09,3.95,1.6244505,2.8883053,17.9011,4.96808,21.68209763887302,14.338115000000002

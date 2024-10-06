@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-406 c,Kepler-406,2014,4.62332,0.055292,0.85,2.71,0.0,496837.4304,1113.7009,87.96,24.32881120549797,36.831739527932534,0.4,0.6,G7,5538.0,1.07,1.07,0.18,4.41,1.0189053,1.8092132,364.03,12.603,16.248282551753757,29.442061000000002

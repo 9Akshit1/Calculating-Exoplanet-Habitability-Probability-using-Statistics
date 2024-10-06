@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 896 A b,GJ 896 A,2022,284.39,0.67882856,13.3,718.2922,0.35,62.37787016,115.06385,69.2,1.6832731732563866,39.8738948884722,0.45,0.55,M3,3345.0,0.39,0.44,nan,4.83,0.13760427,0.26931151,6.26022,10.05,23.03389955511896,11.340119

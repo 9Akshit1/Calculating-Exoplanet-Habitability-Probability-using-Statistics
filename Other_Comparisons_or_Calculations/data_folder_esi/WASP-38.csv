@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-38 b,WASP-38,2010,6.87188,0.075253849,13.787,1093.3352,0.03,682445.1848,1205.4761,89.5,2.3001299777695317,56.48128522793438,0.45,0.55,F8,6180.0,1.52,1.76,-0.02,4.25,1.5626242,2.7301569,136.24,9.391,6.583175706994597,6.7303364000000006

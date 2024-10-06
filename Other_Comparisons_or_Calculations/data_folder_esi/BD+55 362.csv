@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD+55 362 b,BD+55 362,2021,265.59,0.808431,14.0,228.83645,0.27,1129.2404088,239.76403,0.601,0.45977935775153295,11.46462679107596,0.4,0.6,K3,5012.0,0.9,0.91,0.18,4.09,0.69153688,1.2508796,52.5697,9.38,35.280657292959745,38.367829

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-500 d,TOI-500,2022,26.233,0.15626956,6.35,33.12,0.016,11116.214048,430.70842,nan,0.7131444829294942,8.065544074074388,0.4,0.6,K6,4440.0,0.68,0.74,0.12,4.62,0.45338741,0.84077415,47.3924,10.54,24.550558907319967,24.457751

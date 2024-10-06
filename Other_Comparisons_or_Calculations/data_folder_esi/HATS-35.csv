@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-35 b,HATS-35,2016,1.8209993,0.033487708,16.41,388.38826,0.306,4072481.3759999997,1850.2695,86.9,0.4845612992757702,14.162493479064441,0.4,0.6,F8,6300.0,1.43,1.32,0.21,4.24,1.5729007,2.7419007,514.555,12.609,15.299967409443436,5.6043266

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WD 1856+534 b,WD 1856+534,2020,1.4079405,0.0204,10.4,4386.054,0.0,247.9011672,166.45032,88.778,21.497221480484427,398.19709458820785,0.4,0.6,K3,4710.0,0.01,0.52,nan,7.92,0.0087525767,0.016032988,24.7359,17.244,30.514345178756013,23.898882

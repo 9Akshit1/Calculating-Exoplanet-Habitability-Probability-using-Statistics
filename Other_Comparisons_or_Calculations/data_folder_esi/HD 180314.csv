@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 180314 b,HD 180314,2010,394.73,1.4921705,12.0,7216.9296,0.247,29421.92448,542.97751,nan,23.025926031818454,492.1310512901227,0.4,0.6,K0,4917.0,9.2,2.6,0.2,2.98,6.6031556,11.989833,122.362,6.61519,15.518191617571638,12.049522

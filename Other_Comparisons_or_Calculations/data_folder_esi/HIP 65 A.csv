@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 65 A b,HIP 65 A,2020,0.9809734,0.01782,22.754,1021.1878,0.0,898925.1024,1291.653,77.18,0.4779040719962813,19.36782718838273,0.4,0.6,K4,4590.0,0.72,0.78,0.18,4.61,0.46255858,0.85186391,61.7856,11.0,23.320175767399675,4.2747978

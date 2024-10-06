@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Oph 11 b,Oph 11,2006,7300000.0,243.0,12.3,4449.62,nan,3.91134708e-05,3.3173903,nan,13.183051958254296,288.80419144595504,0.4,0.6,M9,2375.0,0.23,0.02,nan,4.25,0.043130922,0.087313063,136.16559,nan,15.518191617571638,7.213662899999999

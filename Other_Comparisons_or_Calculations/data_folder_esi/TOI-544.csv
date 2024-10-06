@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-544 c,TOI-544,2023,50.089,0.23959074,4.92,21.5,0.32,3478.7892880000004,315.75382,nan,0.9952943211388956,8.721657855176446,0.45,0.55,K6,4169.0,0.62,0.63,-0.17,4.68,0.36304804,0.68207123,41.1166,10.777,30.97536044821915,43.866496999999995

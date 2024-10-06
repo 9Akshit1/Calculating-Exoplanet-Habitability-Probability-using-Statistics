@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 96063 b,HD 96063,2011,362.5,1.1260395,13.7,403.6441,0.17,14231.83696,455.6671,nan,0.8654565754312727,21.117780221680256,0.5,0.5,G6,5020.0,4.75,1.37,-0.3,3.33,3.5330364,6.3886798,140.065,8.21,14.896244682584083,15.503423

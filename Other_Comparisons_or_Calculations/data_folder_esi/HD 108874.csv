@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 108874 c,HD 108874,2005,1624.0,2.7349424,13.8,314.64,0.239,197.6397288,155.56645,nan,0.6600624828808618,16.22357466291332,0.4,0.6,G5,5551.0,1.09,0.95,0.19,4.36,0.96229325,1.7080105,59.5175,8.76,20.50269989747241,19.227076

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 81040 b,HD 81040,2005,1005.9885,2.2963875,12.7,2151.0627,0.557,347.0243728,169.20351,88.773,5.789622950409201,130.95932225956716,0.3,0.7,G2,5755.0,0.91,1.03,-0.04,4.54,0.87112086,1.537154,34.4341,7.72,25.126946357891484,26.464855999999997

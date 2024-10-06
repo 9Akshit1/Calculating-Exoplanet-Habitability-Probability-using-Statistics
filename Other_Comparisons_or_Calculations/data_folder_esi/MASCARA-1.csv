@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+MASCARA-1 b,MASCARA-1,2017,2.1487738,0.040352002,17.901,1175.971,0.00034,10111342.144000001,2365.4685,88.45,1.1302463384804382,36.03568799505853,0.45,0.55,A8,7490.0,2.08,1.9,0.15,4.11,3.0558819,5.2715928,182.273,8.28,7.421362456952316,5.1572415000000005

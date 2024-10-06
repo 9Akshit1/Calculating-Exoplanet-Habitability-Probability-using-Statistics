@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-167 b,WASP-167,2017,2.0219596,0.0365,17.71,2542.64,nan,8052916.184,2234.6179,79.9,2.5236990592410415,79.60466952166219,0.45,0.55,F1,7000.0,1.79,1.59,0.1,4.13,2.4887071,4.2993456,423.552,10.517,6.5809883853696185,5.2117703

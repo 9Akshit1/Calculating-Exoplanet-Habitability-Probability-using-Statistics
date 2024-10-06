@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 197037 b,HD 197037,2012,1035.7,2.120094,13.9,251.0,0.22,564.1193504,202.5506,nan,0.5152733665444958,12.756599245571165,0.4,0.6,F7,6150.0,1.1,1.11,-0.2,4.4,1.2236229,2.1391531,33.1944,6.82294,22.0044219863123,32.152609999999996

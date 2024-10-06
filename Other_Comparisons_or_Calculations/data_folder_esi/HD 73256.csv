@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 73256 c,HD 73256,2023,2690.0,3.84864,12.2,5085.2545,0.16,70.40493152,120.92282,29.0,15.439796618480463,335.49327773294476,0.4,0.6,G8,5570.0,0.94,1.0,0.29,4.47,0.82666347,1.4664309,36.708,8.08,15.518191617574745,12.457556

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-714 b,Kepler-714,2016,8.098888,0.0832,9.67,67.6,0.0,566620.4584,1150.9012,89.93,0.41216930713717653,7.098793434831965,0.4,0.6,G0,5995.0,1.12,1.09,0.04,4.37,1.5931512,2.7944903,2083.37,15.43,18.535316149625327,9.1513203

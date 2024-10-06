@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 42012 b,HD 42012,2017,857.5,1.7034,13.5,508.528,0.2,267.2823912,168.3232,nan,1.1395199674103478,27.399215284410612,0.45,0.55,K0,5405.0,0.82,0.83,-0.09,4.45,0.71189233,1.2694382,36.7984,8.44,21.504247882685554,22.731862

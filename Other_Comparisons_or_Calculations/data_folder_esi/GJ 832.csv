@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 832 b,GJ 832,2008,3853.0,3.704625,13.8,314.65012,0.05,2.586300712,53.171749,51.0,0.6600837129607205,16.224096473794297,0.4,0.6,M2,3472.0,0.44,0.45,-0.3,4.79,0.16711087,0.32503463,4.96435,8.66,20.496805053433324,6.715133700000001

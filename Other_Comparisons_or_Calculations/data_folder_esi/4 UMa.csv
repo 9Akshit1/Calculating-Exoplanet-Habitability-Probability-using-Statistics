@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+4 UMa b,4 UMa,2006,270.27,0.96698415,12.6,2511.4801,0.453,228777.4728,879.41678,nan,6.921918483383933,155.33861987736103,0.25,0.75,K1,4415.0,18.11,1.23,-0.25,1.8,10.910071,20.255744,73.4603,4.5801,21.68201174607107,7.6958766999999995

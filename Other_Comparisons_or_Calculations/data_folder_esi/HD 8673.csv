@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 8673 b,HD 8673,2009,1644.691,3.7613565,12.3,4210.5907,0.73,764.4007024,192.75145,95.45,12.474871106530971,273.28990849181685,0.4,0.6,F5,6389.05,1.5,1.28,0.147,4.19,1.6861273,2.9347727,37.8619,6.331,10.521496123492684,36.736134

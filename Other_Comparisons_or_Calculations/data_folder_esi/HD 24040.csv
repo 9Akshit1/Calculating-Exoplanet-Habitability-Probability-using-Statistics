@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 24040 c,HD 24040,2021,515.4,1.307865,9.35,63.88351,0.11,1528.606544,261.69688,nan,0.43088592877051685,7.175568907474834,0.4,0.6,G0,5776.49,1.39,1.1,0.197,4.2,1.3062247,2.3036004,46.6224,7.515,53.88851110614348,42.80411

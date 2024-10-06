@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-290 c,Kepler-290,2014,36.77031,0.205,2.7,7.75,0.0,8395.202752,401.53442,89.44,2.170794859729994,10.439145851073206,0.45,0.55,K1,5147.0,0.74,0.8,-0.06,4.62,0.5016608,0.90272338,694.627,15.775,21.153202909141193,39.535319

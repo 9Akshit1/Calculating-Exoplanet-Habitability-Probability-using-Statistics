@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 10442 b,HD 10442,2014,1032.3,2.0275111,13.6,472.61321,0.132,693.3678752000001,214.54902,nan,1.0358515155920605,25.091049711975437,0.45,0.55,K0,4912.0,1.97,1.01,0.11,3.19,1.4234783,2.5852439,135.374,7.828,35.196952037208575,34.800605000000004

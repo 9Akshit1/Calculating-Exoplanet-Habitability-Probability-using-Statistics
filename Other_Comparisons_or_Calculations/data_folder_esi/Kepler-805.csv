@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-805 b,Kepler-805,2016,30.863893,0.1978,2.89,8.7,0.0,120805.39592,782.05368,85.76,1.9871657757135812,10.22855673249827,0.45,0.55,G0,6112.0,1.65,1.19,-0.06,4.08,1.7364162,3.038002,638.49,12.586,15.515969338752596,22.79809

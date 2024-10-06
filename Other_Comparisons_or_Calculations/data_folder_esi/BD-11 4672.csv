@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD-11 4672 b,BD-11 4672,2014,1634.0,2.36295,14.1,206.5895,0.05,38.39356568,104.37003,nan,0.40631165583296913,10.203773516892678,0.4,0.6,K7,4550.0,0.64,0.65,-0.35,4.64,0.40068822,0.73926729,27.1665,10.03,19.446455384610314,9.285181300000001

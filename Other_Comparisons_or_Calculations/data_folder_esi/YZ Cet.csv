@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+YZ Cet b,YZ Cet,2017,2.02087,0.016369412,0.913,0.7,0.06,11189.687096000001,431.1475,nan,5.071005503887573,8.246074917578712,0.3,0.7,M4,3151.0,0.16,0.14,-0.18,5.17,0.048695705,0.096193541,3.71207,12.074,68.17620549826026,44.521766

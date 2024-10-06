@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KIC 7917485 b,KIC 7917485,2016,840.0,2.0730838,12.4,3750.394,0.15,3243.126584,315.21446,nan,10.844766715226543,239.510366926904,0.25,0.75,F2,7067.0,2.01,1.63,-0.02,4.0,2.7805156,4.8009052,1382.89,13.166,16.682160257785956,33.249353

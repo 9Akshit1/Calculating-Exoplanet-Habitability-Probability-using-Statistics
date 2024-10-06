@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-421 b,TOI-421,2,2,2020,5.19672,0.056,2.68,7.17,0.163,210215.19999999998,981.0,85.68,nan,2.0536344831563693,9.802579176221094,0.45,0.55,G9,5325.0,0.87,0.85,-0.02,[Fe/H],4.49,0.8550416222030816,1.231815498061086,74.7969,9.931,15.70179014922845
+TOI-421 c,TOI-421,2,2,2020,16.06819,0.1189,5.09,16.42,0.152,46675.2,674.0,88.353,nan,0.6864804604738495,6.223409512038245,0.4,0.6,G9,5325.0,0.87,0.85,-0.02,[Fe/H],4.49,0.8550416222030816,1.231815498061086,74.7969,9.931,18.761798173397498

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 168443 b,HD 168443,1998,58.11187,0.3330114,12.6,2424.3951,0.53,45329.25288000001,576.27503,nan,6.681902537756694,149.95228864104345,0.25,0.75,G5,5491.0,1.71,0.98,0.04,3.99,1.5007408,2.6686834,39.6245,6.92122,21.682081833215594,10.156038

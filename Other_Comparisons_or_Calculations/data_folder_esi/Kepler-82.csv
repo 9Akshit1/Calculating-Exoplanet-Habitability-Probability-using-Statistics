@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-82 e,Kepler-82,2014,5.902206,0.063,2.47,6.66,0.0,223798.8256,912.38773,89.23,2.4366421015206536,10.719415715477108,0.45,0.55,G8,5428.0,0.95,0.96,0.211,4.47,0.78407057,1.3970902,904.326,15.131,15.866722458853685,23.991826

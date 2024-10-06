@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-38 b,K2-38,2016,4.01593,0.050604315,1.655,7.7,0.11,588906.6288000001,1159.4078,88.36,9.364942287722458,27.604858171313822,0.25,0.75,G2,5705.0,1.14,1.05,0.235,4.36,0.99626858,1.7603939,192.69,11.344,49.58980882801578,27.485586

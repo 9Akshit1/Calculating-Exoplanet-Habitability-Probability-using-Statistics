@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Kepler-21 b,Kepler-21,2,1,2012,2.7858212,0.0434,1.639,7.5,0.0,3738640.0,2015.0,83.2,nan,9.391452735899078,27.415372267915746,0.25,0.75,F8,6305.0,1.9,1.41,-0.03,[Fe/H],nan,2.242959575271228,3.2313191482126324,108.522,8.25,44.63420560054217

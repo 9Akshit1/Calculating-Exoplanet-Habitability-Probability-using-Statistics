@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+EPIC 201170410.02,EPIC 201170410,2020,6.7987,0.0349,1.047,1.15,0.0,14056.8512,456.75888,89.002,5.524158994706599,10.301376687965845,0.3,0.7,M2,3648.0,0.28,0.29,-0.048,5.0,0.11600843,0.22367779,134.0,17.6984,67.90102275673509,41.742203

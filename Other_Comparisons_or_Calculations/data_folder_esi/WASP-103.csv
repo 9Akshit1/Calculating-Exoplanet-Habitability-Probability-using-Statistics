@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-103 b,WASP-103,2014,0.925542,0.020073312,17.127,473.547,0.15,9035652.184,2290.1031,86.3,0.519669909979011,15.852263599180098,0.4,0.6,F8,6110.0,1.44,1.22,0.06,4.22,1.4986728,2.6221602,375.647,12.402,15.47626627258194,5.3716203

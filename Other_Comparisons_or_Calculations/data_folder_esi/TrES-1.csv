@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TrES-1 b,TrES-1,2004,3.03007,0.03925,12.666,266.9772,0.0,441427.6984,1081.2594,90.0,0.7243760742893871,16.341277226909277,0.4,0.6,K0,5230.0,0.85,1.04,0.02,4.57,0.69349087,1.2441201,159.658,11.424,20.975064552402355,7.3589565

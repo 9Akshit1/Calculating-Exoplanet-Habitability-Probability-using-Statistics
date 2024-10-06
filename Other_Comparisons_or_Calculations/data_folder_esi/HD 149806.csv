@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 149806 b,HD 149806,2022,16521.528,13.194439,12.3,4003.6844,0.357,5.382945552,62.299583,13.574,11.86186224209083,259.86058044210154,0.4,0.6,K0,5352.05,0.89,0.93,0.221,4.51,0.73483098,1.3126677,20.2727,7.08308,15.518191617571638,7.637849200000001

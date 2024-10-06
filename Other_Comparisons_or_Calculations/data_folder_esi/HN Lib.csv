@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HN Lib b,HN Lib,2023,36.116,0.14214217,2.2,5.46,0.079,687.3195063999999,214.53349,nan,2.8270466484500796,11.077405970903953,0.45,0.55,M4,3347.0,0.3,0.29,-0.18,4.76,0.10438127,0.20426943,6.24442,11.311,30.730413443959257,64.745149

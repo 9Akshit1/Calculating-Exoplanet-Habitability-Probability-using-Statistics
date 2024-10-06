@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-1 b,HATS-1,2012,3.446459,0.04471968,14.594,589.55,0.12,763699.704,1236.7043,85.6,1.0456973139398327,27.180832300881026,0.45,0.55,G1,5870.0,1.04,0.99,-0.06,4.4,0.99097718,1.7434385,283.971,12.155,19.618025757709635,6.3826321

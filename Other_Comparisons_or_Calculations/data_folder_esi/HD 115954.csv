@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 115954 b,HD 115954,2021,3700.0,5.5929225,12.6,2685.65,0.487,188.53184960000002,147.90128,79.0,7.401950099027285,166.11127616485382,0.25,0.75,G0,5957.0,1.21,1.18,0.34,4.15,1.6359281,2.8720504,87.6437,8.34,21.68201174607107,19.383483000000002

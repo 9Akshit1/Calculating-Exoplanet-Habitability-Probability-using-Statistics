@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 3090 b,GJ 3090,2022,2.8531054,0.03327048,2.13,3.34,0.32,65200.36928,656.98295,87.14,1.9055310550396065,7.228997110274704,0.45,0.55,M2,3556.0,0.52,0.52,-0.06,4.73,0.22082323,0.42772641,22.4751,11.403,25.327677064359904,27.533568000000002

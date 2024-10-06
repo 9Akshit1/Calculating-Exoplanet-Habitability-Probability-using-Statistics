@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 211403 b,HD 211403,2021,223.8,0.7707095,12.8,1760.7694,0.084,5350.0037680000005,358.28384,nan,4.628933563799989,105.52936722230308,0.3,0.7,F7,6273.0,1.21,1.2,0.18,4.3,1.4025149,2.4460787,83.0919,8.48,20.07316746428661,26.354233

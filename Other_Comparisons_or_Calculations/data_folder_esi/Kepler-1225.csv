@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1225 b,Kepler-1225,2016,7.0107543,0.0771,1.82,3.97,0.0,492527.128,1111.2775,88.92,3.6306527839113207,11.768971793949808,0.3,0.7,F9,6140.0,1.19,1.13,0.01,4.34,1.3643074,2.3855854,1347.52,14.819,49.32611107609017,26.734430999999997

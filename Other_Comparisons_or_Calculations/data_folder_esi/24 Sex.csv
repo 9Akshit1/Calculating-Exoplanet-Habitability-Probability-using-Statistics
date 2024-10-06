@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+24 Sex b,24 Sex,2010,452.8,1.3383987,13.4,632.46,0.09,11211.008087999999,430.98713,nan,1.4491957213021787,34.5871086515637,0.45,0.55,K0,5098.0,4.9,1.54,-0.03,3.5,3.7712445,6.798816,72.0691,6.4535,17.674259370499,17.671788

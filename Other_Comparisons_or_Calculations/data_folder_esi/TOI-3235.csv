@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-3235 b,TOI-3235,2023,2.5926184,0.027101391,11.4,211.35589,0.029,30067.934,552.29661,88.14,0.786517111536866,15.969651678819064,0.4,0.6,MV,3388.8,0.37,0.39,0.264,4.9,0.1321063,0.25800046,72.811,15.16,33.88299986470544,12.312205

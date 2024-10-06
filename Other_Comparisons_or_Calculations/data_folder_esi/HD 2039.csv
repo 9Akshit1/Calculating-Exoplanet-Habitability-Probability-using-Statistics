@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 2039 b,HD 2039,2002,1120.0,2.75451,12.7,1999.1507,0.71,623.729796,185.04894,nan,5.3807491404349195,121.71073431134259,0.3,0.7,G2,5945.0,1.19,1.23,0.3,4.38,1.1764731,2.0660116,85.6922,9.0,25.088113275997873,34.155617

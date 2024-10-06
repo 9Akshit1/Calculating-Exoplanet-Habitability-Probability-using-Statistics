@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="simul.css">
+    <title>ExoBiosimula</title>
+  </head>
+  <style>
+    #main-UI {
+        /* Styling for the main-UI section */
+        width: 100vw;
+        height: 100vh;
+        z-index: 1;
+        position: relative;
+        display: inline-block; /* Allow information_grid to surround it */
+        background-color: white; /* Added background color for visibility */
+        border: 1px solid black; /* Added border for visibility */
+    }
+
+    .menu-btn {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 10;
+      background-color: transparent;
+      border: none;
+      color: #fff;
+      font-size: 24px;
+      cursor: pointer;
+    }
+
+    /* Styles for the info panel */
+    #info-panel {
+      position: fixed;
+      top: 0;
+      left: -100%; /* Initially hide the panel */
+      width: 20vw;
+      height: 100%;
+      background-color: #333; /* Dark gray background */
+      transition: left 0.5s ease; /* Smooth transition */
+      z-index: 9;
+      overflow-x: hidden;
+      overflow-y: auto;
+      resize: horizontal;
+      padding: 20px;
+      display: none;
+    }
+
+    #info-panel.open {
+      left: 0;
+      display: block;
+    }
+
+    /* Styles for the toggle button icon */
+    .fa-bars {
+      transform: rotate(90deg); /* Rotate the bars icon to make it resemble a menu */
+    }
+    
+    .maximized {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+    }
+  </style>
+  <script>
+    function replaceAll(str, search, replacement) {
+      return str.replace(new RegExp(search, 'g'), replacement);
+    }
+    
+    function parseStarName() {
+      var pstarName = window.location.href.split("?star=")[1];
+      pstarName = replaceAll(pstarName, "%", " ");
+      readCSV(pstarName);
+      var art_title = document.getElementById('article_title');
+      art_title.innerHTML = pstarName + ' Star System';
+    }
+
+    function toggleMaximize() {   //supposed to let you maximise and go back to normal size for simulation div
+      var div = document.getElementById('main-UI');
+      div.classList.toggle('maximized');
+    }
+    
+  </script>
+  <body onload="parseStarName();">
+    <section class="content_page">
+      <br>
+      <div class="grid_layout">
+        <article>
+          <header id="page_header">
+            <a class="category_title" href="https://5729a1e9-6441-446e-ba20-b2384c7ea489-00-3db1hjt87fv5j.janeway.replit.dev/">Exo - Bio - Sim</a> 
+            <center><h1 id="article_title"></h1></center>
+            <div class="container">
+              <div class="btn" id="HB-plane-mode"><a href="#">Off HB Plane</a></div>
+              <div class="btn" id="HB-sphere-mode" ><a href="#" >Off HB Sphere</a></div>
+              <div class="btn" id="stop-follow"><a href="#" >Stop Follow</a></div>
+            </div>
+          </header>
+          <table id = 'planet_names'>
+            <!-- Table headers will be populated dynamically -->
+              <thead>
+                  <tr>
+                      <!-- Table headers will be populated dynamically -->
+                  </tr>
+              </thead>
+              <tbody>
+                  <!-- Table rows will be populated dynamically -->
+              </tbody>
+          </table>
+          <div id='container_of_all_info'> 
+            <br>
+            <div>
+              <div id="main-UI">
+                <button class="menu-btn" onclick="toggleInfoPanel();">
+                  <i class="fa fa-bars"></i>
+                </button>
+              </div>
+                <button onclick="toggleMaximize()">Maximize</button>
+              <div id="info-panel">
+                <table id = 'information_grid_left'>
+                  <tbody>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          PLANET NAME
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          DISCOVERED YEAR
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          ORBITAL PERIOD
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          ORBITAL SEMI MAJOR AXIS
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          RADIUS(Earth)
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          MASS(Earth)
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          ORBIT ECCENTRICITY
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table id = 'information_grid_right'>
+                  <tbody>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          INSOLATION FLUX
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          EQUILIBRIUM TEMPERATURE
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          DENSITY
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          SURFACE GRAVITY
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          ALBEDO
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          ABSORBED SOLAR FLUX
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="fact_row">
+                      <td class="planet_fact">
+                        <div class="title">
+                          R. H. P.
+                        </div>
+                        <div class="value">
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            
+          </div>
+        </article>
+      </div>
+    </section>
+        <!-- 
+       <table id="csvTable">
+          <thead>
+              <tr>
+              </tr>
+          </thead>
+          <tbody>
+          </tbody>
+      </table>
+        -->
+    <script src="https://typpo.github.io/spacekit/build/spacekit.js"></script>
+    <script src="simul.js"></script>
+    <script>
+      function toggleInfoPanel() {
+        var panel = document.getElementById('info-panel');
+        var isOpen = panel.classList.contains('open');
+
+        if (isOpen) {
+          panel.classList.remove('open');
+          setTimeout(function() {
+            panel.style.display = 'none';
+          }, 500); // Match the duration of the transition
+        } else {
+          panel.style.display = 'block'; // Make sure the panel is visible before adding 'open' class
+          panel.classList.add('open');
+        }
+      }
+
+    </script>
+  </body>
+</html>

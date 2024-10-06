@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-75 b,WASP-75,2013,2.484193,0.0375,14.235,340.06,0.0,1947495.112,1567.0544,82.0,0.6499673041886622,16.479020679052198,0.4,0.6,F9,6100.0,1.26,1.14,0.07,4.29,1.3227321,2.3148112,294.001,11.591,15.506995092738881,6.4080469

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Qatar-10 b,Qatar-10,2019,1.645321,0.0286,17.295,233.92288,0.0,3317468.808,1790.2624,85.87,0.24929833483792285,7.6793128487706905,0.4,0.6,F7,6124.0,1.25,1.16,0.016,4.3,1.314728,2.2996496,559.068,12.868,13.711263264379925,5.3513535

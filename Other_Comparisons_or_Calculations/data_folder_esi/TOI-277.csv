@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-277 b,TOI-277,2022,3.994,0.0269,2.65,7.51,nan,83952.63816,714.04169,88.9,2.22490099219109,10.501201219857299,0.45,0.55,K7,4031.0,0.36,0.16,-0.01,4.58,0.21698271,0.41043922,64.6692,13.632,26.38363159327733,24.448543

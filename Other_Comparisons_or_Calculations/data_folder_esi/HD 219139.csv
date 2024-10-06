@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 219139 b,HD 219139,2021,275.5,0.945687,14.0,247.90616,0.11,96588.78576,737.82996,nan,0.4980943159511903,12.420012649246928,0.4,0.6,G5,4831.0,11.22,1.46,-0.2,2.48,7.8962788,14.389254,104.935,5.84863,19.989021336031904,7.9037738

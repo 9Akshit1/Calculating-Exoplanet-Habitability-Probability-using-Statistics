@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 27442 b,HD 27442,2000,428.1,1.2732878,13.5,495.8,0.06,5984.542367999999,368.70508,nan,1.1109988040816838,26.71343748625598,0.45,0.55,K1,4846.0,3.18,1.23,0.42,3.78,2.6615631,4.8470575,18.2704,4.44,19.745950939885923,24.513883

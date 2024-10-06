@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 208527 b,HD 208527,2012,875.5,2.10672,12.5,3146.4,0.08,225680.75280000002,913.20031,nan,8.881621655089521,197.73552376353365,0.25,0.75,M1,4035.0,51.1,1.6,-0.09,1.4,27.725901,52.435226,312.202,6.38984,21.68201174607107,7.7548216000000005

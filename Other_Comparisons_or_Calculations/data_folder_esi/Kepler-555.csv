@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-555 b,Kepler-555,2016,16.217754,0.1201,2.83,8.4,0.0,173162.1224,855.71315,89.21,2.0432822109144033,10.299050940285689,0.45,0.55,G1,5894.0,1.04,1.03,0.0,4.42,1.2791767,2.2491347,973.121,14.448,15.535419998349878,22.625218999999998

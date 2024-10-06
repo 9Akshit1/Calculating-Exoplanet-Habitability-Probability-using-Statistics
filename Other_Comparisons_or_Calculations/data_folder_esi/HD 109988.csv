@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 109988 b,HD 109988,2022,17132.159,12.537628,12.1,6935.3337,0.056,4.286976087999999,60.32496,33.992,21.583388393939835,465.1439889721881,0.4,0.6,K0,5185.97,0.87,0.88,0.14,4.5,0.69030334,1.2403869,42.5279,8.9,15.518191617571638,7.6572835

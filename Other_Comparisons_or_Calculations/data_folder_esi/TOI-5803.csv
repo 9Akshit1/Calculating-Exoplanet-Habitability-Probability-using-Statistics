@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-5803 b,TOI-5803,2023,5.38305,0.057372215,3.273,10.7,nan,150361.1648,826.03586,89.3,1.682496371404671,9.80804745089892,0.45,0.55,K1,5134.0,0.76,0.87,nan,4.61,0.59456236,1.0704185,84.0126,10.655,21.756090339393424,21.024328

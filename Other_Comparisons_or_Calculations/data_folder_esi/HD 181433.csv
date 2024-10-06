@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 181433 b,HD 181433,2008,9.3743,0.0864,2.4,6.3566,0.4,81137.06416,685.50828,nan,2.535125904059276,10.836603701353807,0.45,0.55,K3,4918.0,0.79,0.63,0.38,4.45,0.58915781,1.0697331,26.8762,8.4,17.325565292928612,25.679899

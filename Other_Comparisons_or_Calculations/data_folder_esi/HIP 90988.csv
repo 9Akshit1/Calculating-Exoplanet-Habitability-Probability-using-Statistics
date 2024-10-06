@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 90988 b,HIP 90988,2021,455.73816,1.3644615,13.4,668.07531,0.081,5726.516095999999,364.46167,nan,1.5308033405426846,36.53479008063292,0.45,0.55,K1,4883.0,3.94,1.61,0.17,3.32,2.7792117,5.0534981,94.0349,7.75,17.34481646484604,25.127413999999998

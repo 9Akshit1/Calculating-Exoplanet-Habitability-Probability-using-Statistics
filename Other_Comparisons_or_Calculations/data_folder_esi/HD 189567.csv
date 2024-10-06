@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 189567 b,HD 189567,2021,14.288,0.11298252,2.85,8.5,0.189,237023.6016,919.30428,nan,2.0243831798397247,10.275903019875113,0.45,0.55,G3,5726.0,1.04,0.83,-0.24,4.41,1.3846256,2.4451968,17.9055,6.074,15.52887560759828,22.275848

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-249 b,Kepler-249,2014,3.306539,0.035,1.09,1.32,0.0,35514.26344,575.85837,90.0,5.619566461397856,10.909672824944927,0.3,0.7,M2,3568.0,0.48,0.51,-0.34,4.78,0.18512947,0.35837543,190.401,16.37,66.10261980485086,34.434494

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TYC 3318-01333-1 b,TYC 3318-01333-1,2018,562.0,1.42079,13.1,1086.9786,0.098,11084.998784,429.64885,nan,2.6657258381041253,62.19696510509556,0.45,0.55,K3,4776.0,5.9,1.19,-0.06,2.97,4.0359787,7.3719524,490.61,9.901,11.581184503417544,17.930592

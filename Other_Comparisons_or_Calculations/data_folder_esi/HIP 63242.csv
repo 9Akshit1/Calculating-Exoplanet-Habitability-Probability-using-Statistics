@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 63242 b,HIP 63242,2013,124.6,0.57994425,12.5,2917.56,0.23,186742.892,863.21491,nan,8.235654740663293,183.3540728170402,0.25,0.75,G8,4830.0,10.28,1.54,-0.31,2.53,6.5304248,11.900784,156.456,6.86,21.68201174607107,7.8875611999999995

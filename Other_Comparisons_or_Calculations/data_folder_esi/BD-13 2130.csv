@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD-13 2130 b,BD-13 2130,2007,714.29999,1.696603,12.5,3108.3774,0.21,55733.523519999995,639.12284,nan,8.774291898052017,195.34599327603956,0.25,0.75,G5,4545.0,19.17,2.12,-0.08,2.2,10.626377,19.610092,925.214,10.038,21.68201174607107,9.6496005

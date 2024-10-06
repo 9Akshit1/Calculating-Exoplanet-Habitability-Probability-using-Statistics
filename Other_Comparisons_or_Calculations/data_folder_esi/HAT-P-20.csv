@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-20 b,HAT-P-20,2010,2.875317,0.036104061,9.718,2302.899,0.015,198414.48,885.29906,86.8,13.834153224075836,239.44837437808178,0.4,0.6,K3,4595.0,0.69,0.76,0.35,4.63,0.44013454,0.81038344,71.0374,11.231,19.260250935441206,9.5961572

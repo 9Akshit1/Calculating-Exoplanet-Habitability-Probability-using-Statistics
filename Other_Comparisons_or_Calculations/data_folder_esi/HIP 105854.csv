@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 105854 b,HIP 105854,2014,184.2,0.810162,12.6,2606.1,0.02,96974.09824,740.19533,nan,7.1827014514456495,161.19099540641017,0.25,0.75,K2,4780.0,10.31,2.1,0.31,2.94,6.852915,12.515101,78.6381,5.64,21.68201174607107,8.540935099999999

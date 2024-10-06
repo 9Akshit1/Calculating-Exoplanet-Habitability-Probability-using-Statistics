@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-412 b,K2-412,2022,5.9382,0.0586,2.116,5.13,nan,336313.0128,1010.185,89.998,2.98523654466676,11.250629671926617,0.4,0.6,G6,5590.0,0.98,0.89,0.014,4.41,0.88577372,1.5703453,654.085,15.746,19.782756354341558,25.42698

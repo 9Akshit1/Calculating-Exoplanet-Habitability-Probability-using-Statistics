@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-4 b,WASP-4,2007,1.3382315,0.0226,14.807,376.94638,0.0,1763282.976,1528.6058,89.06,0.6401573294272034,16.88247889059724,0.4,0.6,G8,5400.0,0.89,0.86,-0.07,4.47,0.79074305,1.4102771,267.206,12.483,20.660177085294666,6.194990000000001

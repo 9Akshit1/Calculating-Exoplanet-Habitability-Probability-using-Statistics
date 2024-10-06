@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+Wolf 1069 b,Wolf 1069,1,1,2015,4.888,0.039,1.27,1.29,0.0,53910.4,250.0,nan,nan,3.47205760484242,7.853677427201059,0.3,0.7,M4,3321.0,0.26,0.23,-0.18,-0.18,4.73,0.5777524458696611,0.8323389158895407,14.01,10.5,68.67602297491047
+Wolf 1069 b,Wolf 1069,1,1,2023,15.564,0.0672,nan,1.26,nan,884.0,250.0,nan,nan,nan,nan,0.4,0.6,M5,3158.0,0.18,0.17,0.07,[Fe/H],4.93,0.09082883128693908,0.1308525329582768,9.58341,13.993,nan

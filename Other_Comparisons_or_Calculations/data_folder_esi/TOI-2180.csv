@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2180 b,TOI-2180,2022,260.79,0.88415698,11.321,875.61726,0.3683,5434.156352,350.55916,89.955,3.32711886679181,67.08656015688817,0.3,0.7,G5,5695.0,1.64,1.11,0.253,4.06,1.5245263,2.6945701,116.685,9.162,25.036965733086678,27.154701

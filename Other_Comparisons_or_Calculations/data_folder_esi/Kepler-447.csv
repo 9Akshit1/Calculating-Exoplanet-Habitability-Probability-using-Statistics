@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-447 b,Kepler-447,2015,7.7943013,0.07748171,18.49,435.41,0.123,149622.372,822.66728,86.55,0.3797484765170743,12.505911991977298,0.4,0.6,G8,5493.0,1.05,1.0,0.07,4.4,0.776705,1.3810839,268.041,12.52,20.278702649171823,5.9364434

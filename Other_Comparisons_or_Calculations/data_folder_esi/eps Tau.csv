@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+eps Tau b,eps Tau,2006,585.82,1.8834237,12.7,2285.1863,0.076,30227.73536,552.51604,nan,6.15061897007497,139.1249307074349,0.25,0.75,K0,4877.0,12.35,2.57,0.1,2.66,8.8214219,16.044171,47.52852,3.523,21.68201174607107,11.554057

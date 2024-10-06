@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 140901 c,HD 140901,2022,14386.0,15.29811,13.4,572.09113,0.77,12.103872568,66.833081,40.0,1.310868699666269,31.285738342196908,0.45,0.55,G7,5610.0,0.95,1.06,0.086,4.46,0.85371869,1.5126195,15.2528,6.01,18.422050075709596,7.627440000000001

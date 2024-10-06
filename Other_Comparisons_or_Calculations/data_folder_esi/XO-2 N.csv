@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+XO-2 N b,XO-2 N,2007,2.6158618,0.036814426,11.131,179.89178,0.028,820377.2008,1262.2766,88.01,0.7191461261041838,14.257183679801363,0.4,0.6,K0,5340.0,0.99,0.97,0.43,4.43,0.88099681,1.5744172,154.273,11.246,20.364866603250587,8.0533274

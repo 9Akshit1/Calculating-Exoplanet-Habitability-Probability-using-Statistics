@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-589 b,Kepler-589,2016,16.549649,0.1196,2.27,5.77,0.0,42763.825039999996,603.23165,86.74,2.719609916562879,10.995497647799896,0.45,0.55,G9,5296.0,0.83,0.88,0.01,4.55,0.6554091,1.1730532,612.803,14.775,16.918277901815053,28.189519

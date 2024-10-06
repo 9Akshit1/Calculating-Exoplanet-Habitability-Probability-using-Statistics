@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="rank.css">
+    <title>ExoBiosimula</title>
+  </head>
+  <body onload = "makeRanks();populateLeaderboard();">
+      <center><h1 id="title">Top 3 Planets</h1></center>
+      <div class="podiums-container">
+          <div class="podium podium-first">
+              <div class='podium-winner'>
+                  <div class="winner-name">Earth</div>
+              </div>
+              <div class="podium-top">
+                  <h1>1st</h1> <!-- Text on the podium -->
+              </div>
+              <div class="podium-base-first">
+                <h1 class='RHP_podium'>RHP</h1> <!-- Text on the podium -->
+              </div>
+          </div>
+  
+          <div class="podium podium-second">
+              <div class='podium-winner'>
+                  <div class="winner-name">Trappist-1e</div>
+              </div>
+              <div class="podium-top">
+                  <h1>2nd</h1> <!-- Text on the podium -->
+              </div>
+              <div class="podium-base-second">
+                <h1 class='RHP_podium'>RHP</h1> <!-- Text on the podium -->
+              </div>
+          </div>
+  
+          <div class="podium podium-third">
+              <div class='podium-winner'>
+                  <div class="winner-name">TOI-smh</div>
+              </div>
+              <div class="podium-top">
+                  <h1>3rd</h1> <!-- Text on the podium -->
+              </div>
+              <div class="podium-base-third">
+                <h1 class='RHP_podium'>RHP</h1> <!-- Text on the podium -->
+              </div>
+          </div>
+      </div>
+      <br>
+      <main>
+        <div id="header">
+          <h1>Ranking</h1>
+        </div>
+        <div id="leaderboard">
+          <div class="ribbon"></div>
+          <table id="ldbrd-table">
+          </table>
+        </div>
+      </main>
+    <script src="rank.js"></script>
+  </body>
+</html>

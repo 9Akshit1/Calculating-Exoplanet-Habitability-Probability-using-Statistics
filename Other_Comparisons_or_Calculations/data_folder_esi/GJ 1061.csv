@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 1061 b,GJ 1061,2020,3.204,0.02200905,1.1,1.37,0.31,5508.585888,354.65981,nan,5.674804261357671,11.117982549551956,0.3,0.7,M5,2953.0,0.16,0.12,-0.08,5.16,0.042938813,0.085601178,3.67278,12.7,69.06153703590711,57.158634

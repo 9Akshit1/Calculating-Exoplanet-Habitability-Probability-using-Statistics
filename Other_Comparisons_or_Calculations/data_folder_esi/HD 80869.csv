@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 80869 b,HD 80869,2021,1752.9207,4.1451096,12.8,1609.8009,0.924,1058.6132016000001,174.45955,98.559,4.232048453957361,96.48127138675513,0.3,0.7,G5,5837.0,1.06,1.06,0.17,4.18,1.5011783,2.6432426,85.3951,8.48,25.00000051474555,38.898572

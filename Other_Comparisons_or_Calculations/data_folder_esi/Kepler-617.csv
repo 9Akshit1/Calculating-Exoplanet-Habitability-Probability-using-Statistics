@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-617 b,Kepler-617,2016,1.6826961,0.0219,1.32,2.3,0.0,140491.6992,812.13392,89.85,5.513335445864859,12.961962623666604,0.3,0.7,M1,3712.0,0.48,0.51,-0.07,4.77,0.22991488,0.44188789,173.354,15.549,64.69157821555294,29.96277

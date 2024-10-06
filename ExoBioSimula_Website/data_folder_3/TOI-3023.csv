@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-3023 b,TOI-3023,1,1,2023.0,3.9014971,0.0505,16.432,197.05361,0.0,1474240.0,1596.0,0.24486205571339872,7.166289262666282,0.4,0.6,G3,5760.0,1.67,1.12,0.085,[Fe/H],4.05,1.3799861065414118,1.9880766374469503,389.916,12.252,17.36451201399895

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 109271 b,HD 109271,2013,7.8543,0.08146875,4.31,17.162,0.25,450089.71520000004,1073.5214,nan,1.1818012953283998,9.072023123647455,0.45,0.55,G5,5783.0,1.29,1.05,0.1,4.28,1.3438407,2.3695294,55.8716,8.04,20.189095523511618,17.037535000000002

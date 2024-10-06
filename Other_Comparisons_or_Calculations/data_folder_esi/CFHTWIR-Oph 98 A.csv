@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CFHTWIR-Oph 98 b,CFHTWIR-Oph 98 A,2021,8040000.0,200.0,20.849,2479.0616,nan,4.8026277039999994e-05,3.4920842,nan,1.5081342563291658,56.0025304465287,0.45,0.55,M9,2320.0,0.24,0.01,nan,3.85,0.039335869,0.07963046,nan,nan,16.583625251541715,4.4671746

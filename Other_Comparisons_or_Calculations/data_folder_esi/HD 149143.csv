@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 149143 b,HD 149143,2005,4.07182,0.053007391,13.6,422.7139,0.0167,1084046.0720000002,1353.4874,nan,0.9264845431993548,22.44189382442995,0.45,0.55,G0,5856.0,1.44,1.2,0.29,4.25,1.4155736,2.4913109,73.2801,7.89,20.927697542457036,6.7319209

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-4137 b,TOI-4137,2022,3.8016122,0.05222,13.574,457.67291,0.0,1370456.224,1435.2623,85.7,1.0088812410362353,24.391039441215728,0.45,0.55,F9,6202.0,1.44,1.31,0.182,4.24,1.5355853,2.6817571,334.993,11.31,15.427916058180688,6.7152419000000005

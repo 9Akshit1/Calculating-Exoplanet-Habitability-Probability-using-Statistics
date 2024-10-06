@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 204313 b,HD 204313,2010,2041.1154,3.200925,12.9,1466.7781,0.1,169.6299168,151.10291,72.917,3.767069742005528,86.55173690272774,0.3,0.7,G5,5767.0,1.1,1.03,0.18,4.37,1.0672486,1.8826288,47.7945,7.99,25.00010022800706,18.191059000000003

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 20868 b,HD 20868,2008,380.85001,1.2171875,13.7,397.2875,0.75,673.9111984,184.74704,nan,0.8518273380229064,20.785216753622304,0.5,0.5,K3,4802.0,0.76,0.39,0.05,4.26,0.54446232,0.99338605,47.7223,9.92,21.669682432587344,34.418372000000005

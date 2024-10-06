@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 134060 c,HD 134060,2019,1291.5646,2.4072764,5.91,29.29,0.11,343.85045920000005,180.22582,nan,0.7822855415332498,8.234461457713973,0.4,0.6,G3,5966.0,1.16,1.09,0.14,4.43,1.1272643,1.9786188,24.0125,6.29,19.6877703442137,34.403663

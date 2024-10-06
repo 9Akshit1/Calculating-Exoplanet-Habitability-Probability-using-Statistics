@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 143 b,GJ 143,2019,35.61253,0.19488419,2.61,22.7,0.188,7780.636296000001,391.33331,89.33,7.0390282743992945,32.72168305587445,0.25,0.75,K4,4640.0,0.7,0.73,0.003,4.61,0.45744698,0.84055522,16.32,8.08,54.743700795020374,41.165237999999995

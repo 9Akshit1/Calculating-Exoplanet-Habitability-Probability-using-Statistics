@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 26161 b,HD 26161,2021,10942.29,14.374399,11.9,9045.3965,0.922,85.32786336000001,93.297208,59.558,29.593415990792668,627.2266131012734,0.4,0.6,G0,6057.62,1.46,1.12,-0.009,4.16,1.4692505,2.5735605,40.9128,6.89333,15.518191617571638,13.635864

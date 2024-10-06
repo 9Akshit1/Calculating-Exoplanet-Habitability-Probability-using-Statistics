@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 156279 b,HD 156279,2011,133.40355,0.60707086,12.5,2997.7575,0.647,5057.050928,320.85569,nan,8.462035319319549,188.39408510633146,0.25,0.75,G6,5453.0,0.95,0.94,0.14,4.46,0.81892353,1.4580106,36.1945,8.07,26.529801245856305,27.282173

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-984 c,KOI-984,2022,21.512,0.15729174,14.1,209.8,0.38,32399.8716,546.76947,nan,0.4126259340080543,10.362345055504196,0.4,0.6,G9,5295.0,0.82,0.93,0.12,4.54,0.67303227,1.2046372,252.667,12.795,20.79261103211922,10.613321000000001

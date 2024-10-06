@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-421 c,TOI-421,2020,16.06819,0.12027353,5.09,16.42,0.152,52511.090560000004,632.23389,88.353,0.6864804604738495,6.223409512038245,0.4,0.6,G9,5325.0,0.87,0.85,-0.02,4.49,0.71668765,1.2814413,74.7969,9.931,18.95377462587469,17.762407

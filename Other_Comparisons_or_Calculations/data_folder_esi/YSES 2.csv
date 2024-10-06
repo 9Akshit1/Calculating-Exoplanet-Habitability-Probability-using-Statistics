@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+YSES 2 b,YSES 2,2021,nan,115.0,12.7,2002.319,nan,0.06716503208,21.35506,nan,5.3892766754034644,121.90362428182787,0.3,0.7,K1,4749.0,1.19,1.1,nan,4.25,0.81084979,1.4827923,109.406,10.885,25.0,7.0176535

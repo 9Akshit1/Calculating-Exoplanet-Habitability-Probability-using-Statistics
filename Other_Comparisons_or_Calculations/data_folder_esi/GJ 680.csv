@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 680 b,GJ 680,2022,17281.665,10.873821,12.0,7977.493,0.381,0.4382199752,33.152841,21.984,25.452536455025072,543.9947781601742,0.4,0.6,K5,3563.0,0.46,0.46,nan,4.77,0.18113589,0.35073166,9.67315,10.129,15.518191617571638,7.407121699999999

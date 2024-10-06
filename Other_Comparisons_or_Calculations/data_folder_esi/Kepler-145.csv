@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-145 b,Kepler-145,2013,22.951,0.18892721,2.65,37.1,0.43,247826.408,901.29136,88.39,10.991188656496595,51.87677300355603,0.25,0.75,G0,6022.0,1.85,1.32,-0.001,4.02,2.0774991,3.641843,566.85,11.977,46.69404229760789,23.102614

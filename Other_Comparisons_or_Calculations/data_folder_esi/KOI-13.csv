@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-13 b,KOI-13,2011,1.763588,0.036410007,16.948,2949.4624,0.00064,9596163.536,2334.7445,86.77,3.340379983726677,100.83161997161122,0.3,0.7,A8,7650.0,1.74,1.72,0.2,4.2,2.686189,4.6338488,519.096,9.791,15.000000000000004,5.4224004

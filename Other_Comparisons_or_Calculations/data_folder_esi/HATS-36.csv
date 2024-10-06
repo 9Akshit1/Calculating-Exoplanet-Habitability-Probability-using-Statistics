@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-36 b,HATS-36,2018,4.175186,0.052588304,12.92,1022.1413,0.105,820243.6488,1259.7917,87.61,2.6129540347995763,60.12799196181162,0.45,0.55,G0,5950.0,1.1,1.1,0.15,4.4,1.2048961,2.1156754,856.436,14.364,11.58196124071523,7.083995

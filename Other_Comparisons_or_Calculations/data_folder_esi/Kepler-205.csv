@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-205 b,Kepler-205,2014,2.75564,0.032,1.51,2.89,0.0,146973.4728,821.3433,85.06,4.6278084569087605,12.446141649418058,0.3,0.7,M1,4321.0,0.55,0.59,-0.125,4.74,0.33892892,0.63207906,159.72,13.779,61.065245389687576,29.114630000000002

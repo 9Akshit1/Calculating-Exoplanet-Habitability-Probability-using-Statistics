@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-105 b,WASP-105,2017,7.87288,0.075,10.761,572.094,0.0,228779.1184,917.42185,89.7,2.5311499441200698,48.51241797234209,0.45,0.55,K2,5070.0,0.9,0.89,0.28,4.2,0.96180845,1.735818,169.272,12.049,11.640325970042236,8.7499908

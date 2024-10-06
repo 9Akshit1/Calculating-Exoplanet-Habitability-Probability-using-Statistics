@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 103891 b,HD 103891,2022,1919.0,3.4271235,13.2,918.5241,0.31,817.30322,220.11404,27.4,2.201796294961357,51.76467414407397,0.45,0.55,F9,6072.0,2.22,1.28,-0.19,3.79,2.3078861,4.0412666,55.5213,6.59451,18.218888720492096,36.743631

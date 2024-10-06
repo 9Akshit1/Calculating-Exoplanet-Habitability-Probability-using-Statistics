@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 191806 b,HD 191806,2016,1603.3892,2.8113597,12.5,2966.6103,0.213,410.4607704,187.18271,66.519,8.374113362157265,186.43663916628324,0.25,0.75,K0,6010.0,1.4,1.07,0.3,4.45,1.3991335,2.4533345,65.6668,8.09,22.335298039360755,28.820855

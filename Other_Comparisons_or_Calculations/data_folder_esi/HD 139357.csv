@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 139357 b,HD 139357,2008,1124.7914,2.9634516,12.1,6315.5683,0.099,10455.098328,423.39487,103.235,19.65462217735166,423.57711377151185,0.4,0.6,K4,4700.0,11.47,2.69,-0.13,2.9,8.1999552,15.027295,112.09,5.97272,15.518191617571638,19.051383

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 14810 c,HIP 14810,2006,147.747,0.55573172,13.6,416.3573,0.1566,4464.633704,341.30567,nan,0.9125524448053794,22.104421736844532,0.45,0.55,G5,5544.0,1.07,1.01,0.24,4.22,0.95275953,1.6914505,50.48,8.520001,22.43501590612697,28.274808

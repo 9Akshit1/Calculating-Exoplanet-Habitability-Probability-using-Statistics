@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 125390 b,HD 125390,2019,1757.3915,4.1190029,11.9,8646.204,0.597,1845.40236,253.82856,84.685,28.287395882895293,599.5457745940361,0.4,0.6,G7,4882.0,6.47,1.82,-0.11,3.04,3.6386572,6.6165203,153.647,8.21,35.47465652978705,39.300276000000004

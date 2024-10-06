@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 44219 b,HD 44219,2010,472.0,1.365903,14.1,184.34048,0.41,1709.0794959999998,260.69398,90.0,0.36255320655621087,9.104860159472212,0.4,0.6,G3,5752.0,1.32,1.2,0.03,4.21,1.2842706,2.2663691,52.9051,7.69,56.02054308276915,38.130001

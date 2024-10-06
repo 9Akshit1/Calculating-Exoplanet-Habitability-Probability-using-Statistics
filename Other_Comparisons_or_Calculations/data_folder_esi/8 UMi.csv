@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+8 UMi b,8 UMi,2015,93.4,0.490882,13.6,416.3573,0.06,301251.968,982.09581,nan,0.9125524448053794,22.104421736844532,0.45,0.55,K0,4847.0,10.3,1.44,-0.03,2.57,7.2797697,13.256864,162.552,6.83295,21.003494080752496,7.078082300000001

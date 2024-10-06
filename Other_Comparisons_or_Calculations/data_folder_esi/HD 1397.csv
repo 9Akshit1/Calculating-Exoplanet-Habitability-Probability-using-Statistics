@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 1397 b,HD 1397,2018,11.53533,0.1131556,11.5,131.89945,0.251,533649.4752,1120.1002,88.99,0.4781430395841835,9.793503776074154,0.4,0.6,G5,5521.0,2.34,1.32,0.29,3.82,2.0632848,3.6655826,79.5702,7.79,19.332837084102007,7.9278070000000005

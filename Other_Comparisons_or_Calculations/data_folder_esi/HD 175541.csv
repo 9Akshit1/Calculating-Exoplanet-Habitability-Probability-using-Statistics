@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 175541 b,HD 175541,2007,298.43,0.98089875,14.1,190.06234,0.11,12364.40396,441.33453,nan,0.37380672336633164,9.387471635541266,0.4,0.6,G8,5013.0,4.19,1.39,-0.07,3.33,2.9059924,5.2562678,129.603,8.020001,19.217528857970397,16.467184000000003

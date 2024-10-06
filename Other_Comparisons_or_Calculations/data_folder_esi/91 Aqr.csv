@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+91 Aqr b,91 Aqr,2013,181.4,0.70025515,13.1,1017.0,0.027,136615.876,806.36357,nan,2.49410906282046,58.19278641905385,0.45,0.55,K0,4665.0,11.0,1.4,-0.03,2.52,7.0618245,12.961591,44.0304,4.23946,11.58208763324281,7.875270500000001

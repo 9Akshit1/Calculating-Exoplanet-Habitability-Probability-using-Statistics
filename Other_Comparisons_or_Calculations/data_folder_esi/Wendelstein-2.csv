@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Wendelstein-2 b,Wendelstein-2,2020,1.7522239,0.023438013,12.993,232.33373,0.057,364597.64,1030.1572,87.87,0.5839724030400217,13.514008232843718,0.4,0.6,K6,4591.0,0.66,0.73,nan,4.53,0.3865009,0.71176118,565.541,16.186,25.16448131189412,7.2702462

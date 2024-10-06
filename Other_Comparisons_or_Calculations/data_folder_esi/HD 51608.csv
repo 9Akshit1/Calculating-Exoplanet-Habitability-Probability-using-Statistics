@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 51608 c,HD 51608,2019,95.9446,0.38463282,3.87,14.31,0.14,5397.781656,358.22791,nan,1.3611786017686864,9.382282274008398,0.45,0.55,G7,5358.0,0.92,0.8,-0.07,4.36,0.73543688,1.3134851,35.0553,8.17,23.195759853749895,40.65742

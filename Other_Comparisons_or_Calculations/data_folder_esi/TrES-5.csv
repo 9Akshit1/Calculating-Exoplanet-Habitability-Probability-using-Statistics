@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TrES-5 b,TrES-5,2011,1.4822469,0.024601066,13.384,568.9157,0.03,1019101.3391999999,1332.5883,84.27,1.3082733944980898,31.186515561632646,0.45,0.55,K1,5171.0,0.87,0.9,0.2,4.52,0.66202724,1.1902351,360.313,13.677,19.028979230719106,6.835564099999999

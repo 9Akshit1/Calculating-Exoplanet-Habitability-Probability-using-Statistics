@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1853 b,TOI-1853,2023,1.2436258,0.021309585,3.46,73.2,0.03,1109111.5384,1361.0857,84.7,9.742965376070227,60.04124300863111,0.25,0.75,K2,4985.0,0.81,0.84,0.11,4.49,0.60377486,1.093305,165.105,12.178,47.65374974432739,19.398013

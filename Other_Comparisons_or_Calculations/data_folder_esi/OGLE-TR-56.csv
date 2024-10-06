@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+OGLE-TR-56 b,OGLE-TR-56,2002,1.2119189,0.029178644,15.278,441.77,0.67,7222301.624000001,1954.3635,77.6,0.6829754258699788,18.584633459007716,0.4,0.6,F8,6050.0,1.74,1.17,0.25,4.09,1.3989365,2.4508058,282.83914,15.3,15.46700971341173,5.9624429

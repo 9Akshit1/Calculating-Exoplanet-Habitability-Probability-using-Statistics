@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-345 b,Kepler-345,2014,7.415563,0.066,0.74,0.5,0.0,99873.67672,745.72335,89.05,6.80272977240871,8.965971542016034,0.25,0.75,K4,4504.0,0.62,0.61,0.191,4.68,0.5728214,1.0590922,260.0,14.344,51.84048808179991,30.382734

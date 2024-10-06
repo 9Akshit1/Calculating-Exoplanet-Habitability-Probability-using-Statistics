@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 88133 b,HD 88133,2004,3.414884,0.047923016,13.8,324.1866,0.031,1862415.8239999998,1549.3726,15.0,0.6800896647365394,16.715819698118537,0.4,0.6,G5,5392.0,2.2,1.26,0.34,3.88,1.7227757,3.0733577,73.6123,8.01852,20.51348102838516,6.5902976

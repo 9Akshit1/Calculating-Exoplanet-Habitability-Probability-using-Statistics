@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD-210397 b,BD-210397,2023,1891.0,2.64315,14.0,214.0,0.1,26.65690984,95.137049,nan,0.4299698870474002,10.72132579093171,0.4,0.6,K7,4051.0,0.75,0.68,0.12,4.67,0.37689999,0.71222773,23.7324,9.84,19.584756909142687,8.466022500000001

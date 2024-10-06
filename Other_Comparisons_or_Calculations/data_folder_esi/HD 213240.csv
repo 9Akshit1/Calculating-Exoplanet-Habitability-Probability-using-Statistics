@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 213240 b,HD 213240,2001,882.70001,2.056698,12.8,1655.886,0.42,1126.5672744,234.4697,63.0,4.353202800563497,99.24332043268728,0.3,0.7,G0,5979.0,1.51,1.57,0.15,4.27,1.5387966,2.7001413,40.8707,6.81,40.2778197021762,39.173942000000004

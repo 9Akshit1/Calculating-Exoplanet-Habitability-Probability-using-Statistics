@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 202206 c,HD 202206,2004,1260.0,2.468322,12.2,5689.157,0.22,260.182212,166.92069,7.7,17.273359083720287,375.33498657094293,0.4,0.6,G6,5766.0,1.04,1.07,0.3,4.5,0.99035679,1.7470382,45.9665,8.08,15.637189925283105,23.164856

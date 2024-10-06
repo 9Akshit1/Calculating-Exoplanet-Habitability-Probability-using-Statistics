@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-458 c,KIC 9663113,2016,20.740284,0.154,4.2,16.4,0.0,355220.0456,1024.0929,88.27,1.2204060483865282,9.129270143887851,0.45,0.55,F9,6117.21,2.22,1.15,0.144,3.81,2.3174788,4.0541777,1594.74,14.027,15.20570956953858,17.431837

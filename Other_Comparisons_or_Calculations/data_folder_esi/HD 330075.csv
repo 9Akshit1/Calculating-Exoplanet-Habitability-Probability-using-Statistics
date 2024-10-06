@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 330075 b,HD 330075,2004,3.38773,0.04,14.3,152.5584,0.0,397574.86559999996,1053.3428,nan,0.28763146109190296,7.325796350311263,0.4,0.6,K1,5000.0,0.84,0.47,0.05,4.26,0.67852367,1.2279247,45.2989,9.36,19.13788326640622,6.6710213000000005

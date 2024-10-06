@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-29 b,WASP-29,2010,3.92273,0.045720565,8.631,73.1009,0.03,194492.13119999997,880.77945,88.8,0.6268270772943279,9.635877759300842,0.4,0.6,K3,4800.0,0.79,0.77,0.11,4.5,0.54702238,0.99814209,87.5953,11.331,21.100947648804187,10.55127

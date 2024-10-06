@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1669 c,Kepler-1669,2021,1.6093201,0.0228,1.901,4.27,0.0,411783.7648,1062.6305,89.89,3.4268090007376184,11.60257628467205,0.3,0.7,K6,4224.0,0.6,0.61,-0.2,4.66,0.40534342,0.75948992,543.444,16.473,58.572975166850355,26.401850999999997

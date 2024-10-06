@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 2952 b,HD 2952,2013,312.08,1.1574136,13.9,284.77425,0.269,66335.04992,663.85003,nan,0.5846079143533223,14.473111484892806,0.4,0.6,K0,4853.0,10.9,1.91,0.0,2.65,7.6472028,13.922474,110.103,5.9258,20.34221956017884,8.5993753

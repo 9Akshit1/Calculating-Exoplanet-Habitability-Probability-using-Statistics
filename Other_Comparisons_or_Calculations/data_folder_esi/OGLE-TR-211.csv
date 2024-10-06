@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+OGLE-TR-211 b,OGLE-TR-211,2007,3.67724,0.051,15.244,327.351,0.0,966937.8456,1315.4205,87.2,0.5094777546742607,13.832688049064426,0.4,0.6,F8,6325.0,1.64,1.33,0.11,4.17,1.2504016,2.1787508,1515.26,15.364,15.25074309459817,6.1036721

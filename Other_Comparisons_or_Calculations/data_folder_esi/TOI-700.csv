@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-700 b,TOI-700,2020,9.977219,0.067890406,0.914,0.704,0.075,6816.892968,380.76101,89.6,5.083261436849569,8.275058237174267,0.3,0.7,M2,3459.0,0.42,0.42,-0.07,4.81,0.15688173,0.30533402,31.1265,13.151,66.85618707148849,52.704018

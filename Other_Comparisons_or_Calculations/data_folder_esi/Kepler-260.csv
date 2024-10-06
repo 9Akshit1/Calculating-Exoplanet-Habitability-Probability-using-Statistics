@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-260 c,Kepler-260,2014,76.050178,0.332,1.74,3.68,0.0,9983.038384,419.3056,89.99,3.8513097430854275,11.935486154301342,0.3,0.7,K0,5250.0,0.86,0.92,0.03,4.49,0.88121405,1.5797619,627.365,14.253,54.95828952912901,42.953897000000005

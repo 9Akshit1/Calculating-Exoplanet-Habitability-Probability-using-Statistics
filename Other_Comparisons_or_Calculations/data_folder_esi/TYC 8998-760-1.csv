@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TYC 8998-760-1 b,TYC 8998-760-1,2020,nan,162.0,12.3,4449.62,nan,0.023741539040000002,16.466155,nan,13.183051958254296,288.80419144595504,0.4,0.6,K3,4573.0,0.95,1.0,nan,4.29,0.68381867,1.2603171,94.6177,11.124,15.518191617571638,7.2155412000000005

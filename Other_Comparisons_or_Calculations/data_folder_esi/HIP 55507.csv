@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 55507 b,HIP 55507,2022,5138.4373,5.3936724,12.6,2585.5341,0.362,8.13571516,69.023985,135.022,7.126019543698331,159.91896521093466,0.25,0.75,M0,4171.0,0.72,0.65,nan,4.53,0.38675985,0.72654824,25.4893,9.8,21.68201174607107,7.699844000000001

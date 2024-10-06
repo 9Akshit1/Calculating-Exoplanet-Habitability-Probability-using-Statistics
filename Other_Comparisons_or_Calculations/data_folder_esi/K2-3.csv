@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-3 c,K2-3,2015,24.646729,0.13585633,1.582,2.68,0.048,4343.902832,340.406,89.84,3.731846149441578,10.515081106804734,0.3,0.7,MV,3844.0,0.55,0.55,-0.157,4.7,0.2497981,0.47694149,44.0727,12.168,66.20684065732412,59.721168999999996

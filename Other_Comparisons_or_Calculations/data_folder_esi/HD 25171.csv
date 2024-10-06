@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 25171 b,HD 25171,2010,1802.29,2.9736204,13.9,290.81445,0.042,291.1501328,173.22098,nan,0.5970077318377927,14.78009320108045,0.4,0.6,F8,6125.0,1.23,1.08,-0.12,4.26,1.27882,2.236795,55.6146,7.77,15.420302260366233,23.560304000000002

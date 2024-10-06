@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-22 b,HATS-22,2017,4.7228124,0.050406805,10.682,870.8542,0.079,122074.86072,783.18073,87.96,3.939091820159533,74.94300354830968,0.3,0.7,KV,4803.0,0.69,0.76,0.0,4.64,0.4758271,0.86812226,229.518,13.397,28.198441933719163,9.3546131

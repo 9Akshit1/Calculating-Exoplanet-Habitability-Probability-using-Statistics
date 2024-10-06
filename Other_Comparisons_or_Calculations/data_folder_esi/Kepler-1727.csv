@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1727 b,Kepler-1727,2021,9.0292997,0.0796,3.173,10.2,0.0,120423.92408000001,781.43557,89.94,1.7603471843685907,9.948344563685618,0.45,0.55,G9,5349.0,0.82,0.82,-0.12,4.53,0.72989464,1.3039847,894.187,15.751,20.88534658294736,21.674152

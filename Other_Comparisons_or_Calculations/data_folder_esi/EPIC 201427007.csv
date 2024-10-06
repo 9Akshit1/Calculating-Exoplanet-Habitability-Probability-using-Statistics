@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+EPIC 201427007 b,EPIC 201427007,2021,0.72091,0.015355287,1.5,2.86,nan,5152559.648,1998.5763,88.5,4.671976294034017,12.481716272823842,0.3,0.7,G5,5633.0,0.94,0.93,-0.053,4.4,0.90620857,1.6045408,706.391,14.321,54.51579513933185,27.925568000000002

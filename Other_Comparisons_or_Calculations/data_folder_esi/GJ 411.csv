@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 411 b,GJ 411,2019,12.9394,0.078946359,1.45,2.69,0.063,4280.16276,339.0442,nan,4.864706550265994,12.563396512853714,0.3,0.7,M1,3719.0,0.37,0.39,-0.362,4.9,0.14421782,0.2770843,5.675773,7.49,68.4953095217104,61.154459

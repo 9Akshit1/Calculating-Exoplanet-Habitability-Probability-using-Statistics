@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-167 c,Kepler-167,2014,7.406106,0.0684,1.674,3.44,0.0,84028.518,714.20298,88.48,4.042969416759976,12.054198156386773,0.3,0.7,K4,4884.0,0.75,0.78,0.02,4.58,0.53629295,0.97511214,341.908,14.284,56.658319017335636,29.259681999999998

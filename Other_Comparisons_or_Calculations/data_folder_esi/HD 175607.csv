@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 175607 b,HD 175607,2015,29.01,0.16579843,2.94,8.98,0.11,26993.592800000002,536.46301,nan,1.948241185115379,10.20169809508623,0.45,0.55,G6,5392.0,0.7,0.71,-0.62,4.64,0.7115882,1.2694427,40.3303,8.6,16.496143122873384,27.206327

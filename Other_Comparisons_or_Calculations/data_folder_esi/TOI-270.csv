@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-270 d,TOI-270,2019,11.379573,0.072136915,2.133,4.78,0.032,5080.3174,354.08235,89.73,2.715586898742191,10.316609138967584,0.45,0.55,M3,3506.0,0.38,0.39,-0.2,4.87,0.14431898,0.28023341,22.4793,12.603,29.406624104025177,51.80918

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD+48 738 b,BD+48 738,2011,392.6,1.02,13.9,289.2253,0.2,67983.46376,672.20576,nan,0.5937453945053457,14.699327664462526,0.4,0.6,K0,4414.0,11.0,0.74,-0.2,2.24,7.109544,13.200271,871.493,9.139,20.370278696573326,8.5492126

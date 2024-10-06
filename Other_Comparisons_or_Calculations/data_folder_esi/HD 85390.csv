@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 85390 b,HD 85390,2009,799.52,1.544625,6.16,31.46517,0.5,357.82213360000003,173.06901,nan,0.7421579098937476,8.14253153812299,0.4,0.6,K1,5186.0,0.8,0.76,-0.07,4.41,0.64422756,1.1575933,33.5225,8.54,21.710132687931864,34.436228

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 12648 b,HD 12648,2015,133.60001,0.540432,13.4,622.9468,0.04,264301.176,950.84424,nan,1.4273975226241722,34.066863763311396,0.45,0.55,G5,4835.0,11.02,0.67,-0.57,2.18,7.5222286,13.705315,182.192,6.98656,17.776454902769544,7.2330904

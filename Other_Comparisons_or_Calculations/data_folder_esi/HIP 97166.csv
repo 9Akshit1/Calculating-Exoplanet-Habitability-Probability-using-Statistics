@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 97166 b,HIP 97166,2021,10.28891,0.0901392,2.74,20.0,0.16,81169.01191999999,704.62014,nan,5.360270194902347,26.158911057637486,0.3,0.7,K0,5198.0,0.84,0.9,0.27,4.41,0.67107124,1.2052978,65.9501,9.92,54.176994127537796,24.117893000000002

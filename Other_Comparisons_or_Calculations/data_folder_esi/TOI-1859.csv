@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1859 b,TOI-1859,2023,63.48347,0.39174565,9.752,68.6,0.57,43711.433600000004,564.7016,88.64,0.40780393528554454,7.083167658959153,0.4,0.6,F8,6341.0,1.36,1.29,0.12,4.29,1.5908658,2.7712178,224.385,10.33,13.530618436013064,12.093196

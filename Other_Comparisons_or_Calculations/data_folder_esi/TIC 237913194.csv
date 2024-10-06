@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TIC 237913194 b,TIC 237913194,2020,15.168865,0.14065322,12.52,617.22586,0.575,136549.3448,749.61794,87.0,1.7339617034552475,38.665732934348995,0.45,0.55,G3,5788.0,1.09,1.03,0.14,4.38,1.0392429,1.8322048,306.063,12.144,17.09330148326587,8.1586221

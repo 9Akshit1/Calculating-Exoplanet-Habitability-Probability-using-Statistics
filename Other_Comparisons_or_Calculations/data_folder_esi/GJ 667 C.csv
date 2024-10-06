@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 667 C e,GJ 667 C,2013,62.24,0.2130426,1.45,2.7,0.02,411.02342960000004,188.86394,nan,4.8827909612335265,12.610100589109678,0.3,0.7,M1,3350.0,0.42929613,0.33,-0.55,4.69,0.12150901,0.23775302,7.24396,10.602,69.44356313687524,59.946584

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 204941 b,HD 204941,2011,1733.0,2.7245475,10.1,73.1009,0.37,69.73133711999999,117.95589,nan,0.3911712943341096,7.0367280578146865,0.4,0.6,K1,5026.0,0.78,0.58,-0.19,4.42,0.55147048,0.99697137,28.7165,8.45,18.516498628686094,13.787179

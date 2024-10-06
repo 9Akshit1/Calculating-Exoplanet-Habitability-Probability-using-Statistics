@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 87646 b,HD 87646,2016,13.481,0.11714625,12.4,3941.092,0.05,907216.0704000001,1294.0137,nan,11.396195531255014,251.68886016047543,0.4,0.6,G3,5770.0,1.55,1.12,-0.17,4.1,2.8720191,5.0658418,73.58352,8.07,15.518191617571638,7.323392200000001

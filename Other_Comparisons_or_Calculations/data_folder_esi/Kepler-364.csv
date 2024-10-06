@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-364 b,Kepler-364,2014,25.745718,0.178,1.55,3.02,0.0,96316.10303999999,738.99195,88.22,4.471160119643934,12.343386780064177,0.3,0.7,G0,6108.0,1.28,1.19,-0.031,4.27,1.3955964,2.4419144,891.462,13.754,54.4546058902025,29.586871999999996

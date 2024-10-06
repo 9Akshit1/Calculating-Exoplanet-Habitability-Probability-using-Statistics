@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-90 b,WASP-90,2016,3.916243,0.0562,18.271,200.2329,0.0,1836818.5839999998,1544.2996,82.1,0.1809909497604483,5.8898141808098785,0.4,0.6,F6,6430.0,1.98,1.55,0.11,4.03,1.8872907,3.2827216,466.433,11.618,13.170629012834763,5.1251405

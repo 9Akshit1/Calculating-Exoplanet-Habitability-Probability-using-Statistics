@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-111 b,Kepler-111,2014,3.341815,0.046,1.58,3.12,0.0,1006985.5616,1328.8342,86.96,4.3610564439116315,12.27244830250993,0.3,0.7,G1,5952.0,1.16,1.17,0.28,4.38,1.1773257,2.0671671,657.223,13.543,54.43997403321653,27.710648

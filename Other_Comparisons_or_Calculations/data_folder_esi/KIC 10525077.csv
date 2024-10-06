@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KIC 10525077 b,KIC 10525077,2015,854.083,1.7671908,5.5,25.9,nan,586.1004320000001,206.39919,89.861,0.8582623671192038,8.407467095865565,0.5,0.5,G0,6091.0,1.01,1.01,-0.04,4.42,1.0819582,1.8938124,1461.15,15.592,24.665884362609198,43.545203

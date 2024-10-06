@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HATS-67 b,HATS-67,1,1,2018,1.6091788,0.03032,18.887,460.8535,0.057,5196560.0,2193.0,79.03,nan,0.37712239535351094,12.68608803055538,0.4,0.6,F6,6594.0,1.44,1.44,0.332,[Fe/H],4.28,1.5704503048267577,2.2624688368221815,960.109,13.698,15.04405133342784

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+2MASS J02192210-3925225 b,2MASS J02192210-3925225,2015,nan,156.0,16.141,4417.837,nan,0.0003290710808,5.6498564,nan,5.791975953258943,166.50972530021988,0.3,0.7,M6,3064.0,0.28,0.11,nan,4.59,0.079866127,0.15841033,40.089641,nan,25.0,5.6534469

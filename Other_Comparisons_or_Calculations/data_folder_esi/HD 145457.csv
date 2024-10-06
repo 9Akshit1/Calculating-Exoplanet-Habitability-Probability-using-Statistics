@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 145457 b,HD 145457,2010,176.13,0.7666943,13.2,888.01257,0.111,106492.99799999999,756.02593,nan,2.1286570341541533,50.04515539863535,0.45,0.55,K0,4757.0,9.9,1.9,-0.14,2.77,6.7421067,12.324947,135.292,6.57226,11.603336371027432,8.1211631

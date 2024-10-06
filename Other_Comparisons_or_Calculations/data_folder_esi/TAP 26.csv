@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TAP 26 b,TAP 26,2017,10.79,0.0968,13.5,527.5978,nan,81618.42255999999,709.02579,nan,1.1822519661882356,28.426685857576008,0.45,0.55,K4,4620.0,1.17,1.04,-0.199,4.5,0.7562661,1.3908804,121.402,12.5,19.55862043736081,8.38455

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 187123 c,HD 187123,2008,3810.0,5.0452673,13.4,632.46,0.252,78.7350716,123.43594,nan,1.4491957213021787,34.5871086515637,0.45,0.55,G3,5790.0,1.15,1.04,0.09,4.33,1.0994228,1.938201,45.9548,7.83,17.674259370499,12.404599

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-3819 b,TOI-3819,2023,3.2443141,0.04611,13.137,352.78953,0.0,1606751.328,1493.4894,82.79,0.8578976190884229,20.073082944004533,0.5,0.5,G2,5859.0,1.54,1.24,0.273,4.16,1.4991789,2.6382511,558.141,12.542,15.06562405600537,6.895515100000001

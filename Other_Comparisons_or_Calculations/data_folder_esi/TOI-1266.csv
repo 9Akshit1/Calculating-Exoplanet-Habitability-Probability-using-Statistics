@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1266 b,TOI-1266,2020,10.894843,0.07389808,2.37,13.5,0.09,6630.546584,377.95532,89.5,5.591098005014911,23.600862120211403,0.3,0.7,M3,3600.0,0.42,0.45,-0.5,4.85,0.16779788,0.32430852,36.0118,12.941,67.38387576700434,45.212485

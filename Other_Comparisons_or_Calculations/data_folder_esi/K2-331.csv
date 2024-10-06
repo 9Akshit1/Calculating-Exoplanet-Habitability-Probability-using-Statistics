@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-331 b,K2-331,2021,9.398977,0.089955463,1.79,3.86,nan,192523.5312,878.69051,nan,3.7105354593606243,11.829653770690554,0.3,0.7,G0,5994.0,1.06,1.1,0.08,4.43,1.0041152,1.7613232,211.43,11.305,54.35888746374985,27.463286999999998

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 82886 b,HD 82886,2011,705.0,1.583871,13.3,740.5439,0.07,7590.866792000001,391.19022,nan,1.7354186506391969,41.109133064370276,0.45,0.55,G0,4953.0,5.26,2.53,-0.31,3.4,3.7070526,6.7213075,127.061,7.62,16.86442622701228,21.756088000000002

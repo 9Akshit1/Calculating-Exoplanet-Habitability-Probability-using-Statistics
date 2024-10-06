@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-28 b,HATS-28,2016,3.1810781,0.042152807,13.384,213.58176,0.202,566858.7304,1142.0952,86.17,0.4911506821802885,11.708010311406223,0.4,0.6,G7,5498.0,0.92,0.93,0.01,4.48,0.8065513,1.433929,535.383,13.981,19.973573072860734,6.949063

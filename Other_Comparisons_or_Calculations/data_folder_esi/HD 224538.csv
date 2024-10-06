@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 224538 b,HD 224538,2016,1202.052,2.644059,12.7,2075.7373,0.476,809.1012231999999,213.40508,91.125,5.586883316372147,126.37341998301758,0.3,0.7,F8,6097.0,1.54,1.23,0.27,4.19,1.6015902,2.802997,79.0608,8.06,26.871919236129983,36.998234000000004

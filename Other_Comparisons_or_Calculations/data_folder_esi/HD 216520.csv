@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 216520 c,HD 216520,2020,154.43,0.5318016,3.03,9.44,0.12,1735.48444,270.01655,nan,1.8709082208259764,10.09665527233525,0.45,0.55,K2,5103.0,0.76,0.82,-0.16,4.54,0.58664595,1.0574062,19.552,7.53,54.64326490108276,63.363284

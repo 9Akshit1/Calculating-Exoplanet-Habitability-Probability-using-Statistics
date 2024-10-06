@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 169142 b,HD 169142,2023,nan,37.2,13.1,953.48522,nan,5.76040512,64.987262,13.0,2.338344275779115,54.558467808441094,0.45,0.55,F1,7246.0,1.54,1.85,nan,4.28,2.1263589,3.6681058,113.6,8.156,6.585561626479874,7.2737373

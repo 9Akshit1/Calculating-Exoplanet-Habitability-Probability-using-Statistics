@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 164595 b,HD 164595,2015,40.0,0.23089056,4.16,16.14,0.088,26839.311680000003,536.13623,nan,1.2360382571919248,9.158148056678161,0.45,0.55,G2,5790.0,1.02,0.99,-0.04,4.44,0.96864526,1.7076498,28.254,7.08597,20.325344635320842,22.817463

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-185 b,WASP-185,2019,9.38755,0.09300352,14.011,311.4734,0.24,442674.3968,1070.1077,86.8,0.6243411196405442,15.580216514171106,0.4,0.6,G0,5900.0,1.5,1.12,-0.02,4.13,1.5162544,2.665589,279.35,11.101,20.45696582782775,6.7512295

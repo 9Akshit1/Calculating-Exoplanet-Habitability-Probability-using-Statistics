@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-849 b,TOI-849,2020,0.76552414,0.01598,3.444,39.09,0.0,3223928.1440000003,1777.507,86.8,5.27575496824455,32.361614196378476,0.3,0.7,G9,5373.8,0.92,0.93,0.19,4.48,0.75712386,1.351498,225.734,11.981,51.77318885492192,19.35372

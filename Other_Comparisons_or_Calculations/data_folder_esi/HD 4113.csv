@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 4113 b,HD 4113,2007,526.5239,1.7972486,13.5,541.26178,0.899,2310.445928,220.74713,nan,1.212870492688833,29.162893755001285,0.45,0.55,G5,5688.0,1.08,1.01,0.2,4.4,1.0551534,1.865329,41.8727,7.88,28.538391582908915,36.351916

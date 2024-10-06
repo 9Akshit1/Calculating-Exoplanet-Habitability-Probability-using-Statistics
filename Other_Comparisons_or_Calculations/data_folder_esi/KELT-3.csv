@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-3 b,KELT-3,2013,2.70339,0.04123,17.486,616.5902,0.0,3373744.9280000003,1797.8069,84.14,0.6358191002909916,19.801881668143608,0.4,0.6,F8,6304.0,1.7,1.96,0.05,4.2,1.8905879,3.2954614,210.252,9.816,15.345434778326565,5.2974685

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 8326 b,HD 8326,2019,158.991,0.54366,9.58,66.6,0.2,1573.797576,262.20358,nan,0.4176246036148017,7.1258061264719785,0.4,0.6,K2,4914.0,0.78,0.8,0.04,4.55,0.56534187,1.0266589,30.6862,8.76,60.0757197149331,42.425121

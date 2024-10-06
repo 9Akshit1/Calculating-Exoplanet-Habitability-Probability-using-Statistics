@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 215497 c,HD 215497,2009,566.0,1.4546895,13.0,111.23994,0.47,349.30090399999995,173.21145,90.0,0.2791509200205401,6.4634565334823995,0.4,0.6,K3,5113.0,0.9,0.92,0.23,4.31,0.6154009,1.1088142,40.5468,8.96,22.02489011372059,26.368409

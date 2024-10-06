@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 69830 b,HD 69830,2006,8.667,0.0788925,3.17,10.2,0.1,133654.01088,800.55785,nan,1.7653497467920907,9.967183147879147,0.45,0.55,K0,5385.0,0.89,0.86,-0.05,4.49,0.75491413,1.3470484,12.5591,5.96004,20.786502331601763,21.548968

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 50499 c,HD 50499,2019,8619.9,9.02,13.2,931.2419,0.0,39.73066464,105.31651,nan,2.232282163454148,52.48140304953165,0.45,0.55,G1,6099.0,1.42,1.31,0.38,4.42,1.4371377,2.5150768,46.2845,7.21,11.590722641692077,9.782711500000001

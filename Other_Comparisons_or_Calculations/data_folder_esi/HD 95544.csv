@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 95544 b,HD 95544,2021,2041.5415,3.1698008,12.8,1913.6448,0.049,408.3561296,188.48598,86.497,5.03083177383212,114.69175056782035,0.3,0.7,G0,5722.0,1.09,1.01,0.11,4.07,1.6536216,2.9205545,87.8049,8.39,25.664528843860108,28.559250000000002

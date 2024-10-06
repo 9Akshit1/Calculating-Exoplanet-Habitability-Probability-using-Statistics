@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-52 b,HAT-P-52,2015,2.7535953,0.0369808,11.31,259.98494,0.047,494339.5184,1111.8374,87.02,0.9907606543285111,19.957850859897498,0.45,0.55,K1,5131.0,0.89,0.89,0.28,4.48,0.69384662,1.2493056,361.155,14.107,21.84346632582,8.0621694

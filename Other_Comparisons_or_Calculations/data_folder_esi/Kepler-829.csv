@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-829 b,Kepler-829,2016,6.8833756,0.0678,2.11,5.1,0.0,324399.0048,1001.1171,89.82,2.9931686284266275,11.248537401981398,0.4,0.6,G4,5698.0,0.97,0.98,0.03,4.46,1.0001322,1.7675657,1073.76,14.973,19.733803739717462,25.476271

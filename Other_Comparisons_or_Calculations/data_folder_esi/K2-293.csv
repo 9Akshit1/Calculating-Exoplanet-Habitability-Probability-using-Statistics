@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-293 b,K2-293,2019,13.1225,0.10738519,2.45,6.57,nan,77920.21264,700.85393,88.8,2.4630628335153104,10.747909280399975,0.45,0.55,G7,5532.0,0.95,0.96,0.218,4.52,0.78394237,1.3922597,392.251,13.44,15.974580972785564,25.52842

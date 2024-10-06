@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+K2-261 b,K2-261,1,1,2018,11.633478,0.1034,9.528,59.75174,0.286,244800.0,1046.0,88.07,nan,0.38084975956402606,6.4630549878982615,0.4,0.6,G8,5445.0,1.64,1.09,0.36,[Fe/H],4.04,1.753314797870545,2.5259125227518004,213.283,10.612,18.342841091903544

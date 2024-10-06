@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-711 b,Kepler-711,2016,23.589144,0.1429,3.41,11.5,0.0,21109.32976,505.63089,86.86,1.5989801702619053,9.71135597194585,0.45,0.55,K0,5222.0,0.8,0.84,-0.04,4.56,0.55236168,0.99122089,624.575,15.635,23.45592374876627,26.815562999999997

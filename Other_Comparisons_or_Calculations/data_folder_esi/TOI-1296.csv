@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1296 b,TOI-1296,2021,3.9443715,0.049775171,13.798,94.71287,0.055,1353580.2152,1430.0109,88.81,0.19877828967135158,4.885033055920437,0.4,0.6,G6,5603.0,1.66,1.17,0.44,4.05,1.5048486,2.6668433,323.265,11.37,17.874959742304036,6.6204338

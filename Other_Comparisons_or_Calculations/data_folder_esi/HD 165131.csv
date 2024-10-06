@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 165131 b,HD 165131,2023,2342.6,4.3364516,12.1,5943.3912,0.6708,177.1496288,137.4917,70.0,18.496373238208296,398.6156701861655,0.4,0.6,G3,5870.0,1.06,1.06,0.06,4.39,1.0400726,1.8298127,57.4263,8.42,15.518191617571674,19.064559

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-462 c,Kepler-462,2020,207.62,0.76298832,4.0,6.0,0.11,20062.53368,498.10517,89.63,0.5168680067427275,3.6823245123059847,0.4,0.6,A9,7500.0,1.57,1.59,0.05,4.22,2.550566,4.3998904,596.625,11.632,7.537078875510487,25.093961999999998

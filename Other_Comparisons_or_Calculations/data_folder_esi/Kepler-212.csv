@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-212 b,Kepler-212,2014,16.257582,0.133,1.09,1.32,0.0,185710.1488,870.81097,89.61,5.619566461397856,10.909672824944927,0.3,0.7,G2,5852.0,1.46,1.17,0.116,4.18,1.4707462,2.5886721,687.194,13.129,54.115381535927725,30.250958999999998

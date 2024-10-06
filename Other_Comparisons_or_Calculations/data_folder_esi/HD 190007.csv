@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 190007 b,HD 190007,2020,11.724128,0.092850816,4.06,15.5,0.136,33885.75864,567.15435,nan,1.2769149507868958,9.233586504686315,0.45,0.55,K4,4610.0,0.79,0.77,0.16,4.58,0.46114747,0.84849752,12.7141,7.46,24.476976071940484,21.983177

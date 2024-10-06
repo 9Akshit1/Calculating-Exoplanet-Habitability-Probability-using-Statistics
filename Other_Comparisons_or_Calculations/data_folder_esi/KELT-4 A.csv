@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-4 A b,KELT-4 A,2016,2.9895932,0.04317,19.044,286.68266,0.0,2501351.9839999997,1668.2406,83.16,0.22884176121907912,7.762039903311071,0.4,0.6,F9,6206.0,1.6,1.2,-0.116,4.11,1.7146224,2.994196,218.05,9.98,13.73622023352804,4.9152311

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+2MASS J01225093-2439505 b,2MASS J01225093-2439505,2013,nan,52.0,11.209,7786.5,nan,0.009583678192000001,13.124961,nan,30.48246297357239,608.5543074954676,0.4,0.6,M3,3530.0,0.37,0.4,nan,4.86,0.14295243,0.27725059,33.8281,14.244,15.518191617571638,7.826807500000001

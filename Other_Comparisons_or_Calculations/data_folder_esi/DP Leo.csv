@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+DP Leo b,DP Leo,2009,10220.0,8.8128495,12.7,1995.8883,0.39,0.0876594596,22.138595,nan,5.371968333667449,121.5121154180209,0.3,0.7,B7,13500.0,0.01,0.69,nan,nan,0.055416178,0.09559647,305.684,18.6837,15.0,7.0192739

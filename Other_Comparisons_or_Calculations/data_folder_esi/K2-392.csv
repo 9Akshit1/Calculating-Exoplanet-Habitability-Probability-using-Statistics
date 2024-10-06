@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-392 b,K2-392,2022,15.398723,0.11426832,1.85,4.08,nan,116328.80359999998,774.70578,nan,3.552657596342724,11.705972445256132,0.3,0.7,G3,5726.0,1.06,0.84,-0.238,4.31,1.0077026,1.7795649,406.985,12.922,54.332862457148934,27.776009000000002

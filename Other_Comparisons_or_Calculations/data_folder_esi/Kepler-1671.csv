@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1671 b,Kepler-1671,2020,4.16787,0.0491,1.326,2.32,0.0,305756.6552,986.4134,89.33,5.486126118152604,12.956620187122514,0.3,0.7,K1,5135.55,0.93,0.87,0.25,4.44,0.72554314,1.3061533,357.059,13.439,54.936039834163694,29.218342000000003

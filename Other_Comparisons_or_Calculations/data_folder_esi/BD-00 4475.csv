@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+BD-00 4475 b,BD-00 4475,2021,723.2,1.592554,12.0,7961.6016,0.39,301.1918152,169.49666,13.31,25.40183425599821,542.9111246091582,0.4,0.6,G0,5040.0,0.84,0.81,-0.14,4.25,0.66180073,1.1957744,42.6402,9.01,18.092823794939108,25.092463

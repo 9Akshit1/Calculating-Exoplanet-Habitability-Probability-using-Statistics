@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-328 b,Kepler-328,2013,34.921,0.2199,2.3,28.5,0.0,77461.95384,699.8212,89.96,12.914265969408167,52.90296085732606,0.4,0.6,G0,6064.0,1.06,1.15,0.08,4.44,1.5503387,2.715219,2213.19,15.794,15.526578002049565,26.265248000000003

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 89839 b,HD 89839,2023,3441.0,4.8442437,12.9,1592.3203,0.187,144.8344648,144.55812,49.5,4.089494942494141,93.95973915241339,0.3,0.7,F7,6314.0,1.29,1.21,0.04,4.49,1.4168897,2.4693248,57.3063,7.64,20.000000000000806,16.78336

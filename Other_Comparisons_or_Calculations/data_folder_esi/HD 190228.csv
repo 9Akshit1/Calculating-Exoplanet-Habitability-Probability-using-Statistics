@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 190228 b,HD 190228,2022,1143.5986,2.7819146,12.9,1598.6769,0.559,1410.27988,240.10234,94.987,4.105820353626221,94.33482981595401,0.3,0.7,G5,5360.0,2.59,1.42,-0.24,4.02,2.1726892,3.8801451,62.7146,7.3,38.990516574680626,39.449919

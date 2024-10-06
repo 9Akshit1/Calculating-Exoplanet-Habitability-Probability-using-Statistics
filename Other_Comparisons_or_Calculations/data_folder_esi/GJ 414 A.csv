@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 414 A c,GJ 414 A,2021,749.83,1.4077175,8.4,53.83,0.105,83.11706095999999,126.39665,nan,0.500719951102491,7.491289814717729,0.4,0.6,K7,4120.0,0.68,0.65,0.24,4.65,0.35359543,0.66591395,11.8893,8.31,19.250434501177,16.255617

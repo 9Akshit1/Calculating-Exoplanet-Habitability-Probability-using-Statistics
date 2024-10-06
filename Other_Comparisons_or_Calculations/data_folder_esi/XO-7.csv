@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+XO-7 b,XO-7,2019,2.8641424,0.04424192,15.39,225.34147,0.038,1878502.04,1552.5666,83.45,0.34082672236444567,9.342318615654394,0.4,0.6,G0,6250.0,1.48,1.41,0.432,4.25,1.5170879,2.6470284,234.149,10.521,19.20454865640741,5.9801296

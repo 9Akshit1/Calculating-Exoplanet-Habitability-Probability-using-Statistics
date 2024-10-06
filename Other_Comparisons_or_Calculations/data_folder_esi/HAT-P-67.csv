@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-67 b,HAT-P-67,2017,4.8101025,0.06505,23.371,108.0622,0.0,2792828.816,1714.8497,88.8,0.04667134246473228,1.9427190790853128,0.4,0.6,F7,6406.0,2.55,1.64,-0.08,3.85,2.6974547,4.6937221,371.686,10.106,12.091421800994,4.0661917999999995

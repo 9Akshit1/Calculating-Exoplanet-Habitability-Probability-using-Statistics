@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 102272 b,HD 102272,2008,127.58,0.5106375,12.9,1570.0802,0.05,240404.2352,928.42477,nan,4.03237654962396,92.64739389453808,0.3,0.7,K0,4790.0,10.3,1.45,-0.41,2.58,6.787202,12.389781,347.097,8.69,25.0000000000021,7.5186955

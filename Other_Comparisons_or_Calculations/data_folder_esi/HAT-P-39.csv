@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HAT-P-39 b,HAT-P-39,2012,3.54387,0.0509,17.609,190.372,0.0,2123749.752,1601.3668,87.0,0.1922238921725226,6.02871115744756,0.4,0.6,F7,6430.0,1.62,1.4,0.19,4.07,1.8379717,3.1969368,697.004,12.282,13.212179513453597,5.2887862

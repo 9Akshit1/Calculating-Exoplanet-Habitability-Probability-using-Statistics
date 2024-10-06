@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 536 b,GJ 536,2016,8.7076,0.066823152,2.17,5.36,0.08,12907.860096,446.5869,nan,2.8919711931742103,11.177279554862821,0.45,0.55,M1,3685.0,0.5,0.52,-0.08,4.75,0.2117138,0.40745557,10.4092,9.71,27.61404297617593,37.099671

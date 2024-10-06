@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 110014 b,HD 110014,2009,835.477,2.3683851,12.4,3524.59,0.462,67428.97136,646.74807,nan,10.191824196823141,225.08990899806705,0.25,0.75,K2,4445.0,20.9,2.17,0.19,2.1,14.401143,26.699616,100.758,4.64597,21.68201174607107,9.2737573

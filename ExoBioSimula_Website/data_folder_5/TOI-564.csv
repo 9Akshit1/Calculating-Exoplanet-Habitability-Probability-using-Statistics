@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-564 b,TOI-564,1,1,2020,1.651144,0.02734,11.433,464.98529,0.072,1935280.0,1714.0,78.38,nan,1.7154062104103047,34.93088574770747,0.45,0.55,G5,5640.0,1.09,1.0,0.143,[Fe/H],4.36,1.2474491509114256,1.7971373056396909,199.581,11.097,17.612007332264017

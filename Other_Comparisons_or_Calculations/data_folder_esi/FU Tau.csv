@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+FU Tau b,FU Tau,2008,nan,800.0,12.2,5085.28,nan,0.0004249706512,6.022887,nan,15.439874041314221,335.49496006341263,0.4,0.6,M7,2838.0,nan,0.05,nan,nan,0.46654716,0.93488441,133.49505,nan,15.518191617571638,7.2658307

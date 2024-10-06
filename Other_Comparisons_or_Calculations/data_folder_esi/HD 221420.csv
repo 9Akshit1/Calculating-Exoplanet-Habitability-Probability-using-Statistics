@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 221420 b,HD 221420,2019,10066.0,10.17272,12.0,6992.2249,0.12,53.83265696,113.31741,14.0,22.3089959676535,476.80816934863446,0.4,0.6,G1,5847.0,1.95,1.34,0.33,4.03,1.8952622,3.3362884,31.1415,5.82,15.518191617571638,11.414659

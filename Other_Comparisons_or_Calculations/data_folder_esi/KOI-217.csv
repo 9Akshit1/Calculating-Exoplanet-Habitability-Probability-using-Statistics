@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-217 b,KOI-217,2010,3.90512,0.0477,12.442,103.74918,0.0,405043.9448,1058.2555,89.8,0.296976754221067,6.58104817662999,0.4,0.6,G7,5545.0,0.86,0.95,0.12,4.53,0.79333788,1.4083834,914.699,15.257,18.556028583436543,7.500757900000001

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-81 d,Kepler-81,2014,20.837846,0.128,1.21,1.92,0.0,10718.128719999999,426.81996,89.18,5.975214388943457,12.87719520729912,0.3,0.7,M0,4500.0,0.59,0.65,-0.18,4.7,0.3639821,0.67309289,348.291,15.258,62.71341706553378,44.802915999999996

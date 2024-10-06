@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 30856 b,HD 30856,2011,847.0,1.8534419,13.5,491.68301,0.061,3944.61812,332.21003,nan,1.10177336848988,26.49161627811451,0.45,0.55,K0,4895.0,4.4,1.17,-0.06,3.2,3.1382427,5.7034976,131.199,7.91,19.813013573996855,29.979826

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1807 b,TOI-1807,2021,0.549372,0.00812,1.258,2.57,0.0,4399738.312,1921.1961,77.7,7.117042749884137,15.946399213135779,0.25,0.75,K3,4757.0,0.68,0.75,-0.029,4.65,0.46322887,0.84680824,42.5775,10.0,54.458610366424644,28.872659

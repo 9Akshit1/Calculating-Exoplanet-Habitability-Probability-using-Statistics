@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+WASP-69 b,WASP-69,2014,3.86814,0.04525,12.442,92.1707,0.0,226100.612,914.72472,86.71,0.2638339437505309,5.8465986639480905,0.4,0.6,K5,4700.0,0.86,0.98,0.15,4.5,0.5865587,1.0749315,49.9605,9.873,19.42902855833556,7.783146100000001

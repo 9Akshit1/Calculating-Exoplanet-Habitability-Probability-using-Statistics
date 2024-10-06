@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 112570 b,HD 112570,2023,2615.0,3.978,13.1,1086.9732,0.2,4048.3129519999998,332.06257,54.0,2.6657125950471543,62.19665611684908,0.45,0.55,K0,4750.0,9.85,1.15,-0.4,2.51,6.6822443,12.219218,101.166,6.11055,11.58118453203755,29.874725

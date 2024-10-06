@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 147379 b,HD 147379,2017,86.58,0.31993365,4.94,21.6,0.063,1069.0663112,239.68585,nan,0.9878278789948596,8.691418147684141,0.45,0.55,M0,4090.0,0.63,0.58,0.16,4.61,0.28995179,0.54686504,10.7643,8.61,36.487270976509436,52.33912899999999

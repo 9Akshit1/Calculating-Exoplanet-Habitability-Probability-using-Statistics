@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-28 c,Kepler-28,2011,8.9858,0.081,3.4,432.23,0.0,37287.980879999996,582.91764,89.98,60.62985509312955,367.1536618117685,0.4,0.6,M0,4590.0,0.7,0.75,0.34,4.29,0.4282198,0.78862442,438.359,15.13,20.448264999098164,23.785955

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-115 b,K2-115,2017,20.272615,0.1444014,12.06,266.9772,0.14,48102.22624,618.93763,88.82,0.8391519827302599,18.024795641963703,0.5,0.5,G4,5657.0,0.88,0.95,-0.1,4.53,0.8102395,1.433624,413.591,13.444,15.583813185617556,10.272244

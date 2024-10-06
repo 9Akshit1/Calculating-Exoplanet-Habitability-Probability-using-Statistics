@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-348 c,K2-348,2018,12.550171,0.099304451,2.67,7.61,nan,56441.88088,646.5697,nan,2.2042418676704094,10.48221166936406,0.45,0.55,K1,5077.0,0.85,0.83,0.13,4.5,0.63232204,1.1408713,201.856,12.572,16.84138367465876,25.328655

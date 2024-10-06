@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Pr0201 b,Pr0201,2012,4.4264,0.06,14.2,171.6282,0.0,664104.4696000001,1197.496,nan,0.33046996091148245,8.35800737767578,0.4,0.6,F9,6174.0,1.15,1.24,0.19,4.41,1.2303057,2.1497989,180.64,10.445,13.915723267647579,6.565610500000001

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-719 b,Kepler-719,2016,5.0073178,0.0556,8.52,54.5,0.0,1234210.7576000001,1398.1775,87.87,0.4858319727716063,7.372386648764434,0.4,0.6,G2,5777.0,0.98,0.99,-0.02,4.45,1.5922255,2.8079408,2497.51,16.128,18.61827605138986,10.011966999999999

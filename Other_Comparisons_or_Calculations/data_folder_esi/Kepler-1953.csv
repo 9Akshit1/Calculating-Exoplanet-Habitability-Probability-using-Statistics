@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1953 b,Kepler-1953,2021,6.2456598,0.0607,1.286,2.2,0.0,86528.96776,719.45786,87.87,5.703062743031298,13.062657348424542,0.3,0.7,K3,4858.0,0.71,0.79,-0.02,4.62,0.4835111,0.88009453,605.631,15.936,57.80515287894404,30.908979

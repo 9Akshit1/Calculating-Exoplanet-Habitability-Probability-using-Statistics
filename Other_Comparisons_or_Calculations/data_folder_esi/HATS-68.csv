@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HATS-68 b,HATS-68,2018,3.5862202,0.05074286,13.809,410.0007,0.036,2068394.0799999998,1590.4416,83.21,0.8584327615683178,21.11304776258072,0.5,0.5,F9,6147.0,1.75,1.35,0.21,4.08,1.8374984,3.2125338,603.955,12.312,9.897112044272253,6.578732800000001

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-16 b,CoRoT-16,2011,5.35227,0.06516501,13.11,170.032,0.33,138547.5112,792.15401,85.01,0.41603604836915214,9.714401991968233,0.4,0.6,G5,5650.0,1.19,1.1,0.19,4.36,0.58048765,1.0273114,732.409,16.052,21.00127288203774,7.856107199999999

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+AB Aur b,AB Aur,2022,nan,101.412,12.5,2860.4557,0.4,9.932717432,72.106581,42.6,8.074461380798455,179.76535279744638,0.25,0.75,A0,9770.0,2.96,2.4,nan,3.77,6.7474017,11.639702,162.127,7.076,11.682011746071067,7.889747

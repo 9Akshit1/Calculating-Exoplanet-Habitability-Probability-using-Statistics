@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2152 A b,TOI-2152,2023,3.3773512,0.050722265,14.359,899.45439,0.057,2389231.136,1648.2178,86.42,1.675000472179797,42.83724636263407,0.45,0.55,F4,6630.0,1.61,1.52,0.282,4.21,1.9157501,3.3225842,303.006,11.436,11.765556756752334,6.3450898

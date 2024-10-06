@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KELT-7 b,KELT-7,2015,2.73477,0.04415,17.934,441.7837,0.0,3996478.5919999997,1875.5747,83.76,0.42226643954385734,13.487956247632452,0.4,0.6,F4,6768.0,1.81,1.76,0.0,4.5,2.1456543,3.715095,136.681,8.56,15.1939206353396,5.1702258

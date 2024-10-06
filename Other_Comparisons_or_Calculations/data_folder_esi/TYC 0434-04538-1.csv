@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TYC 0434-04538-1 b,TYC 0434-04538-1,2021,193.2,0.662112,12.7,1938.763,0.08,146502.5728,819.69772,nan,5.218214587703182,118.03425744025276,0.3,0.7,K4,4679.0,9.99,1.04,-0.38,2.49,6.8813941,12.622582,613.422,10.247,25.0,7.9975992

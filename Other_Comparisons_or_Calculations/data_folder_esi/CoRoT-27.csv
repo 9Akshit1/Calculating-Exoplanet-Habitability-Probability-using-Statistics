@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+CoRoT-27 b,CoRoT-27,2014,3.57532,0.047700555,11.287,3302.11,0.065,410434.9984,1060.917,86.7,12.660892920868463,254.52197088036243,0.4,0.6,G2,5900.0,1.08,1.05,-0.1,4.4,0.77942096,1.3702291,1010.28,15.774,15.738684790252345,8.1364856

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-97 b,Kepler-97,2014,2.58664,0.035618,1.48,3.51,0.0,1012045.0608000001,1330.5002,87.61,5.9693953752886415,15.735280056238135,0.3,0.7,G2,5779.0,0.98,0.94,-0.2,4.43,0.92353279,1.6285933,400.907,12.994,54.98206219810408,28.163376

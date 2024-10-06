@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 40956 b,HD 40956,2017,578.6,1.44032,13.2,858.141,0.24,32973.511439999995,559.04617,nan,2.0570518229782255,48.36170246885169,0.45,0.55,K0,4869.0,8.56,2.0,0.14,3.02,6.7794421,12.334379,116.593,6.42794,11.619322525810345,10.950081

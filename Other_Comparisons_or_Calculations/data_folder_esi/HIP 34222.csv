@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 34222 b,HIP 34222,2021,159.986,0.51488415,13.9,263.79758,0.305,546.7780176,199.19435,nan,0.5415452873820357,13.407011992077683,0.4,0.6,K7,4050.0,0.62,0.62,nan,4.65,0.31241809,0.59040559,22.8386,10.14,34.94014183354225,31.755782999999997

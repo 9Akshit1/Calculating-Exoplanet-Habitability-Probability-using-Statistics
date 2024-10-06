@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 3929 c,GJ 3929,2022,15.04,0.081,2.26,5.71,0.0,2257.193904,289.13935,nan,2.7272136712932142,10.977666204749614,0.45,0.55,M3,3384.0,0.32,0.31,-0.02,4.89,0.10825469,0.21146837,15.8095,12.675,31.33020239697918,67.52644

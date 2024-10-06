@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+alf Ari b,alf Ari,2010,380.8,1.2375,13.4,572.07,0.25,83789.72783999999,705.15347,nan,1.3108202831567803,31.284582813616748,0.45,0.55,K2,4553.0,13.9,1.5,-0.16,2.49,9.3704238,17.286001,20.21019,2.00538,18.42235081159363,8.385448

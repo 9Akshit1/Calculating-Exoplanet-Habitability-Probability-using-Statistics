@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 3222 b,GJ 3222,2022,10.66669,0.13026837,3.4,11.44182,0.929,248405.292,676.32588,nan,1.6049693186536602,9.719145156030653,0.45,0.55,K0,5257.46,0.93,0.89,0.16,4.43,0.73267138,1.3131189,18.23817,6.9,20.99407202268937,20.129517999999997

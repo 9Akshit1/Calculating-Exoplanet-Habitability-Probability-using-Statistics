@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 208487 b,HD 208487,2004,130.08,0.5390912,14.2,165.265,0.24,8948.6742,403.50233,nan,0.3182176244348897,8.048130139869716,0.4,0.6,G2,6067.0,1.2,1.13,0.022,4.33,1.2369354,2.1661925,45.147,7.47,18.889854547691915,19.49957

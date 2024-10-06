@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 154391 b,HD 154391,2023,5163.0,7.6092,12.5,2892.2385,0.2,950.4420384,231.1441,47.0,8.16417750231491,181.76274302267888,0.25,0.75,K1,4909.0,8.56,2.07,0.1,2.89,6.1504983,11.171577,100.947,6.1552,22.049265903898977,38.474638

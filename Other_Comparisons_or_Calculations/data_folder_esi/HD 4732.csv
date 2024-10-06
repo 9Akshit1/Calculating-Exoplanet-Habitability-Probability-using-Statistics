@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 4732 b,HD 4732,2012,371.74,1.1689418,13.4,631.20722,0.266,14523.99624,454.24996,nan,1.4463251470117366,34.518598329999485,0.45,0.55,K0,4898.0,5.03,1.39,-0.01,3.17,3.6110002,6.5618826,54.7841,5.9,17.68737218337633,15.491039

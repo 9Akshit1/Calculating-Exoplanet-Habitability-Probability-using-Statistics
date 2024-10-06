@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 107773 b,HIP 107773,2015,144.3,0.722916,13.4,629.3034,0.09,195271.99599999998,880.46708,nan,1.441962803467276,34.4144848221207,0.45,0.55,K1,4945.0,11.6,2.42,0.03,2.6,8.5642737,15.533034,105.18,5.62,17.707499915875648,7.4246862

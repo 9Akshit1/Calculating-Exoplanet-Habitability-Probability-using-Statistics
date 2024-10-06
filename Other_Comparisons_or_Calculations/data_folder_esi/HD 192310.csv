@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 192310 b,HD 192310,2011,74.72,0.322704,4.27,16.9,0.13,5151.57596,354.25331,90.0,1.1967720944490208,9.101683843743436,0.45,0.55,K3,5166.0,0.86,0.8,-0.04,4.51,0.61022163,1.0972988,8.79687,5.73,25.052482013885232,39.830874

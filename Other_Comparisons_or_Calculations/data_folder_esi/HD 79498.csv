@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 79498 b,HD 79498,2011,1807.0,3.4726313,13.6,425.8922,0.575,200.5726096,146.75249,nan,0.9334505923963424,22.610629868222656,0.45,0.55,G5,5748.0,1.05,1.08,0.18,4.37,0.98573612,1.7397295,48.9489,8.05,20.888436224612967,19.477728

@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-2180 b,TOI-2180,1,1,2022.0,260.79,0.828,11.321,875.61726,0.3683,3685.6,348.0,3.32711886679181,67.08656015688817,0.3,0.7,G4,5695.0,1.64,1.11,0.253,[Fe/H],4.06,1.745495316940228,2.514647389515433,116.685,9.162,25.04538018241837

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1634 b,Kepler-1634,2016,374.87624,1.0525,3.19,10.3,0.0,666.9521872,213.17617,89.84,1.7493372742822622,9.939090608190211,0.45,0.55,G8,5474.0,0.89,0.92,0.02,4.51,0.71322457,1.2689707,617.339,14.636,35.21190427811466,55.83588699999999

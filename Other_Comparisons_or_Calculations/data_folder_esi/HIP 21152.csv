@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 21152 b,HIP 21152,2022,22000.0,18.1016,12.0,7627.8818,0.36,21.816327119999997,88.354527,95.3,24.33708680021684,520.1543727613462,0.4,0.6,F5,6655.0,1.59,1.4,0.13,4.3,1.8760008,3.2525964,43.4073,6.37009,10.518191617571638,9.0653881

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 145934 b,HD 145934,2015,2751.5343,4.9048754,13.4,658.54046,0.078,1291.9519104,251.20592,81.958,1.5089555338462015,36.013361226750696,0.45,0.55,K0,4823.75,6.93,2.06,0.095,3.01,4.7594819,8.6757816,227.881,8.495,32.38966569604157,39.083223000000004

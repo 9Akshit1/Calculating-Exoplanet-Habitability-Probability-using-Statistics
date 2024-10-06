@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1038 c,Kepler-1038,2021,7.1276598,0.0692,1.416,2.59,0.0,123403.28424,786.22466,89.67,5.029425489814347,12.684228253471888,0.3,0.7,K1,5159.0,0.82,0.87,0.16,4.55,0.64884903,1.1670618,584.136,15.03,55.42490551166559,29.767511000000002

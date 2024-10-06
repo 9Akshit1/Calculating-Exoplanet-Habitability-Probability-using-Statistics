@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 103949 b,HD 103949,2019,120.878,0.44692395,3.35,11.2,0.19,1939.07168,276.45727,nan,1.6424493138370828,9.799844844512245,0.45,0.55,K3,4792.0,0.75,0.77,-0.07,4.59,0.52018009,0.94948786,26.4997,8.7,43.29466946318399,59.834244999999996

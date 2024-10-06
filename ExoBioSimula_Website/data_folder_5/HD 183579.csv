@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 183579 b,HD 183579,1,1,2021,17.471278,0.1334,3.55,19.7,0.28,79016.0,769.0,89.33,nan,2.427669384851656,15.349714822176105,0.45,0.55,G2,5788.0,0.98,1.03,-0.023,[Fe/H],4.5,1.035603908550621,1.491942510492553,57.2651,8.67,16.591068750328198

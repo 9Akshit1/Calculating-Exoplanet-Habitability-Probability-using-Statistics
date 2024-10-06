@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 49674 b,HD 49674,2002,4.94737,0.060243,6.2,31.783,0.09,360580.6896,1026.3695,nan,0.7352384213712913,8.118995489047595,0.4,0.6,G5,5602.0,1.02,1.03,0.32,4.44,0.93652253,1.6597236,43.0399,8.1,18.876435672913654,13.206242000000001

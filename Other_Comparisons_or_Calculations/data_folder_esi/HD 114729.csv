@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 114729 b,HD 114729,2002,1121.79,2.0734501,13.9,262.20975,0.079,841.816472,225.68869,nan,0.5382856598537474,13.326313541957784,0.4,0.6,G0,5844.0,1.47,0.94,-0.33,4.05,1.5372632,2.7062977,37.8063,6.68,35.054674733637114,36.559184

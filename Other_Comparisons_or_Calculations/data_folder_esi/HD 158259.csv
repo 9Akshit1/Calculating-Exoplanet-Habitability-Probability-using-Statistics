@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 158259 f,HD 158259,2020,12.028,0.10538524,2.35,6.14,nan,199516.73280000003,886.56343,nan,2.608393797515929,10.917505963148935,0.45,0.55,G0,5801.89,1.21,1.08,nan,4.25,1.211584,2.1352667,27.0498,6.47915,15.699175504112588,24.650846

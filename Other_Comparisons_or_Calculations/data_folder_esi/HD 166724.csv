@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 166724 b,HD 166724,2012,5144.0,6.8800288,13.0,1207.7479,0.734,21.11421624,78.414115,68.0,3.03078136717689,70.17466977287695,0.3,0.7,K0,5127.0,0.8,0.81,-0.09,4.43,0.54872081,0.98814824,45.1342,9.33,25.000003923054063,8.4992504

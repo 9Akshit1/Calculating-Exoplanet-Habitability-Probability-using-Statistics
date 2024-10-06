@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-180 b,Kepler-180,2014,13.817124,0.109,1.5,2.86,0.0,84466.77528,715.13241,83.04,4.671976294034017,12.481716272823842,0.3,0.7,G3,5731.0,1.06,0.95,0.03,4.34,0.81884668,1.4458543,695.65,14.488,54.71123688098177,30.085021

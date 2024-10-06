@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Gl 49 b,Gl 49,2019,13.8508,0.096462547,2.24,5.63,0.363,8808.94916,395.88188,nan,2.7616759273657263,11.018009674895138,0.45,0.55,M1,3805.0,0.51,0.52,0.13,4.69,0.22929464,0.43864959,9.8528,9.56,27.694076782540954,41.559614

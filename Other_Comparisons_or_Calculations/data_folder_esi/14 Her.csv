@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+14 Her b,14 Her,2002,1765.0389,2.9669719,12.6,2559.4722,0.373,133.92355064,138.79412,144.652,7.054190048683776,158.30699959058921,0.25,0.75,K0,5338.0,0.93,0.91,0.405,4.45,0.81756416,1.4611575,17.9323,6.61935,21.68203538540145,16.301977

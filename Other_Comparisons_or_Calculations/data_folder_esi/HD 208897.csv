@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 208897 b,HD 208897,2017,358.27,1.0632126,13.7,379.48712,0.02,14810.14296,462.72421,nan,0.8136613994741321,19.853939639198007,0.5,0.5,K0,4860.0,4.98,1.25,0.21,3.13,3.5024175,6.3746221,67.4872,6.50821,15.095252937177094,15.198041000000002

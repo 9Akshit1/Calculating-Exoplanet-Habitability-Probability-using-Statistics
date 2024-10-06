@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2202 c,TOI-2202,2021,24.6744,0.15574069,13.4,117.27868,0.0622,22400.36416,512.81792,84.7,0.2687280796508354,6.413576269917419,0.4,0.6,K8,5144.0,0.79,0.82,0.04,4.55,0.62083557,1.1173001,235.933,13.004,20.287445158320697,12.659734

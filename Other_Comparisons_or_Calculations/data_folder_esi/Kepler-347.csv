@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-347 b,Kepler-347,2014,12.79836,0.11,1.97,4.54,0.0,247032.1816,935.19756,86.06,3.2739010474955874,11.487200244526905,0.3,0.7,G0,6088.0,1.01,1.05,0.16,4.47,1.3828976,2.4207182,1298.88,14.567,54.25932512762754,26.349265

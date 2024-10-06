@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1967 b,Kepler-1967,2021,7.2816901,0.0735,0.73,0.315,0.0,68228.25016,677.96307,84.96,4.464268920524204,5.804377163327129,0.3,0.7,K2,4970.0,1.81,1.0,0.32,3.92,0.51722888,0.93715217,249.102,13.519,55.34198184435095,31.162826

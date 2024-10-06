@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 9714 b,GJ 9714,2022,19240.755,12.466982,12.5,2988.5405,0.155,1.1848643952,43.566799,155.326,8.436017677953238,187.81484269515406,0.25,0.75,K5,4263.0,0.66,0.67,nan,4.62,0.36884833,0.68980212,20.5121,9.37,21.68201174607107,7.2052618

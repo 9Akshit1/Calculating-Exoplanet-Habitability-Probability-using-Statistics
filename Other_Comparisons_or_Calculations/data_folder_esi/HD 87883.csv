@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 87883 b,HD 87883,2009,3309.2212,5.0684438,12.8,1719.1338,0.707,39.537264480000005,92.985571,25.446,4.5194766262311346,103.03399302854388,0.3,0.7,K0,4980.0,0.8,0.81,0.093,4.55,0.57740144,1.0457575,18.2912,7.56,25.0,9.9627798

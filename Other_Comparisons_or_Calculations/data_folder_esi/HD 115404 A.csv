@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 115404 A b,HD 115404 A,2022,10.49488,0.090368256,6.09,30.82936,0.232,54523.98576,634.41874,nan,0.7525251270191922,8.162453403415517,0.4,0.6,K2,5019.17,0.73,0.83,-0.157,4.63,0.54471018,0.9850147,10.9816,6.50066,21.287759185683658,15.725957

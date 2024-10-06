@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-558 b,TOI-558,2021,14.574071,0.1348323,12.173,1147.3606,0.298,301217.7232,965.86608,86.24,3.5068358747963186,76.03183627668214,0.3,0.7,FV,6466.0,1.5,1.35,-0.004,4.22,1.7116745,2.9755785,402.63,11.233,20.000000198231195,7.763848299999999

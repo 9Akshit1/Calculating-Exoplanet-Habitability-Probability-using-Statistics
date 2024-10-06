@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-4329 b,TOI-4329,2022,2.9223,0.046291646,16.813,143.02278,0.068,4022962.008,1877.0429,nan,0.16591205820322327,4.968274474573095,0.4,0.6,G0,6000.0,2.31,1.54,0.29,3.9,2.3530134,4.1268671,717.128,12.724,17.89906104960037,5.4828121

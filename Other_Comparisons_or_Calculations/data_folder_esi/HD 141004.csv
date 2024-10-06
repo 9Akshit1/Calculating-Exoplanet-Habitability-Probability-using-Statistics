@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 141004 b,HD 141004,2021,15.5083,0.12538464,3.77,13.63484,0.16,199401.75840000002,882.14451,nan,1.4029247271082055,9.420156909731324,0.45,0.55,G0,5885.38,1.39,1.05,0.025,4.17,1.4065593,2.4736325,11.8148,4.4154,20.28973221442031,19.058228999999997

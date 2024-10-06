@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 27894 c,HD 27894,2017,36.07,0.19802227,8.24,51.48846,0.015,13528.741304000001,452.38793,nan,0.5073838527077338,7.446398433676054,0.4,0.6,K2,4894.0,0.89,0.8,0.3,4.49,0.62259578,1.1315633,43.8214,9.36,21.012330114124033,19.939132

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+KOI-142 c,KOI-142,2013,22.26492,0.15437348,14.0,214.1,0.05724,34318.46848,570.5974,93.15,0.4301708075553662,10.726335756254574,0.4,0.6,G6,5466.0,0.9,0.99,0.27,4.53,0.7488996,1.332784,376.863,13.209,20.233166210189317,10.432982

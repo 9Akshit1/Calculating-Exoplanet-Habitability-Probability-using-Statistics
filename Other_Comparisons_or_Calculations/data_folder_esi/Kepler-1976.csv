@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1976 b,Kepler-1976,2023,4.9593192,0.0565,12.21,100.48611,0.0,468211.4296,1097.3003,86.15,0.30434587292674914,6.618590285604354,0.4,0.6,G4,5712.0,1.08,0.98,0.1,4.36,1.0004497,1.7674385,1314.51,15.445,18.402867957458227,7.572470200000001

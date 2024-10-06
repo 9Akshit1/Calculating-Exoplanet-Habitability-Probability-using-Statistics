@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1914 b,Kepler-1914,2021,30.8279,0.1954,2.943,8.97,0.0,42529.45216,602.40342,89.98,1.9401264265401605,10.169572810383256,0.45,0.55,G1,5982.0,0.96,1.05,-0.04,4.49,1.0258921,1.8000181,1621.56,15.911,15.53975586684604,25.076132

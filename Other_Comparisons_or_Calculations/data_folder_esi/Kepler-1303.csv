@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1303 b,Kepler-1303,2016,7.5612722,0.0751,1.42,2.6,0.0,240026.41360000003,928.49537,89.27,5.006297906578606,12.661566794942221,0.3,0.7,G3,5771.0,1.0,1.01,0.04,4.44,0.9487706,1.6734546,897.783,14.854,54.55416291345753,29.017208

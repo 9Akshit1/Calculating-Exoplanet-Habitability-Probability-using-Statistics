@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 433 b,GJ 433,2011,7.3705,0.0620496,2.33,6.043,0.04,7081.140968,384.68957,nan,2.6338631469217635,10.93028644371914,0.45,0.55,M1,3461.0,0.5,0.48,-0.17,4.81,0.14657571,0.28524768,9.06456,9.81,29.34641621208523,44.372208

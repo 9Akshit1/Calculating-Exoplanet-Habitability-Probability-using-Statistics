@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-2010 b,TOI-2010,2023,141.83402,0.56399556,11.814,408.72733,0.212,5946.69928,365.21851,89.903,1.366630639289805,28.756136497563848,0.45,0.55,F0,5929.0,1.08,1.11,0.168,4.42,1.0740029,1.8867821,109.19,9.849,14.652041958985937,25.627349

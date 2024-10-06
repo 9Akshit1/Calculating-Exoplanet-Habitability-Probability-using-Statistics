@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 190984 b,HD 190984,2009,4885.0,6.393475,13.0,1137.8257,0.57,147.275148,136.05128,64.0,2.8553151950460873,66.11192845509612,0.45,0.55,F8,5988.0,1.53,0.91,-0.48,4.02,1.5397231,2.7012068,148.187,8.76,6.581019511639099,16.872258000000002

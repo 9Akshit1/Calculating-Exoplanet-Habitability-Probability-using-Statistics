@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1227 b,TOI-1227,2022,27.36397,0.0886,9.572,66.5,nan,435.1825376,191.59442,88.571,0.41804395707421527,7.1270048875649366,0.4,0.6,M4,3072.0,0.56,0.17,nan,4.44,0.052158883,0.10341606,100.641,16.999,33.53685830188191,32.072576000000005

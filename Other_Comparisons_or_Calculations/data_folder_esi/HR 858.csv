@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HR 858 d,HR 858,2019,11.23,0.10672584,2.164,5.32,0.28,315592.5832,979.24307,87.43,2.8943312753047334,11.15547097663089,0.45,0.55,F6,6201.0,1.31,1.15,-0.14,4.26,1.4200392,2.4800147,31.964,6.38,10.758728723404877,25.225261999999997

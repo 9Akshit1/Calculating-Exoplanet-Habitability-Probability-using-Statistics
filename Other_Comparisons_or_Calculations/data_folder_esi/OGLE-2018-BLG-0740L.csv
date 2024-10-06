@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+OGLE-2018-BLG-0740L b,OGLE-2018-BLG-0740L,2019,5480.0,5.0,12.9,1500.0,0.0,51.502136480000004,112.37541,nan,3.852392269156658,88.51209692460748,0.3,0.7,GV,5912.0,0.93003651,1.0,-0.24,4.5,0.91741996,1.6123615,3200.0,18.21,25.000000000043716,10.772524

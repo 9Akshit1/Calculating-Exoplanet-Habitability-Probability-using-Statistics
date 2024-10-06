@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 133131 A b,HD 133131 A,2016,649.0,1.518408,13.6,451.3186,0.33,668.1141984000001,208.74814,nan,0.9891789859722435,23.96051821856431,0.45,0.55,G2,5799.0,0.96,0.95,-0.306,4.39,0.93095613,1.6408188,51.4736,7.66,32.62891399069353,34.380866999999995

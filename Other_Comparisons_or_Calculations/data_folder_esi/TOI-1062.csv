@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+TOI-1062 c,TOI-1062,2021,7.972,0.080784,3.1,9.78,0.14,114197.68088,768.28068,nan,1.809931538498248,9.993238634853281,0.45,0.55,G9,5328.0,0.84,0.94,0.14,4.55,0.71163769,1.2722807,82.1733,10.249,20.993097612820467,22.031359000000002

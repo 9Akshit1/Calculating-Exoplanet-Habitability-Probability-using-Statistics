@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-304 b,Kepler-304,2014,3.295709,0.039,2.86,8.55,0.0,194719.60479999997,881.18563,88.89,2.0150062142888983,10.2641937112544,0.45,0.55,K3,4731.0,0.69,0.8,0.05,4.63,0.46855821,0.85751809,434.684,15.065,18.68497883531185,22.390635

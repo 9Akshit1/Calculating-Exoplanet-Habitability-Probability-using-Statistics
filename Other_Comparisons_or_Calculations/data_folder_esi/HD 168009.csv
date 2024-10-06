@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 168009 b,HD 168009,2021,15.1479,0.12005824,3.05,9.53485,0.12,136187.1224,803.65419,nan,1.8527751691511174,10.06479602290731,0.45,0.55,G2,5778.33,1.21,0.99,0.018,4.27,1.1297174,1.9922226,23.3032,6.295,20.474807487559204,21.991927999999998

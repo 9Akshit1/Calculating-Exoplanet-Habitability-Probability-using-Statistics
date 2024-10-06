@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-401 c,Kepler-401,2014,47.318218,0.269,2.15,5.27,0.0,69188.56928,680.33618,89.69,2.9235034452176056,11.195010019024357,0.4,0.6,F9,6117.0,1.33,1.17,0.02,4.25,1.7865754,3.1254334,965.56,13.366,14.705794231437823,27.279322

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HIP 66074 b,HIP 66074,2023,310.9,1.1580322,12.9,1589.142,0.948,1017.7689608,163.86456,13.0,4.0813322369281,93.77219382064308,0.3,0.7,K5,4300.0,0.69,0.71,0.12,4.58,0.39753993,0.74213306,35.4438,10.25,28.75900183062825,38.613977999999996

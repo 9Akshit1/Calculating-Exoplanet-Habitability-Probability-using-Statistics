@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+TOI-172 b,TOI-172,1,1,2019.0,9.47725,0.0914,10.817,1722.6386,0.3806,406640.0,1198.0,7.50381398863915,144.56771150490408,0.35,0.65,G5,5645.0,1.78,1.13,0.148,[Fe/H],3.99,1.952467182537711,2.8128213556537056,342.831,11.299,21.682011776425558

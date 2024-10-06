@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 163 c,GJ 163,2013,25.63058,0.12601452,2.5,6.8,0.099,1702.4822720000002,268.95784,nan,2.399370203033973,10.683650851703762,0.45,0.55,M3,3500.0,0.41,0.4,0.1,4.82,0.14499596,0.2816314,15.1285,11.79,55.30866847163559,68.680696

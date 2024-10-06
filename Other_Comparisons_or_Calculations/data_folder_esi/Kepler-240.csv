@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-240 c,Kepler-240,2014,7.953528,0.074,2.2,102.3,0.0,74314.82680000001,692.60217,89.24,52.968291600081166,207.54919978451915,0.4,0.6,K2,4985.0,0.74,0.75,0.18,4.63,0.54309403,0.98342516,746.927,15.953,17.761013952912958,26.855268

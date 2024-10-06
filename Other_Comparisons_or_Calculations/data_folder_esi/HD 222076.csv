@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 222076 b,HD 222076,2016,871.0,1.835856,13.5,495.8148,0.08,3459.6402160000002,321.32917,nan,1.111031968225089,26.714234902300348,0.45,0.55,K0,4806.0,4.1,1.07,0.05,3.31,2.9167094,5.3207073,91.1538,7.47,19.745710818560116,31.701125

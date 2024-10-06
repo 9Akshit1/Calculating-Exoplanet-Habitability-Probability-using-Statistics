@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+K2-319 b,K2-319,2020,26.68,0.1516,2.79,8.2,nan,34287.86984,570.82122,89.45,2.0816591369085082,10.34418399931795,0.45,0.55,G8,5440.0,0.9,0.95,nan,4.51,0.73800959,1.3145035,209.071,12.213,16.250570131019366,26.641933

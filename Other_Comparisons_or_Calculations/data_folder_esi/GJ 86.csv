@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 86 b,GJ 86,1999,15.76491,0.110088,12.9,1404.8086,0.04,45824.87088,613.56407,nan,3.6079158601898587,82.89503664248144,0.3,0.7,K1,5182.0,0.77,0.93,-0.22,4.63,0.62752242,1.1277423,10.7836,6.12,26.4212728228926,9.9732027

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+1RXS J160929.1-210524 b,1RXS J160929.1-210524,2008,nan,330.0,18.647,3000.0,nan,0.005327347528,11.332944,nan,2.5509545255638932,84.72159127721028,0.45,0.55,K7,4060.0,1.31,0.85,nan,4.0,0.67009316,1.26571,139.135,12.618,11.580988369036385,4.9538687

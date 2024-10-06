@@ -1,0 +1,2 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+HD 207897 b,HD 207897,1,1,2021,16.202159,0.1163,2.501,14.4,0.047,36040.0,632.0,88.757,nan,5.074926904908109,22.606113295993048,0.3,0.7,K1,5070.0,0.78,0.8,-0.042,[Fe/H],4.56,0.6854802346652912,0.9875369277341508,28.2938,8.37,56.19222973268191

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 102956 b,HD 102956,2010,6.4947,0.080755239,13.8,305.1168,0.037,2421527.056,1654.3438,nan,0.6400843903402724,15.732536186464506,0.4,0.6,G5,4985.0,4.55,1.66,0.19,3.38,3.3796757,6.1198576,121.89,7.86,20.468212989441213,6.572295899999999

@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+HD 102117 b,HD 102117,2005,20.8133,0.15108,8.47,54.0311,0.12,87398.91488,719.30273,nan,0.4902323344424849,7.395504060003184,0.4,0.6,G6,5655.0,1.23,1.06,0.28,4.29,1.1472676,2.0300722,39.5792,7.47,18.629136872293735,11.6296

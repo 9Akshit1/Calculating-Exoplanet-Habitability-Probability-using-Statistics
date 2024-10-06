@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+Kepler-1491 c,Kepler-1491,2023,61.569765,0.3045,2.44,6.53,0.0,33217.29824,566.31239,89.35,2.478289727649752,10.770213681518443,0.45,0.55,G5,5626.0,1.39,0.99,0.14,4.15,1.4434674,2.556337,2065.59,15.796,15.660457580295954,28.442707

@@ -1,0 +1,3 @@
+pl_name,st_name,sy_snum,sy_pnum,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_obliq,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_metratio,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability
+GJ 3929 b,GJ 3929,1,2,2022,2.616235,0.0252,1.09,1.75,0.0,23528.0,568.0,88.442,nan,7.4501828086714,14.463581396707287,0.25,0.75,M4,3384.0,0.32,0.31,-0.02,[Fe/H],4.89,0.23945383246692656,0.34496910354245436,15.8095,12.675,62.782984961548195
+GJ 3929 c,GJ 3929,1,2,2022,15.04,0.081,nan,5.71,0.0,2284.7999999999997,317.0,nan,nan,nan,nan,0.4,0.6,M4,3384.0,0.32,0.31,-0.02,[Fe/H],4.89,0.23945383246692656,0.34496910354245436,15.8095,12.675,nan

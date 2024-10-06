@@ -1,0 +1,2 @@
+pl_name,st_name,disc_year,pl_orbper,pl_orbsmax,pl_Erad,pl_Emass,pl_orbeccen,pl_insol,eq_temp,pl_inclin,pl_density,pl_gravity,pl_albedo,abs_solar_flux,star_spect,st_teff,st_rad,st_mass,st_met,st_log_gravity,HB_r_i,HB_r_o,sy_dist,sy_vmag,Probability,ESI
+GJ 1148 c,GJ 1148,2017,532.58,0.96533558,9.71,68.06,0.342,23.526646799999998,90.276215,nan,0.40986669476047266,7.088335680708139,0.4,0.6,M5,3287.0,0.36,0.34,0.16,4.87,0.12075292,0.2369947,11.0143,11.939,19.795740646760585,10.710391
